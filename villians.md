@@ -1,0 +1,3 @@
+||||
+|---|---|---|
+|**Character**| Strengths | Weaknesses |
