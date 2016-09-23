@@ -1,3 +1,5 @@
 ||||
 |---|---|---|
-|**Molen**| Mole | None, he is really good with technology <br/> and is capabe of using machinery. |
+|**Molen**| Neo-goblin | None, he is really good with technology <br/> and is capabe of using machinery. |
+|**Tornador**| Wind Golem | Can form into a cyclone or "tomatoe" <br/> and gather wind, summon lightening and pretty much <br?> is indestructible unless he tires out.
+
