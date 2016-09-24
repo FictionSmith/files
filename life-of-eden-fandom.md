@@ -1,6 +1,7 @@
 | Date | Event |
 |------------|-------------------------------------|
 | Synopsis | Born in Kalcif, circa -560, Eden would eventually rise in Dragorian politics and form one of the most powerful and largest empires <br/> in history. He was also known as the founder of the Oppressive-Council of Dragorah, or the O.C.D. Eden was Emperor of <br/> Dragorah from -120 - 1 his ambitious actions is which caused the Great Dragon War. Eden was slain by Kronos on November 27, -1 during the Clouds Height. 
+| Early Life | Eden was born in a small village near kalcif, Dragorah. He was the seventh youngest child of Xileo Crystal who was a <br/> Dragon Priest at the time. Xileo eventually was involved in the Shatter-Wulk Attack whcih caused him to become King of Kalcif. Eden's <br/> father was mostly abusive and spent no attention to his youngest son, he wanted his son's to fight like beast and not men.
 
 | Age | Year |
 |------|----------|
