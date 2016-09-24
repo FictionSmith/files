@@ -1,2 +1,0 @@
-| Year | Place | Event |
-|---|---|---|
