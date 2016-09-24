@@ -1,6 +1,6 @@
 | Date | Event |
 |------------|-------------------------------------|
-| ??? | IDK |
+| Born in Kalcif, circa -560, Eden would eventually rise in Dragorian politics and form one of the most powerful and largest empires <br/> in history. He was also known as the founder of the Oppressive-Council of Dragorah, or the O.C.D. 
 
 | Age | Year |
 |------|----------|
