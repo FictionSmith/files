@@ -1,2 +1,2 @@
-|Year|Event||
+| Year | Place | Event |
 |---|---|---|
