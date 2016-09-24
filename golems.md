@@ -1,6 +1,6 @@
 | Name | Type |
 -------|---------|
-| Saxumvitalis | Stone-Glem |
+| Saxumvitalis | Stone-Golem |
 | Heranavitalis | Sand-Golem | 
 | Aquavitalis | Water-Golem |
 | Auravitalis | Wind-Golem |
