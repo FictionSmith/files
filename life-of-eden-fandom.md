@@ -1,6 +1,6 @@
 | Date | Event |
 |------------|-------------------------------------|
-| Synopsis | Born in Kalcif, circa -560, Eden would eventually rise in Dragorian politics and form one of the most powerful and largest empires <br/> in history. He was also known as the founder of the Oppressive-Council of Dragorah, or the O.C.D. 
+| Synopsis | Born in Kalcif, circa -560, Eden would eventually rise in Dragorian politics and form one of the most powerful and largest empires <br/> in history. He was also known as the founder of the Oppressive-Council of Dragorah, or the O.C.D. Eden was Emperor of <br/> Dragorah from -120 - 1 his ambitious actions is which caused the Great Dragon War. Eden was slain by Kronos on November 27, -1 during the Clouds Height. 
 
 | Age | Year |
 |------|----------|
