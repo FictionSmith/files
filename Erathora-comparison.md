@@ -1,7 +1,7 @@
 Erathora | Real World 
 ---------|-----------
 Areland | AD 10,000 
-Azan | AD 1000 Incan Empire 
+Azan | 1400s Incan Empire 
 Basile | BC 500 Persia
 Bridgeheart | 1500s Germany 
 Eastgate | 1500s Italia
