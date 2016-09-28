@@ -10,7 +10,7 @@ Foundfront | BC 200 Greece
 Jackle Empire | BC 2000 Egypt 
 Ketaran | BC 500 Persia 
 Nafire | AD 900 Scandanavia 
-Nebisk | AD 500 Mayan Empire 
+Nebisk | AD 900 Mayan Empire 
 Northwind | 1860s Gt. Britain 
 Mahak | BC 10,000 Ethiopia 
 Reachland | 1700s Austria
