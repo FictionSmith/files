@@ -10,7 +10,7 @@ Foundfront | BC 200 Greece
 Jackle Empire | BC 2000 Egypt 
 Ketaran | AD 600 Turkey  
 Nafire | AD 900 Norway 
-Nebisk | BC 1000 Babylonian Empire 
+Nebisk | BC 1000 Babylon
 Northwind | 1860s Gt. Britain 
 Reachland | 1700s Austria
 Thades | 1600s Netherlands 
