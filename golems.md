@@ -1,10 +1,10 @@
 | Name | Type |
 -------|---------|
-| Saxumvital | Stone-Golem |
-| Heranavital | Sand-Golem | 
-| Aquavital | Water-Golem |
-| Auravital | Wind-Golem |
-| Geluvital | Ice-Golem |
-| Nixvital | Snow-Golem | 
-| lavavital | Lava-Golem |
-| Arborvital | Tree-golem |
+| Saxum | Stone-Golem |
+| Herana | Sand-Golem | 
+| Aqua | Water-Golem |
+| Aura | Wind-Golem |
+| Gelu | Ice-Golem |
+| Nix | Snow-Golem | 
+| lava | Lava-Golem |
+| Arbor | Tree-golem |
