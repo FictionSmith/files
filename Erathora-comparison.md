@@ -30,7 +30,7 @@ Nebisk | Aztecs
 Northwind | British 
 Reachland | Austrians
 Thades | Greeks
-Tildin | Hundus
+Tildin | Hindus
 Theria | Japanese
 Wickmar | Chinese
 
