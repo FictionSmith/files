@@ -2,7 +2,7 @@ Erathora | Real World
 ---------|-----------
 Areland | AD 10,000 
 Basile | BC 500 Persia
-Bridgeheart | 1500s Germany 
+Bridgeheart | 1500s Germany
 Eastgate | 1500s Italia
 Endubar | 1600s France 
 Foundfront | 1600s Netherlands
@@ -15,6 +15,24 @@ Thades | BC 200 Greece
 Tildin | BC 2000 India
 Theria | 1600s Fuedal Japan 
 Wickmar | 1200s China
+
+Erathora | Real World 
+---------|-----------
+Areland | AD 10,000 
+Basile | Persians
+Bridgeheart | Germans
+Eastgate | Italians
+Endubar | French
+Foundfront | Dutch
+Ketaran | Egyptians
+Nafire | Vikings
+Nebisk | Aztecs
+Northwind | British 
+Reachland | Austrians
+Thades | Greeks
+Tildin | Hundus
+Theria | Japanese
+Wickmar | Chinese
 
 
 Erathora | Real World 
