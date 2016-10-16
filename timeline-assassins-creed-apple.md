@@ -8,3 +8,4 @@ Disclaimer everything
 | Assassin's Creed II | 1488 | The Templars bring back the Apple from Cyprus in which is stolen by Ezio in Venice. | 
 | Assassin's Creed Brotherhood | 1500 | Monteriggioni is attacked by the Templars under Cesare Borgia. The Apple is taken by him and takes power over Rome. | 
 | Assassin's Creed Brotherhood | 1503 | Cesare Borgia kills Pope Alexander VI over the Apple of Eden. Ezio takes the Apple. | 
+| Assassin's Creed Brotherhood | 1506 | Ezio locks the Apple up inside a First Civilization vault under the Colloseum. | 
