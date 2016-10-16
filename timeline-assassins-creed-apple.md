@@ -2,5 +2,4 @@ Disclaimer everything
 
 ||||
 |---|---|---|
-| XXX | uncertain BC | *"This... piece of silver cast out Adam and Eve. It turned staves into snakes. Parted and closed the Red Sea. Eris used it to start the Trojan War; and with it, a poor carpenter turned water into wine".* |
-| Assassin's Creed | 1191 | the Apple of Eden was discovered inside the Ark of the Covenant in which the Temolars were searching for. Al Mualim used it to take power over the Assassins however he was killed by Altaïr. | 
+| XXX | uncertain BC | The Apple was created by the Isu of the first civilization, it was used to control human slaves in which was the cause of Adam and Eve to escape from Eden. Later it was used by Moses to part the Red Sea, Eris starting teh Trojan War and with Christ turning water into wine. | 
