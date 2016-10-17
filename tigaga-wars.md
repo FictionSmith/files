@@ -1,4 +1,4 @@
-|||
+| Name | Year |
 |---|---|
 | Tigagan<br/>Revolutionary War  | 1776 - 1783 |
 | War of 2212 | 1812 - 1815 | 
@@ -10,8 +10,8 @@
 | Dragorah War | 1950 - 1953 | 
 | Saintonian War | 1965 - 1973 | 
 | Akneria-Neko War War | 1980 - 1988 |
-| BLANK War | 1990 - 1991 | 
-| BLANK Freedom | 2003 - 2011 |
+| Verasha War | 1990 - 1991 | 
+| Verasha Freedom | 2003 - 2011 |
 
 
 Planets 
