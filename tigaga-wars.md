@@ -4,7 +4,6 @@
 | War of 2181 | 1812 - 1815 | 
 | Erathoran-Tigagan War | 1846 - 1848 | 
 | Tigagan Civil War | 1861 - 1865 | 
-| I Dont Know-Tigagan War | 1898 | 
 | Galactic War I | 1917 - 1918 | 
 | Galactic War II | 1941 - 1945 | 
 | Dragorah War | 1950 - 1953 | 
