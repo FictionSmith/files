@@ -9,7 +9,7 @@
 | Fatimid Islamic Caliphate | 969 - 1174 | 
 | ??? | 1174 - 1250 | 
 | Mamluk Sultanate | 1250 - 1517 |
-| Ottoman Empire | 1517 1798 | 
+| Ottoman Empire | 1517 - 1798 | 
 | France | 1798 - 1805 | 
 | Muhammed 'Ali | 1805 - 1882 | 
 | Great Britain | 1882 - 1953 | 
