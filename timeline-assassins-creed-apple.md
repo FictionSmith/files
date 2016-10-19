@@ -10,4 +10,4 @@ Disclaimer everything
 | Assassin's Creed Brotherhood | 1503 | Cesare Borgia kills Pope Alexander VI over the Apple of Eden. Ezio takes the Apple. | 
 | Assassin's Creed Brotherhood | 1506 | Ezio locks the Apple up inside a First Civilization vault under the Colloseum. | 
 | Assassin's Creed Revelations | 1511 | Within Altaïrs library, Ezio discovers another Apple, however it was a fake one that the Templars put in. | 
-| Assassin's Creed Brotherhood - Assassin's Creed III | 2012 (506 years)  | Desmond Miles receives the Apple in the Temple shortly killing Lucy. Desmond Miles uses it to escape the Abstergo falicy and entering the Temple in Massechetuses, which he uses it to sacrifice himself in order to save mankind. | 
+| Assassin's Creed Brotherhood - Assassin's Creed III | 2012 (506 years)  | Desmond Miles receives the Apple in the Temple shortly killing Lucy. Desmond uses it to escape the Abstergo falicy and entering the Temple in Massechetuses, which he uses it to sacrifice himself in order to save mankind. | 
