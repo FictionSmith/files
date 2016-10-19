@@ -6,3 +6,4 @@
 |**Ron Regis**| Human | None, only when he takes the powers <br/> of the Ornament in he can control time, mind control <br/> can duplicate himself and can paralyze targets.  |
 |**Narolino Vendi "Naro"**| ??? | has the capability to get control <br/> the Ornament's powers at a certain distanceONe |
 | **Billy Mays** | **YELLING** | **BUT WAIT THERES MORE** |
+|*Hom Tanks*| *says* | *Lieutanet Dan iccccccceeeeeeee creeeeeaaaammmmm!* |
