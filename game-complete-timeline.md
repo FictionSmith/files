@@ -1,5 +1,5 @@
 Timeline of events
-(Disclaimer in text source) 
+(disclaimer in text source) 
 
 
 |Year|Event|
