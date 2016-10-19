@@ -5,4 +5,4 @@
 1715 - 1723 | Assassin's Creed IV Black Flag | 
 1789 - 1794 | Assassin's Creed Unity |
 1868 | Assassin's Creed Syndicate 
-WWI | Battlefield 1 | 
+1917 - 1918 | Battlefield 1 | 
