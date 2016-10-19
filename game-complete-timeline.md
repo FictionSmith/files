@@ -5,4 +5,4 @@ to explore his genetic memories using the Animus' newfound cloud computing abili
 Entertainment, from their Montréal headquarters, to sift through the memories of Edward Kenway, an eighteenth-century pirate, the father 
 of Haytham Kenway and the grandfather of Ratonhnhaké:ton. Ostensibly, this is to gather material for an Animus-powered interactive 
 feature film, but in reality, Abstergo—the Templars of the present time—are searching for a First Civilization structure known as the 
-Observatory, and are using the memories of Edward Kenway to find it.
+Observatory, and are using the memories of Edward Kenway to find it. |
