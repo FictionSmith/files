@@ -11,3 +11,4 @@
 |**Narolino Vendi "Naro"**| ??? | has the capability to get control <br/> the Ornament's powers at a certain distanceONe |
 | **Billy Mays** | **YELLING** | **BUT WAIT THERES MORE** |
 |*Hom Tanks*| *says* | *Lieutanet Dan iccccccceeeeeeee creeeeeaaaammmmm!* |
+|**Steve Irwin**| *says* | *"Krikey get a load of that mate!"* | 
