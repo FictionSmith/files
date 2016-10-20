@@ -1,4 +1,4 @@
-| Name | Year | Why it Happened | 
+| Name | Years | Why it Happened | 
 |---|---|---| 
 | Tigagan Revolutionary War  | 7760-7830 | Well it happened because Tigaga wanted to gain its own freedom from Oceania, i.e. the Lemia who had enslaved the humans for generations. The humans were fed up with them and wanted to revolt and claim the island as their own. | 
 | War of 1812 (Thirty Years War)  | 8120-8150 | The reason it was called the war of 1812 was not because of the year but the code used to protect the human race from foreign invasions, which is exactly what the lemia tried doing again, however the lemia had no chance against the humans quickly and advancing technology. |  
