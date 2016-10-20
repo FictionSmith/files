@@ -2,6 +2,7 @@
 |---|---|---|
 |**One One One**| 1917-1918 | Germany was making a bunch of bratwurst while Britain was sipping on his tea. Britain notice Germany giving away all his bratwurst to France, Italy and Austria and got jelious. One One One began. | 
 |**Wurl Wur Two**| 1941-1945 | Italy baked too many pizza, they gave Germany all of it and they paid them which caused them to be rich. Britain was jelious because Italy gave Germany all their pizza and not them. However Britain didn't like Germany because of what they did in One One One. So Britain and Germany had this feud going on, Germany punch Poland in the face because he was eating some of his pizza, Britain immediately took Germany as an insult and One One Two began. | 
+| Rusko-Slovikia | derp; | Your stereotypical eastern european russian country. | 
 
 |*Name*| Species | Superduper powers | 
 |---|---|---|
