@@ -8,9 +8,9 @@
 | Galactic War II | 9410-9450 | However the peace that the first galactic war promised to end all wars, ended nothing. Not long did the planet Voldalere started it all over again and this time they wanted to exterminate all human-like races in the galaxy. Oceania almost ignored the war until a suprise attack on its colony planet Unn by the Dragorians. Oceania declared war on Dragorah. The war was devistating and it ended with the Tigagans destroying the planet Dragorah with the first planet destroying space station. Oceania had became an intergalactic superpower and the remaining Dragorians surrendured shortly along side Voldalere. | 
 | Aknerian War | 9500-9530 | With the spread of the Anti-Cov throughout the galaxy, it really frightened Oceania and Oceania immediently went to war with Akneria, a martian planet. However not many people remember or talk about the Aknerian War anymore. | 
 | Saintonian War | 9650-9730 | There will never be a war like the Saintonian War ever again, the Saintonian War was the true last open combat war ever faught in history, the planet Oceania and Saintaints were tied in a conflict with planet earth in which the Anti-Cov spread, this war was the first failure ever by the Tigagans as they lost Saintaints in the war. | 
-| Akneria-Lavarkee War | 9800-9880 |
-| Gulf Wat? | 9900-9910 | 
-| Verasha Freedom | 10,030-10,110 |
+| Kentotian-Lavarkee War | 9800-9880 | The planet Kentotia and lavarkee didnt get along thats all I got, but the war ended the Cold war between Oceania and the Anti Cov. | 
+| Gulf War | 9900-9910 | The Gulf War took place in the Gulf, one of the arms of the galaxy which led to the core, many indepenedent planets faught for freedom an against the Oceanic Empire. | 
+| Verasha Freedom | 10,030-10,110 | The planet Verasha was invaded by Tigagan forces to destroy an intergalactic pirate organization treaty. | 
 
 
 Planets 
