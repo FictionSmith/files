@@ -6,11 +6,11 @@
 | Tigagan Civil War | 8610-8650 | The planet Oceania may had gain power throughout the cloud, but there was tension going on with two powers on the planet itself. The Royal Family and and Liberalist were two orginizations that ripped the Tigagan Empire into two, it was a long and bloody war as the Liberalist wanted Oceania to expand their empire by force and conquer every planet they wanted, however the Royal Family wanted stability and peace with foreign planets, teh Royal family won the war and Oceania remained a peaceful-neutralized planet. | 
 | Galactic War I | 9170-9180 | Several years later Tigaga or Oceania was an independent and trhiving intergalactic empire, it was however isolated from everone else. It wasn't until the Galactic War began in which would change the face of the galaxy forever. The planet Voldalere had demanded to take control over the galaxy along side its ally Akneria and Neko World which were known as the Axis Powers. Oceania had almost avoided the war until the end when it finally joined the Allies, Erathora, Saintaints and Animal World. Oceania return back to its isolated state after wards. | 
 | Galactic War II | 9410-9450 | However the peace that the first galactic war promised to end all wars, ended nothing. Not long did the planet Voldalere started it all over again and this time they wanted to exterminate all human-like races in the galaxy. Oceania almost ignored the war until a suprise attack on its colony planet Unn by the Dragorians. Oceania declared war on Dragorah. The war was devistating and it ended with the Tigagans destroying the planet Dragorah with the first planet destroying space station. Oceania had became an intergalactic superpower and the remaining Dragorians surrendured shortly along side Voldalere. | 
-| Dragorah War | 9500-9530 | 
-| Saintonian War | 1965 - 1973 | 
-| Akneria-Lavarkee War | 1980 - 1988 |
-| Gulf Wat? | 1990 - 1991 | 
-| Verasha Freedom | 2003 - 2011 |
+| Aknerian War | 9500-9530 | With the spread of the Anti-Covanet throughout the galaxy, it really frightened Oceania and Oceania immediently went to war with Akneria, a martian planet. However not many people remember or talk about the Aknerian War anymore. | 
+| Saintonian War | 9650-9730 | 
+| Akneria-Lavarkee War | 9800-9880 |
+| Gulf Wat? | 9900-9910 | 
+| Verasha Freedom | 10,030-10,110 |
 
 
 Planets 
