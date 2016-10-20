@@ -1,6 +1,6 @@
-| Name | Year |
-|---|---|
-| Tigagan<br/>Revolutionary War  | 1776 - 1783 |
+| Name | Year | Why it Happened | 
+|---|---|---| 
+| Tigagan Revolutionary War  | 1776 - 1783 | Well it happened because Tigaga wanted to gain its own freedom from Oceania, i.e. the Lemia who had enslaved the humans for generations. The humans were fed up with them and wanted to revolt and claim the island as their own. | 
 | War of 2181 | 1812 - 1815 | 
 | Erathoran-Tigagan War | 1846 - 1848 | 
 | Tigagan Civil War | 1861 - 1865 | 
@@ -9,7 +9,7 @@
 | Dragorah War | 1950 - 1953 | 
 | Saintonian War | 1965 - 1973 | 
 | Akneria-Lavarkee War | 1980 - 1988 |
-| Verasha War | 1990 - 1991 | 
+| Gulf Wat? | 1990 - 1991 | 
 | Verasha Freedom | 2003 - 2011 |
 
 
