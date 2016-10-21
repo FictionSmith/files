@@ -19,6 +19,7 @@
 | Dane | King George V |
 | Eden | Emperor Hirohito | 
 | Ron Regis | Winston Churchil | 
-| Taran, Dr. | Adolf Hitler |
+| Taran, Dr. | Adolf Hitler | 
+
 
 
