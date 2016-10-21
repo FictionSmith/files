@@ -26,7 +26,7 @@ Note that the planets in TKI compared to the real nations in World War I and II 
 
 ok
 
-It all began when the emperor of the planet Akneria was assassinated by a human from the planet earth. Sammacus who had replaced the previous emperor declared war on earth and began to attack it. Meanwhile Lygertha, an ally of earth went to war with Akneria. 
+It all began when some random human from earth had assassinated the emperor of the planet Akneria. Sammacus who had replaced the previous emperor declared war on earth and began to attack it. Meanwhile Lygertha, an ally of earth went to war with Akneria. 
 
 
 
