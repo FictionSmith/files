@@ -1,3 +1,5 @@
+Note that the planets in TKI compared to the real nations in World War I and II are not in comparison becuase of the culture, but rather by the role they had in the wars. 
+
 |TKI|WWI & WWII|
 |---|---|
 | Akneria (Mars) | Austro-Hungary |
