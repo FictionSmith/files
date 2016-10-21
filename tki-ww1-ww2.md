@@ -8,6 +8,7 @@ Note that the planets in TKI compared to the real nations in World War I and II 
 | Cenvana | the United States |
 | Dragorah | Imperial Japan | 
 | Erathora | Great Britain |
+| Havens, the | Republic of China | 
 | Kentotia | North Africa |
 | Lavarkee | France | 
 | Lygertha | the Soviet Union |
