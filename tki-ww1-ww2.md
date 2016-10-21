@@ -23,5 +23,7 @@ Note that the planets in TKI compared to the real nations in World War I and II 
 | Ron Regis | Winston Churchil | 
 | Taran, Dr. | Adolf Hitler | 
 
+ok
+
 
 
