@@ -1,27 +1,27 @@
 |||
 |---|---|
-| Verse | XXX |
+| Verse | TKI-101 |
 | Date | 10/21/16 9:49 PM |
-| Full Name | XXX |
-| Pronunciation | xxx |
-| Nickname/Alias | XXX | 
+| Full Name | Mayshin |
+| Pronunciation | /mā/ /SHin/ |
+| Nickname/Alias | Mayshin | 
 | Meaning | XXX |
 | Origin | XXX |
 | Title | XXX |
 | Pet Name | on hold |
 | ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
 | Signature | (What is their handwriting like?) |
-| Gender | Male |
+| Gender | Female |
 | Gender Role | Masculine |
 | Orientation | Straight |
-| Real Age | on hold | 
-| Age Appearance | Young like late twenties |
-| Birthday | XXX |
+| Real Age | between 17-20s | 
+| Age Appearance | Young like early twenties |
+| Birthday | May 7th |
 | Deathday | (May not have one yet) |
 | Birthplace | XXX |
-| Astrological Sign | (Western) |
-| Zodiac Sign | (Eastern) |
-| Immediate Family | (Who was your character raised by?) |
+| Astrological Sign | Taurus (bull) |
+| Zodiac Sign | Tiger |
+| Immediate Family | Thomas (father) Starlight (mother) |
 | Distant Family | (The ones they don't see every day) |
 | Parenting | (Were their parents strict or fun-loving?) |
 | Upbringing | (What morals and ideals were your characters raised with? |
