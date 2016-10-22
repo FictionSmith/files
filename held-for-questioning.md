@@ -13,3 +13,4 @@
 | 1928 | End of the Tigagan Civil War; won by the Royalist |
 | 1928 | Thomas was born | 
 | 1930 | Death of Thomas' parents Jaycob and Mary, who got in a car wreck | 
+| 1932 | Eden's remains are discovered on the planet Dragorah thanks to D.E.R.P. using the portals to travel through other dimensions |
