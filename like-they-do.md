@@ -8,6 +8,6 @@
 | Late Middle Ages | 2012 |
 | Colonial Age | June 2013 |
 | Industrial Age | November 2014 |
-| Machine Age | September 2016 |
+| Machine Age | September 2015 |
 | Atomic Age | May 2016 |
 | Information Age | Present |
