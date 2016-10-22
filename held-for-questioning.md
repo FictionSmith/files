@@ -4,3 +4,5 @@
 | 1723 | Recently being ruled by mercenaries and pirates (BLANK) becomes the first Prime Minister of Tigaga |
 | 1792 | The Industrial Revolution begins in the town of Steelpoint which originally began as a small river village to a thriving metropolis of transportation and invention | 
 | 1832 | (BLANK) is born |
+| 1850 | D.E.R.P. was founded |
+| 1861 | Rii was born |
