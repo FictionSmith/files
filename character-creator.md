@@ -1,44 +1,31 @@
-|box 1|box 2|
+|||
 |---|---|
-
-GENERAL INFO:
-Name origin:	 
-Nickname, if any
-(if so, explain its origin – e.g. who created it?):	 
-Does s/he like the nickname?	 
-Birth date:	 
-Place of birth:	 
-Ethnic background:	 
-Religion:	 
-Degree of religious practice 
-(e.g. orthodox, casual, lapsed):	 
-Current address:	 
-Does s/he rent or own?	 
-Brief description of home
-(apartment, house, trailer, etc.):	
- 
-
- 
-
- 
-
-Does s/he live with anyone?	 
-Describe the area in which s/he lives 
-(big city, town, rural, other):	 
-Is this his/her ideal home and location?
-If not, what would s/he prefer?	 
-Home decor (check all that apply):	___ Expensive ___ Inexpensive 
-___ Carefully planned ___ Comfortable
-___ Neat ___ Cluttered
-When someone walks in, what's his/her first impression?	 
-Pets?	___ No (why?) ___ Yes
-If yes, what kind and how many? Name(s)?	 
-How important are they? How well are they treated?	 
-Current occupation 
+| Full name | XXX | 
+| Name origin | XXX |	  
+| Nickname | XXX |
+| Birth date | XXX |	 
+| Place of birth | XXX | 
+| Ethnic background | XXX |
+| Religion | XXX | 
+| Degree of religious practice | XXX |
+| Current address | XXX | 
+| Does s/he rent or own | XXX |
+| Brief description of home | XXX |
+| Does s/he live with anyone?	| XXX | 
+| Describe the area in which s/he lives <br/> (big city, town, rural, other) | XXX |
+| Is this his/her ideal home and location? | XXX |
+| Home decor (check all that apply):	___ Expensive ___ Inexpensive 
+___ Carefully planned ___ Comfortable 
+___ Neat ___ Cluttered | XXX |
+| When someone walks in, what's his/her first impression?	 
+Pets?	___ No (why?) ___ Yes 
+If yes, what kind and how many? Name(s)?	| XXX |
+| How important are they? How well are they treated?	| XXX |
+| Current occupation 
 (include length of time, location, job title):	 
-Job satisfaction (happy, discontent, ambitious...):	 
-Income level:	 
-Education:	 
+Job satisfaction (happy, discontent, ambitious...) | XXX |
+| Income level | XXX |
+| Education | XXX |
 Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.):	 
 Sexuality 
 (e.g. straight, gay, bisexual, asexual, unsure...):	 
