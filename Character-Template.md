@@ -11,7 +11,7 @@
 | ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
 | Signature | (What is their handwriting like?) |
 | Gender | Female |
-| Gender Role | Masculine |
+| Gender Role | Predominantly masculine but has an odd mix of both |
 | Orientation | Straight |
 | Real Age | between 17-21 | 
 | Age Appearance | Young like early twenties |
