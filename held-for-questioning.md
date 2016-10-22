@@ -12,3 +12,4 @@
 | 1927 | The Post-Ice Age (coldest winter in thounsands of years) °69 degrees F |
 | 1928 | End of the Tigagan Civil War; won by the Royalist |
 | 1928 | Thomas was born | 
+| 1930 | Death of Thomas' parents Jaycob and Mary, who got in a car wreck | 
