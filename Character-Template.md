@@ -1,46 +1,46 @@
 |||
 |---|---|
-| Verse | The Ornament Chronicles |
+| Verse | Congeria |
 | Date | 10/21/16 9:49 PM |
-| Full Name | May Shin Happishire |
-| Pronunciation | /mā/ /SHin/ |
-| Nickname/Alias | Mayshin or the "Chosen One" | 
-| Meaning | May meaning "arisen, arise, risen also means one who was born in may" Shin meaning "hero" |
-Origin: (How did you come up with your character's name?)
-Title: (Do have a title along with their name? [Ex: Sir, Captain, Ms.])
-Pet Name: (What do other people call your character? [kid, squirt, babe, ect] May be insulting, endearing, or a combination of both. May have more than one, if other characters call them different things.
-ID Number: (A number that may also be used to identify your character, such as tournaments and prison settings)
-Signature: (What is their handwriting like?)
-Gender: (Self explanatory)
-Gender Role: (Does your character generally act more feminine or masculine?)
-Orientation: (Ex: Straight, Bisexual, Homosexual)
-Real Age: (How old your character is in years)
-Age Appearance: (How old does your character look? This is mostly for immortal creatures such as deities, but can be used with anybody. [if someone looks older or younger than their age)
-Birthday: (Self explanatory)
-Deathday: (May not have one yet)
-Birthplace: (Where was your character born?)
-Astrological Sign: (Western)
-Zodiac Sign: (Eastern)
-Immediate Family: (Who was your character raised by?)
-Distant Family: (The ones they don't see every day)
-Parenting: (Were their parents strict or fun-loving?)
-Upbringing: (What morals and ideals were your characters raised with?)
-Infancy: ([0-2] What was it like when your character was a baby? Were they nurtured or dropped at birth?)
-Childhood: ([3-12] What was it like for your character growing as a kid ?)
-Adolescence: ([13-17] Teen years)
-Adulthood: ([18+] When your character has fully matured. If your character isn't yet an adult, plan what would happen to them in the future.)
-Coming of Age: (When and how did your character "grow up"?)
-Evolution: (How has your character changed since they were younger?)
-Species: (Human, animal, or a fantasy race)
-Ethnicity: (Self Explanatory)
-Blood Type: (Self explanatory)
-Preferred Hand: (Right handed, left handed, or ambidextrous?)
-Facial Type: (Ex: Oval, heart, square, round, )
-Eye Color: (Self explanatory)
-Hair Color (Self Explanatory)
-Hairstyle: (Self explanatory)
-Skin Tone: (Self Explanatory)
-Complexion: (Self explanatory)
+| Full Name | on hold |
+| Pronunciation | xxx |
+| Nickname/Alias | XXX | 
+| Meaning | XXX |
+| Origin | XXX |
+| Title | XXX |
+| Pet Name | on hold |
+| ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
+| Signature | (What is their handwriting like?) |
+| Gender | Male |
+| Gender Role | Masculine |
+| Orientation | Straight |
+| Real Age | on hold | 
+| Age Appearance | Young like late twenties |
+| Birthday | XXX |
+| Deathday | (May not have one yet) |
+| Birthplace | XXX |
+| Astrological Sign | (Western) |
+| Zodiac Sign | (Eastern) |
+| Immediate Family | (Who was your character raised by?) |
+| Distant Family | (The ones they don't see every day) |
+| Parenting | (Were their parents strict or fun-loving?) |
+| Upbringing | (What morals and ideals were your characters raised with? |
+| Infancy | ([0-2] What was it like when your character was a baby? Were they nurtured or dropped at birth? |
+| Childhood | ([3-12] What was it like for your character growing as a kid ?) |
+| Adolescence | ([13-17] Teen years) |
+| Adulthood | ([18+] When your character has fully matured. If your character isn't yet an adult, plan what would happen to them in the future. |
+| Coming of Age | (When and how did your character "grow up"?) |
+| Evolution | (how has your character change since they were younger) |
+| Species | (Human, animal, or a fantasy race) |
+| Ethnicity | (Self Explanatory) |
+| Blood Type | (Self explanatory) |
+| Preferred Hand | (Right handed, left handed, or ambidextrous?) |
+| Facial Type | (Ex: Oval, heart, square, round,) |
+| Eye Color | (Self explanatory) |
+| Hair Color | (Self Explanatory) |
+| Hairstyle | (Self explanatory) |
+| Skin Tone | (Self Explanatory) |
+| Complexion | (Self explanatory) |
 Makeup: (If any)
 Body Type: (Endomorph, Ectomorph, Mesomorph, or somewhere in between?)
 Build: (Long legs, chubby cheeks, or muscular arms?)
