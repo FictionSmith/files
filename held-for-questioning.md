@@ -6,3 +6,4 @@
 | 1832 | (BLANK) is born |
 | 1850 | D.E.R.P. was founded |
 | 1861 | Rii was born |
+| 1873 | Being shipwrecked on a deserted island, Rii is raised by a wolf tribe where she learns to live, act, eat and talk like a wolf. Rii also meets Kam who becomes best friends |
