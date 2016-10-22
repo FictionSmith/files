@@ -8,4 +8,5 @@
 | 1861 | Rii was born |
 | 1873 | Being shipwrecked on a deserted island, Rii is raised by a wolf tribe where she learns to live, act, eat and talk like a wolf. Rii also meets Kam who becomes her best friend |
 | 1908 | First mechanical automotion artillery is invented | 
-| 1918 | Begining of the Tigagan Civil War between the Royalist and the Liberalist | 
+| 1918 | Beginning of the Tigagan Civil War between the Royalist and the Liberalist | 
+| 1927 | Thomas is born |
