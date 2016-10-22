@@ -2,9 +2,9 @@
 |---|---|
 | Verse | TKI-101 |
 | Date | 10/21/16 9:49 PM |
-| Full Name | Mayshin |
-| Pronunciation | /mā/ /SHin/ |
-| Nickname/Alias | Mayshin | 
+| Full Name | Nicole |
+| Pronunciation | XXX |
+| Nickname/Alias | XXX | 
 | Meaning | XXX |
 | Origin | XXX |
 | Title | XXX |
@@ -14,16 +14,16 @@
 | Gender | Female |
 | Gender Role | Masculine |
 | Orientation | Straight |
-| Real Age | between 17-20s | 
+| Real Age | between 17-21 | 
 | Age Appearance | Young like early twenties |
 | Birthday | May 7th |
 | Deathday | (May not have one yet) |
 | Birthplace | XXX |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
-| Immediate Family | Thomas (father) Starlight (mother) |
+| Immediate Family | Thomas (father) Anabel (mother) |
 | Distant Family | (The ones they don't see every day) |
-| Parenting | (Were their parents strict or fun-loving?) |
+| Parenting | Was raised pretty fairly, her father Thomas did everything for her and always look after her |
 | Upbringing | (What morals and ideals were your characters raised with? |
 | Infancy | ([0-2] What was it like when your character was a baby? Were they nurtured or dropped at birth? |
 | Childhood | ([3-12] What was it like for your character growing as a kid ?) |
