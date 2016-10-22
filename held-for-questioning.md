@@ -9,6 +9,6 @@
 | 1873 | Being shipwrecked on a deserted island, Rii is raised by a wolf tribe where she learns to live, act, eat and talk like a wolf. Rii also meets Kam who becomes her best friend |
 | 1908 | First mechanical automotion artillery is invented | 
 | 1918 | Beginning of the Tigagan Civil War between the Royalist and the Liberalist | 
-| 1927 | The Post-Ice Age (coldest winter in thounsands of years) °69 degrees |
+| 1927 | The Post-Ice Age (coldest winter in thounsands of years) °69 degrees F |
 | 1928 | End of the Tigagan Civil War; won by the Royalist |
 | 1928 | Thomas was born | 
