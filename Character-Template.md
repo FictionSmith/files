@@ -17,7 +17,7 @@
 | Age Appearance | Young like early twenties |
 | Birthday | May 7th |
 | Deathday | (May not have one yet) |
-| Birthplace | XXX |
+| Birthplace | Boston, USA |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
 | Immediate Family | Thomas (father) Anabel (mother) |
@@ -184,10 +184,13 @@ Immunities: ([Ex: cannot be burned] Be very careful with this one.)
 Restrictions: (An absolute necessity for those with supernatural powers. [Ex: Can only breathe fire when angry or can only cast darkness spells twice a day])
 Alternate Forms: (Transformations, shape shifting abilities, dark side, ect.)
 Extra Anatomy: (Such as wings or a third eye)
-Favorite Colors:
-Favorite Animals:
-Favorite Mythological Creatures:
-Favorite Places: (Ex: Fav City, State, or Country)
+
+|||
+|---|---|
+| Favorite Colors | blue, cyan, light blue, emerald, forest green |
+| Favorite Animals | foxes, kangaroos, corgis, german shepards, horses, ducks, --- | 
+| Favorite Mythological Creatures | griffins, dragons, hippogriffs, centaurs, elves, dwarves, gods and godesses, sirens |
+| Favorite Places | New York City, San Francisco, Canada, Britain, Scotland, Ireland, Germany, Italy, Egypt and Japan |
 Favorite Landmarks: (Ex: Eiffel Tower, Mt. Rushmore)
 Favorite Flavors: (Ex: Vanilla, Sour, Strawberry)
 Favorite Foods:
