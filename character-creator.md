@@ -1,19 +1,19 @@
 |||
 |---|---|
-| Full name | XXX | 
+| Full name | Bernard | 
 | Name origin | XXX |	  
 | Nickname | XXX |
-| Birth date | XXX |	 
-| Place of birth | XXX | 
-| Ethnic background | XXX |
-| Religion | XXX | 
+| Birth date | 1898 |	 
+| Place of birth | United States of America | 
+| Ethnic background | English |
+| Religion | Christain | 
 | Degree of religious practice | XXX |
 | Current address | XXX | 
 | Does s/he rent or own | XXX |
 | Brief description of home | XXX |
 | Does s/he live with anyone?	| XXX | 
-| Describe the area in which s/he lives <br/> (big city, town, rural, other) | XXX |
-| Is this his/her ideal home and location? | XXX |
+| Describe the area in which s/he lives | lives in a rural town |
+| Is this his/her ideal home and location? | peaceful |
 | Home decor (check all that apply):	___ Expensive ___ Inexpensive 
 ___ Carefully planned ___ Comfortable 
 ___ Neat ___ Cluttered | XXX |
