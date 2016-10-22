@@ -4,8 +4,8 @@
 | Date | 10/21/16 9:49 PM |
 | Full Name | May Shin Happishire |
 | Pronunciation | /mā/ /SHin/ |
-Nickname/Alias: (Does your character have a pet name, fake identity, or any other thing they like to go by? Put it here.)
-Meaning: ([Ex: Emily means "admiring" and William means "protector"] If you aren't sure your character's name has a meaning look it up, I'm sure you'll find something. If it's a fantasy name you made yourself, give it a meaning.)
+| Nickname/Alias | Mayshin or the "Chosen One" | 
+| Meaning | May meaning "arisen, arise, risen also means one who was born in may" Shin meaning "hero" |
 Origin: (How did you come up with your character's name?)
 Title: (Do have a title along with their name? [Ex: Sir, Captain, Ms.])
 Pet Name: (What do other people call your character? [kid, squirt, babe, ect] May be insulting, endearing, or a combination of both. May have more than one, if other characters call them different things.
