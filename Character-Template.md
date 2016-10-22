@@ -1,8 +1,8 @@
 |||
 |---|---|
 | Verse | The Ornament Chronicles |
-Date: (The date this sheet was completed.)
-Full Name: (Self explanatory)
+| Date | 10/21/16 9:49 PM |
+| Full Name | May Shin Happishire |
 Pronunciation: (Self explanatory)
 Nickname/Alias: (Does your character have a pet name, fake identity, or any other thing they like to go by? Put it here.)
 Meaning: ([Ex: Emily means "admiring" and William means "protector"] If you aren't sure your character's name has a meaning look it up, I'm sure you'll find something. If it's a fantasy name you made yourself, give it a meaning.)
