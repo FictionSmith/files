@@ -191,15 +191,14 @@ Extra Anatomy: (Such as wings or a third eye)
 | Favorite Animals | foxes, kangaroos, corgis, german shepards, horses, ducks, --- | 
 | Favorite Mythological Creatures | griffins, dragons, hippogriffs, centaurs, elves, dwarves, gods and godesses, sirens |
 | Favorite Places | New York City, San Francisco, Canada, Britain, Scotland, Ireland, Germany, Italy, Egypt and Japan |
-Favorite Landmarks: (Ex: Eiffel Tower, Mt. Rushmore)
-Favorite Flavors: (Ex: Vanilla, Sour, Strawberry)
-Favorite Foods:
-Favorite Drinks:
-Favorite Characters: (Not one of yours)
-Favorite Genre:
-Favorite Books:
-Favorite Movies:  
-Favorite Games:
+| Favorite Landmarks | Hamburg Rathaus, Golden Gate Bridge, Empire State Building, Parlament | 
+| Favorite Flavors | Vanilla, chocolete, peanut butter |
+| Favorite Drinks | XXX |
+| Favorite Characters | on hold |
+| Favorite Genre | Fantasy, science fiction, historic fiction |
+| Favorite Books | XXX |
+| Favorite Movies | XXX |
+| Favorite Games | The Elder Scrolls, BioShock, Dishonered, Assassin's creed, Far Cry, Mafia, | 
 Favorite Shows:
 Favorite Music:
 Favorite Bands:
