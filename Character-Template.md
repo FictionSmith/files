@@ -2,7 +2,7 @@
 |---|---|
 | Verse | Erathora |
 | Full Name | Nikole |
-| Pronunciation | XXX |
+| Pronunciation | NiyKOW-L |
 | Nickname/Alias | XXX | 
 | Meaning | XXX |
 | Origin | XXX |
