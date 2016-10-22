@@ -1,8 +1,7 @@
 |||
 |---|---|
-| Verse | TKI-101 |
-| Date | 10/21/16 9:49 PM |
-| Full Name | Nicole |
+| Verse | Erathora |
+| Full Name | Nikole |
 | Pronunciation | XXX |
 | Nickname/Alias | XXX | 
 | Meaning | XXX |
