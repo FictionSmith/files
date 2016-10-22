@@ -10,3 +10,4 @@
 | 1908 | First mechanical automotion artillery is invented | 
 | 1918 | Beginning of the Tigagan Civil War between the Royalist and the Liberalist | 
 | 1927 | Thomas is born |
+| 1928 | End of the Tigagan Civil War; won by the Royalist |
