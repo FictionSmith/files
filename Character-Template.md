@@ -1,8 +1,8 @@
 |||
 |---|---|
-| Verse | Congeria |
+| Verse | XXX |
 | Date | 10/21/16 9:49 PM |
-| Full Name | on hold |
+| Full Name | XXX |
 | Pronunciation | xxx |
 | Nickname/Alias | XXX | 
 | Meaning | XXX |
