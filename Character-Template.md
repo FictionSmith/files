@@ -4,8 +4,8 @@
 | Full Name | Nikole |
 | Pronunciation | NiyKOW-L |
 | Nickname/Alias | XXX | 
-| Meaning | XXX |
-| Origin | XXX |
+| Meaning | Greek "people of victory" |
+| Origin | Basque/English |
 | Title | XXX |
 | Pet Name | on hold |
 | ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
