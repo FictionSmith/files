@@ -1,4 +1,6 @@
-Verse: (The universe your character belongs to. Can be original or fanfiction. [Ex: Original : The name of your book, movie, game or whatever. Fanfiction: Pokemon, Star Trek, Naruto, ect.)
+|||
+|---|---|
+| Verse | The Ornament Chronicles |
 Date: (The date this sheet was completed.)
 Full Name: (Self explanatory)
 Pronunciation: (Self explanatory)
