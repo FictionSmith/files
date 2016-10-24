@@ -1,6 +1,6 @@
 | HTML | Markdown |
 |---|---|
-| <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -11,4 +11,4 @@
 <p>This is a paragraph.</p>
 
 </body>
-</html> | X |
+</html> 
