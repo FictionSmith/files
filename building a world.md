@@ -4,7 +4,7 @@ Creator | [FictionSmith] (https://github.com/FictionSmith)
 System  | Pheonix     
 Moons | 2
 Orbital period | 687 earth days 
-Atmosphere | Carbon dioxide 
+Atmosphere | Carbon dioxide (no oxygen) 
 Climate | Cold desert 80 degrees F (minus 60 degrees C)
 Descriptive terrain | There are no plantlife which had use to be until it was destroyed, most of the surface of Akneria is very much like a desert, it is very rocky and sandy, however it is freezing cold, there are very small pockets o water along side underground seas where the Aknerians gather water to survive. There are volcanic plains and lava pit across the sands and a gigantic mega-volcano in Basile. | 
 Native races | Aknerians, however there are several different sub races, many of them are physically different from one another and each have different unique attributes baste on their current lifefestyle (list of races comming soon). 
