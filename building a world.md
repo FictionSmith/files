@@ -1,6 +1,6 @@
 Akneria        | [IMAGE]            
 ---------------|---------------
-Creator | [FictionSmith] (https://github.com/Txuritan)
+Creator | [FictionSmith] (https://github.com/FictionSmith)
 System  | XXX     
 Moons | XXX
 Orbital period | XXX
