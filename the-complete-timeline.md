@@ -2,5 +2,4 @@
 |---|---|
 | 1928 | Billy is born. |
 
-New Francton 
-Oxburg 
+New Francton USA <br/> Oxburg UK
