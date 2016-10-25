@@ -13,7 +13,7 @@ Animals | There are very few animals still in existence, most of them I do not h
 Plants | (okay because I really wanted to put this in) there were thick forest on Akneria, giant plants, such as ferns, flowers and even mushrooms, trees grew to be hundreds of feet tall, plants that glowed at night and plants that even eat Aknerians! 
 Cities | Still currently working on the cities, however the capitol city, Basilia is the center of the last Aknerian Dynasty. 
 Realms | Basile, which is the center and most powerful empire on the planet, there are no other current empires or kingdoms however there are small independent states and tribes in the outside lands that refuse to bow down to the Emperor. 
-Curencey | Diamonds? 
+Curencey | Diamonds? hematite, phyllosilicates (clay minerals), goethite, jarosite, iron sulfate minerals, opaline silica, and gypsum.
 Population | 3 billion, not a lot compared to what it was like before many of them died out because the lost of habitation, died of starvation or were massacred by Alpha.. 
 
 
