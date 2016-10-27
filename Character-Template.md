@@ -70,16 +70,15 @@
 | Ex: Nail biting, crosses arms, or twirls hair) | 
 | Scent | (What does your character smell like? Good or bad? How strong?) |
 | Mood | (What mood are you most likely to catch your character in?) |
-Attitude: (How does your character interact with others?)
-Stability: (How emotionally consistant are they?)
-Expressiveness: (Do they hide emotion or let it out openly?)
-When Happy: (Ex: Whistles, sings, skips)
-When Depressed: (Ex: locks themself in their room, listens to music, hugs a stuffed animal)
-When Angry: (Ex: Punches walls, screams at people, trolls online)
-Note: These are generalizations. Different situations will create different reactions.
-Current Residence: (Where does your character live right now? May or may not include a geographical location)
-Community: (What does the general population act like where your character lives?)
-Family: ([Ex: Parents, children, siblings] Include stepfamilies if it applies, and label as such.)
+| Attitude | (How does your character interact with others?) |
+| Stability | (How emotionally consistant are they?) |
+| Expressiveness | (Do they hide emotion or let it out openly?) |
+| When Happy | Likes to make jokes, have fun with friends or go on adventures. |
+| When Depressed | Listens to music or puts her arm against her face. | 
+| When Angry | Kicking someone's a** or uses spells on someone who really annoying. | 
+| Current Residence | Billy's farm on Bridgeheart Isle, Erathora. | 
+| Community | Bridgeheart Isle is kind of like Mackinaw Island, it's peaceful, quiet, small residents, townhouses and farms, small downtown area and a big clock tower. | 
+| Family | ([Ex: Parents, children, siblings] Include stepfamilies if it applies, and label as such.) |
 Friends: (Who does your character like to hang out with?)
 Enemies: (Who does your character despise?)
 Bosses: (Who does your character answer to)
