@@ -1,26 +1,26 @@
 |||
 |---|---|
 | Verse | Erathora |
-| Full Name | Nikole |
-| Pronunciation | NiyKOW-L |
-| Nickname/Alias | XXX | 
-| Meaning | Greek "people of victory" |
-| Origin | Basque/English |
+| Full Name | Mayshin |
+| Pronunciation | /mā-SHin/ |
+| Nickname/Alias | Nikole | 
+| Meaning | Aknerian: "May" arisen "Shin" hero |
+| Origin | Aknerian |
 | Title | XXX |
-| Pet Name | on hold |
+| Pet Name | Buddy (from Tutrok) |
 | ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
 | Signature | (What is their handwriting like?) |
 | Gender | Female |
 | Gender Role | Predominantly masculine but has an odd mix of both |
 | Orientation | Straight |
-| Real Age | between 17-21 | 
-| Age Appearance | Young like early twenties |
+| Real Age | 5,000 Erathoran years old | 
+| Age Appearance | between 17-21 |
 | Birthday | May 7th |
 | Deathday | (May not have one yet) |
-| Birthplace | Boston, USA |
+| Birthplace | Akneria |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
-| Immediate Family | Thomas (father) Anabel (mother) |
+| Immediate Family | Starlite (mother)<br/>Billy (father)<br/>Alphalord (half-brother)<br/>Robert (brotherin-law) |
 | Distant Family | (The ones they don't see every day) |
 | Parenting | Was raised pretty fairly, her father Thomas did everything for her and always look after her |
 | Upbringing | (What morals and ideals were your characters raised with? |
