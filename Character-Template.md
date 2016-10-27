@@ -20,7 +20,7 @@
 | Birthplace | Akneria |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
-| Immediate Family | Starlite (mother)<br/>Billy (father)<br/>Alphalord (half-brother)<br/>Robert (brotherin-law) |
+| Immediate Family | Starlite (mother)<br/>Billy (father)<br/>Alphalord (half-brother)<br/>Robert (brother-in-law) |
 | Distant Family | (The ones they don't see every day) |
 | Parenting | Was raised pretty fairly, her father Thomas did everything for her and always look after her |
 | Upbringing | (What morals and ideals were your characters raised with? |
