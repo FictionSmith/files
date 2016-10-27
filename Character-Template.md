@@ -77,7 +77,7 @@
 | When Depressed | Listens to music or puts her arm against her face. | 
 | When Angry | Kicking someone's a** or uses spells on someone who really annoying. | 
 | Current Residence | Billy's farm on Bridgeheart Isle, Erathora. | 
-| Community | Bridgeheart Isle is kind of like Mackinaw Island, it's peaceful, quiet, small residents, townhouses and farms, small downtown area and a big clock tower. | 
+| Community | Bridgeheart Isle is kind of like Mackinac Island, it's peaceful, quiet, small residents, townhouses and farms, small downtown area and a big clock tower. | 
 | Family | ([Ex: Parents, children, siblings] Include stepfamilies if it applies, and label as such.) |
 Friends: (Who does your character like to hang out with?)
 Enemies: (Who does your character despise?)
