@@ -16,5 +16,23 @@ Realms | Basile, which is the center and most powerful empire on the planet, the
 Curencey | Hematite, phyllosilicates (clay minerals), goethite, jarosite, iron sulfate minerals, opaline silica, and gypsum.
 Population | 3 billion, not a lot compared to what it was like before many of them died out because the lost of habitation, died of starvation or were massacred by Alpha.. 
 
+Erathora       | [IMAGE]            
+---------------|---------------
+Creator | [FictionSmith] (https://github.com/FictionSmith)
+System  | Pheonix     
+Moons | 2
+Orbital period | 365 earth days  
+Atmosphere | Nitrogen and oxygen 
+Climate | Temperate seasonal climate 61 degrees F 
+Descriptive terrain | Very much like earth, except there are no deserts, rainforest and very little tundra. Erathora is mostly made up of sea and the rest of it is land which contains seasonal forest, mountains, valleys and industrialized cities. | 
+Native races | Erathorans (humans) they are a LOT smarter than you or me, they are more mature than an average human, they are very smart and have a sensability of patriotism towards their planet. | 
+Native language | Erathoran (a widely mix between Japanese, German and English) 
+Animals | There are very few animals still in existence, most of them I do not have the name yet for, but I am still working on this one. |
+Plants | (okay because I really wanted to put this in) there were thick forest on Akneria, giant plants, such as ferns, flowers and even mushrooms, trees grew to be hundreds of feet tall, plants that glowed at night and plants that even eat Aknerians! 
+Cities | Still currently working on the cities, however the capitol city, Basilia is the center of the last Aknerian Dynasty. 
+Realms | Basile, which is the center and most powerful empire on the planet, there are no other current empires or kingdoms however there are small independent states and tribes in the outside lands that refuse to bow down to the Emperor. 
+Curencey | Hematite, phyllosilicates (clay minerals), goethite, jarosite, iron sulfate minerals, opaline silica, and gypsum.
+Population | 3 billion, not a lot compared to what it was like before many of them died out because the lost of habitation, died of starvation or were massacred by Alpha.. 
+
 
 www.stwa.org/2009/08/fantasy-worldbuilding-questions/
