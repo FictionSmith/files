@@ -30,7 +30,7 @@
 | Adulthood | ([18+] When your character has fully matured. If your character isn't yet an adult, plan what would happen to them in the future. |
 | Coming of Age | (When and how did your character "grow up"?) |
 | Evolution | (how has your character change since they were younger) |
-| Species | Erathoran-Aknerian |
+| Species | Aknerian-Erathoran |
 | Ethnicity | Mix (Japanese, German, English) That would be Aknerian and Erathoran |
 | Blood Type | YES |
 | Preferred Hand | Left handed |
@@ -38,8 +38,8 @@
 | Eye Color | Green |
 | Hair Color | Oak natural brown |
 | Hairstyle | Short |
-| Skin Tone | Fair |
-| Complexion | (Self explanatory) |
+| Skin Tone | Average |
+| Complexion | Fair? |
 Makeup: (If any)
 Body Type: (Endomorph, Ectomorph, Mesomorph, or somewhere in between?)
 Build: (Long legs, chubby cheeks, or muscular arms?)
