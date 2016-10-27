@@ -40,18 +40,18 @@
 | Hairstyle | Short |
 | Skin Tone | Average |
 | Complexion | Fair? |
-Makeup: (If any)
-Body Type: (Endomorph, Ectomorph, Mesomorph, or somewhere in between?)
-Build: (Long legs, chubby cheeks, or muscular arms?)
-Height: (In inches)
-Weight: (In pounds)
-Cup Size: (Self explanatory)
-Facial Hair: (If applicable)
-Shoe Size: (Self Explanatory)
-Birthmarks/scars: (Self explanatory)
-Distinguishing Features: (Something unique that stands out)
-Health: (How healthy is your character?)
-Energy: (How much energy does your character have on a daily basis?)
+| Makeup | Eyeliner | 
+| Body Type | Ectomorph |
+| Build | Long legs and arms, short, slim, chubby cheeks ext. |
+| Height | Around 48 inches |
+| Weight | 40 pounds |
+| Cup Size | Between C-D |
+| Facial Hair | None duh |
+| Shoe Size | (US) 5 (Europe) 36 |
+| Birthmarks/scars | (Self explanatory) |
+| Distinguishing Features | Pointy ears |
+| Health | Fairly in good shape, eats only green food, usually works out or practice fighting with melee, sleeps good. |
+| Energy | A fair amount, athletic skills. | 
 Memory: (How well does your character remember things, and what do they remember?)
 Senses: (Are any of your character's senses better or worse than others?)
 Allergies: (Self Explanatory. May be optional.)
