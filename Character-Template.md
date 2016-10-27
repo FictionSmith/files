@@ -38,7 +38,7 @@
 | Eye Color | Green |
 | Hair Color | Oak natural brown |
 | Hairstyle | Short |
-| Skin Tone | Mix (Asian & European) |
+| Skin Tone | Fair |
 | Complexion | (Self explanatory) |
 Makeup: (If any)
 Body Type: (Endomorph, Ectomorph, Mesomorph, or somewhere in between?)
