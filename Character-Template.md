@@ -30,15 +30,15 @@
 | Adulthood | ([18+] When your character has fully matured. If your character isn't yet an adult, plan what would happen to them in the future. |
 | Coming of Age | (When and how did your character "grow up"?) |
 | Evolution | (how has your character change since they were younger) |
-| Species | (Human, animal, or a fantasy race) |
-| Ethnicity | (Self Explanatory) |
-| Blood Type | (Self explanatory) |
-| Preferred Hand | (Right handed, left handed, or ambidextrous?) |
+| Species | Erathoran-Aknerian |
+| Ethnicity | Mix (Japanese, German, English) That would be Aknerian and Erathoran |
+| Blood Type | YES |
+| Preferred Hand | Left handed |
 | Facial Type | (Ex: Oval, heart, square, round,) |
-| Eye Color | (Self explanatory) |
-| Hair Color | (Self Explanatory) |
-| Hairstyle | (Self explanatory) |
-| Skin Tone | (Self Explanatory) |
+| Eye Color | Green |
+| Hair Color | Oak natural brown |
+| Hairstyle | Short |
+| Skin Tone | Mix (Asian & European) |
 | Complexion | (Self explanatory) |
 Makeup: (If any)
 Body Type: (Endomorph, Ectomorph, Mesomorph, or somewhere in between?)
