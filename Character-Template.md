@@ -42,7 +42,7 @@
 | Complexion | Fair? |
 | Makeup | Eyeliner | 
 | Body Type | Ectomorph |
-| Build | Long legs and arms, short, slim, chubby cheeks ext. |
+| Build | short legs and arms, short, slim, fluffy cheeks ext. |
 | Height | Around 48 inches |
 | Weight | 40 pounds |
 | Cup Size | Between C-D |
@@ -52,23 +52,24 @@
 | Distinguishing Features | Pointy ears |
 | Health | Fairly in good shape, eats only green food, usually works out or practice fighting with melee, sleeps good. |
 | Energy | A fair amount, athletic skills. | 
-Memory: (How well does your character remember things, and what do they remember?)
-Senses: (Are any of your character's senses better or worse than others?)
-Allergies: (Self Explanatory. May be optional.)
-Handicaps: ([Ex: A limp, deafness, missing an eye] May be optional.)
-Medication: (What meds do your character take, if any?)
-Phobias: (Things that simply terrify your character. May be trivial or debilitating. Try to have at least one.)
-Addictions: (Drugs, alcohol, gambling, or bad teen romance)
-Mental Disorders: ([Ex: Depression, Bipolar Disorder, Paranoia.] May be optional.)
-Style: (The overall style your character shows, not just limited to clothing. Ex: Punk, Goth, Nerd)
-Mode of Dress: (Don't describe their clothes here. Describe how they wear their clothes. Two people can wear a suit, but each will wear it differently. [Ex: Is the shirt tucked in?])
-Grooming: (Well-kept or messy?)
-Posture: (How does your character present themselves? Ex: Stiff, slouchy, suggestive)
-Gait: (The speed and style which how your character moves)
-Coordination: (How physically fit is your character? Also add things like reflexes, ect.)
-Habits and Mannerisms: (Any nervous ticks or unconscious habits your character might have. Ex: Nail biting, crosses arms, or twirls hair)
-Scent: (What does your character smell like? Good or bad? How strong?)
-Mood: (What mood are you most likely to catch your character in?)
+| Memory | (How well does your character remember things, and what do they remember?) |
+| Senses | (Are any of your character's senses better or worse than others?) |
+| Allergies | (Self Explanatory. May be optional.) |
+| Handicaps | ([Ex: A limp, deafness, missing an eye] May be optional.) |
+| Medication | (What meds do your character take, if any?) |
+| Phobias | Water, Alpha, being a hero and loosing hee loved ones. | 
+| Addictions | Spring-Water (Aknerian Brewed) | 
+| Mental Disorders | AD HD and OCD 
+| Style | Tom girl, cool kind of nerd. | 
+| Mode of Dress | (Don't describe their clothes here. Describe how they wear their clothes. Two people can wear a suit, but each will wear it differently. [Ex: Is the shirt tucked in?])
+| Grooming | A little bit of both messy and we'll kept | 
+| Posture | (How does your character present themselves? Ex: Stiff, slouchy, suggestive) |
+| Gait | (The speed and style which how your character moves) |
+| Coordination | Fast reflect, responds to thinks quickly, fights fast, ext | 
+| Habits and Mannerisms | (Any nervous ticks or unconscious habits your character might have 
+| Ex: Nail biting, crosses arms, or twirls hair) | 
+| Scent | (What does your character smell like? Good or bad? How strong?) |
+| Mood | (What mood are you most likely to catch your character in?) |
 Attitude: (How does your character interact with others?)
 Stability: (How emotionally consistant are they?)
 Expressiveness: (Do they hide emotion or let it out openly?)
