@@ -1,3 +1,4 @@
 In 1846, the city of London was attack by a beast never known to man, some say it was a curse, others believed it was a plot behind evil forces, however it was a creature from another planet. It was later discovered in 1913 by Chinese sailors just before World War I broke out. In the 21st century the monster attacks several cities across the globe including New York, San Francisco and London. The monster was given the name Forcefield after its indestructible shield that it would summon to defend itself. 
 
 First discovered by Chinese sailors in 1846, the moster became a widely popular modern legend as different cultures of the world came up with such a creature. In 1913, it all began when it attack London, the moster was believed to some kind of curse. Standing two-hundred feet tall and at about six-hundred feet long from mussle to tail, it had a shell like skin theat covered its body, a head of a bull, with---
+
