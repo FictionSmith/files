@@ -1,3 +1,3 @@
-|Leader|Ruling Span|
-|---|---|
-| Teddy Roosevelt | 1901-1909 | 
+|Leader|Nation|Ruling Span|
+|---|---|---|
+| Teddy Roosevelt | United States | 1901-1909 | 
