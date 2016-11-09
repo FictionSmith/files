@@ -27,7 +27,7 @@ Climate | Temperate seasonal climate 61 degrees F
 Descriptive terrain | Very much like earth, except there are no deserts, rainforest and very little tundra. Erathora is mostly made up of sea and the rest of it is land which contains seasonal forest, mountains, valleys and industrialized cities. | 
 Native races | Erathorans (humans) they are a LOT smarter than you or me, they are more mature than an average human, they are very smart and have a sensability of patriotism towards their planet. | 
 Native language | Erathoran (a widely mix between Japanese, German and English) 
-Animals | Very much like earth, pets; dogs, horses. Wildlife; kangaroos, pandas, foxes, woodland like animals- bears, deer, elk, foxes, racoons, chipmunks, sea animals; dolphines, whales, sharks, fish, sea turtles, coral. I could go on and on about this.. |
+Animals | YES |
 Plants | Trees, oak trees, pine trees, tall trees, short trees, maple trees, cherry trees, old trees, young trees, willow trees, talking trees, creepy trees, tree houses, plants, flowers, not a whole lot because half the planet is industrialized. |
 Cities | Northwind (kind of like the capital and center of Erathora)<br/>Bridgeheart (a sub city and also a borough of Northwind, most of it is an island) This is where my character Mayshin lives, Foundfront (lies in the east of the coast of the Dragonheart Sea)<br/>Reachland (kind of a hick town as its mostly less industrialized and more country like) Billy's grandparent's live there. |
 Curencey | Emerald 
