@@ -2,7 +2,7 @@ Akneria        | [IMAGE]
 ---------------|---------------
 Creator | [FictionSmith] (https://github.com/FictionSmith)
 System  | Pheonix     
-Moons | 2
+Moons | 5
 Orbital period | 687 earth days 
 Atmosphere | Carbon dioxide (no oxygen) 
 Climate | Cold desert 80 degrees F (minus 60 degrees C)
