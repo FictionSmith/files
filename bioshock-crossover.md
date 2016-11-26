@@ -1,8 +1,6 @@
-
-Main Characters 
 |||
 |---|---|
-| Booker | Billy |
+Booker | Billy 
 Elizabeth (Anna) | Mayshin 
 Comstock | Pheonix 
 Lutices | Molen (male) Emon (female) 
