@@ -9,17 +9,8 @@ Slate | Erik (elderly)
 Daisy | Alphalord (female) 
 Lady Comstock | Starlight 
 Songbird | Salem (Forcefield) 
-
-
-Cameo Characters 
-|||
-|---|---| 
 Handy Man | Rubberdog 
 Boy of Silence | Tutrok 
-
-Vigors
-|||
-|---|---| 
 Possession | Sprite 
 Devil's Kiss | Coka Cola 
 Murder of Crows | Pepsi
