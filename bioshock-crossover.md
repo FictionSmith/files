@@ -5,7 +5,7 @@ Elizabeth (Anna) | Mayshin
 Comstock | Pheonix 
 Lutices | Molen (male) Emon (female) 
 Fink | Ron Regis 
-Slate | Erik (elderly) 
+Slate | Eden 
 Daisy | Alphalord (female) 
 Lady Comstock | Starlight 
 Songbird | Salem (Forcefield) 
