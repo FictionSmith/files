@@ -1,26 +1,26 @@
 |||
 |---|---|
-| Verse | Erathora |
+| Verse | Congeria |
 | Full Name | Mayshin |
 | Pronunciation | /mā-SHin/ |
-| Nickname/Alias | Nikole | 
-| Meaning | Aknerian: "May" arisen "Shin" hero |
-| Origin | Aknerian |
+| Nickname/Alias | Nikole (Earth name) | 
+| Meaning | Plethoran: "May" arisen "Shin" hero |
+| Origin | Plethora |
 | Title | XXX |
-| Pet Name | Buddy (from Tutrok) |
+| Pet Name | XXX |
 | ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
 | Signature | (What is their handwriting like?) |
 | Gender | Female |
 | Gender Role | Predominantly masculine but has an odd mix of both |
 | Orientation | Straight |
-| Real Age | 5,000 Erathoran years old | 
-| Age Appearance | between 17-21 |
-| Birthday | May 7th |
+| Real Age | Not born yet | 
+| Age Appearance | NA |
+| Birthday | May 7th 2017 |
 | Deathday | (May not have one yet) |
-| Birthplace | Akneria |
+| Birthplace | Earth |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
-| Immediate Family | Starlite (mother)<br/>Billy (father)<br/>Alphalord (half-brother)<br/>Robert (brother-in-law) |
+| Immediate Family | Starlight (mother)<br/>Billy (father)<br/>Pheonix (father-in-law)<br/>Alphalord (half-brother)<br/>Robert (Rubberdog) (brother-in-law) |
 | Distant Family | (The ones they don't see every day) |
 | Parenting | Was raised pretty fairly, her father Thomas did everything for her and always look after her |
 | Upbringing | (What morals and ideals were your characters raised with? |
