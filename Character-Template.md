@@ -20,9 +20,9 @@
 | Birthplace | Earth |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
-| Immediate Family | Starlight (mother)<br/>Billy (father)<br/>Pheonix (father-in-law)<br/>Alphalord (half-brother)<br/>Robert (Rubberdog) (brother-in-law) |
+| Immediate Family | Starlight (mother)<br/>Billy (father)<br/>Pheonix (father-in-law)<br/>Alphalord (half-brother)<br/>Rubberdog (brother-in-law-) |
 | Distant Family | (The ones they don't see every day) |
-| Parenting | Was raised pretty fairly, her father Thomas did everything for her and always look after her |
+| Parenting | NA |
 | Upbringing | (What morals and ideals were your characters raised with? |
 | Infancy | ([0-2] What was it like when your character was a baby? Were they nurtured or dropped at birth? |
 | Childhood | ([3-12] What was it like for your character growing as a kid ?) |
@@ -31,7 +31,7 @@
 | Coming of Age | (When and how did your character "grow up"?) |
 | Evolution | (how has your character change since they were younger) |
 | Species | Aknerian-Erathoran |
-| Ethnicity | Mix (Japanese, German, English) That would be Aknerian and Erathoran |
+| Ethnicity | Mix (Japanese, German, English) That would be Plethoran |
 | Blood Type | YES |
 | Preferred Hand | Left handed |
 | Facial Type | (Ex: Oval, heart, square, round,) |
