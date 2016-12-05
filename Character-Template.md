@@ -3,7 +3,7 @@
 | Verse | Congeria |
 | Full Name | Mayshin |
 | Pronunciation | /mā-SHin/ |
-| Nickname/Alias | Nikole (Earth name) | 
+| Nickname/Alias | Nikole (human name) | 
 | Meaning | Plethoran: "May" arisen "Shin" hero |
 | Origin | Plethora |
 | Title | XXX |
