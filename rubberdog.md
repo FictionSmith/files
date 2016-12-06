@@ -14,19 +14,10 @@ Degree of religious practice (e.g. orthodox, casual, lapsed) | None
 Current address | YES 
 Does s/he rent or own?	| No, he's too lazy to get off his recliner 
 Brief description of home | Farmhouse, small, nice and clean, though gets trash out by him most of the time
-
- 
-
- 
-
-Does s/he live with anyone?	 
-Describe the area in which s/he lives 
-(big city, town, rural, other):	 
-Is this his/her ideal home and location?
-If not, what would s/he prefer?	 
-Home decor (check all that apply):	___ Expensive ___ Inexpensive 
-___ Carefully planned ___ Comfortable
-___ Neat ___ Cluttered
+Does s/he live with anyone | Adoptive father Billy, sister-in-law Mayshin  
+Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
+Is this his/her ideal home and location | Does not seem to care as long as he has his own piece and silence from other neighbors and can watch TV in peace 
+Home decor (check all that apply) | Really expensive recliner that Billy paid for and treats it like a trash can, cluttered living room space, lots of movies, cds, and magaxines in his bedroom and not to mention his bedroom looks like Detroit, food lying all over the floor with his ackpack flung in the center of the room, usually trashes out the pantry and the fridge 
 When someone walks in, what's his/her first impression?	 
 Pets?	___ No (why?) ___ Yes
 If yes, what kind and how many? Name(s)?	 
