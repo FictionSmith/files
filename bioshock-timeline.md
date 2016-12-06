@@ -6,4 +6,5 @@
 1892 | January 22: Booker DeWitt is employed by the Pinkerton's National Detective Agency. 
 1892 - 1893 | Booker DeWitt's daughter, Anna, is born. Her mother, Annabelle DeWitt, dies in childbirth. 
 1893 | Comstock successfully lobbies the U.S. Congress to provide funding for the construction of Columbia, a city he intends to make a modern-day ark. Columbia starts a global tour of major cities.<br/>May 1 - October 30: The 1893 Chicago Worlds fair occurs, giving rise to the concept of American exceptionalism. The star attraction of the exposition is the floating city of Columbia, an ambitious project envisioned by the self-proclaimed prophet Zachary Hale Comstock, designed by Rosalind and Robert Lutece, and funded by the U.S. government. 
+October 8: Booker DeWitt gives up his daughter to pay off his gambling debts, and fails to save her after changing his mind. 
 
