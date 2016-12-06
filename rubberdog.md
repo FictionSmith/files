@@ -35,4 +35,51 @@ For current spouse/partner, what does the character call him/her (pet names, nic
 How did they meet? | None 
 Any children (include names, ages, other parent if different from current partner)? | None 
 Describe relationship with each child (if any) | None (hates children) 
+Height | 5.12ft
+Weight | 233ibs 
+What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Overweight  
+Eye color?	| Bark brown  
+Does s/he use glasses? Contacts? Hearing aid?	| None  
+Skin tone (pale, ivory, ruddy, tan, olive, 
+brown, black, etc.) | Furr: white, brown and black  
+Any prominent features, freckles/moles/scars/tattoos/ 
+other distinguishing marks?	| None  
+Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Chubby  
+Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
+General health (good, excellent, poor...)?	 
+Any chronic conditions?	 
+Any current health problems?	 
+How does s/he dress (mark as many as appropriate):	
+PRICE:
+
+__ Expensive     __ Average     
+__ Inexpensive   __  Cheap
+
+STYLE:
+
+__  Haute Couture  __  Conservative   
+__  Trendy    __  Eclectic   __  Business   
+__ Sexy    __  Gaudy    __  Casual   
+__ Sloppy                
+Does s/he dress to be noticed? Why?	
+ 
+
+ 
+
+Any special jewelry?
+If so, why is it special?	 
+Other accessories:	 
+Grooming:	___ Every hair in place, very neat (Why?)
+___ Average grooming 
+___ Clean but sloppy 
+___ Unkempt (Why?)
+Hairstyle
+(long, short, crewcut, locs, bangs, side-part etc.):	 
+Natural hair texture 
+(thick, thin, wiry, smooth, wavy, curly, nappy, etc.):	 
+Current hair texture (if different from above):	 
+Natural hair color:	 
+Current hair color (if different from above):	 
+
+
  
