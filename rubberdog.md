@@ -10,8 +10,7 @@ Birth date | September 3rd
 Place of birth | Maine, United States 
 Ethnic background | Human (Animaguia)  
 Religion | None 
-Degree of religious practice 
-(e.g. orthodox, casual, lapsed) | None 	 
+Degree of religious practice (e.g. orthodox, casual, lapsed) | None 	 
 Current address | YES 
 Does s/he rent or own?	| No, he's too lazy to get off his recliner 
 Brief description of home | Farmhouse, small, nice and clean, though gets trash out by him most of the time
