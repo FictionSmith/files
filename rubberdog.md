@@ -42,8 +42,7 @@ Eye color?	| Bark brown
 Does s/he use glasses? Contacts? Hearing aid?	| None  
 Skin tone (pale, ivory, ruddy, tan, olive, 
 brown, black, etc.) | Furr: white, brown and black  
-Any prominent features, freckles/moles/scars/tattoos/ 
-other distinguishing marks?	| None  
+Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| None  
 Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Chubby  
 Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
 General health (good, excellent, poor...)?	 
