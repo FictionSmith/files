@@ -21,30 +21,18 @@ Home decor (check all that apply) | Really expensive recliner that Billy paid fo
 When someone walks in, what's his/her first impression?	| Guest "What the ___ is that smell?!" Billy " (sigh) that's would be my son..." 
 Pets?	| None, he is a pet himself, expects his dad to feed him, baby him and let him use the bathroom 
 How important are they? How well are they treated?	| Thinks he's all the attention, wants everything his way and will beat someone up if they make fun of him or annoy him too much 
-Current occupation | Gamestop employee  
-(include length of time, location, job title) | 	 
-Job satisfaction (happy, discontent, ambitious...):	 
-Income level:	 
-Education:	 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.):	 
-Sexuality 
-(e.g. straight, gay, bisexual, asexual, unsure...):	 
-Marital status:	 
-If married or currently romantically involved, with whom, and for how long?	 
-List any significant previous romantic partners:	 
-For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)?
- 
-How did they meet?
- 
-
- 
-
- 
-
-Any children (include names, ages, other parent if different from current partner)?
- 
-
- 
-
-Describe relationship with each child (if any):
+Current occupation | VIDEO GAMES R US employee  
+(include length of time, location, job title) | Average of three hours for four days a week, downtown, Games R Us store 	 
+Job satisfaction (happy, discontent, ambitious...) | hates it, wishes he could be at home playing video games rather than selling them 
+Income level 6$ an hour 	 
+Education | Average high school education 
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | 1994 Ford F-150, tan and rusted	 
+Sexuality | Straight 
+Marital status | Single 
+If married or currently romantically involved, with whom, and for how long?	| None 
+List any significant previous romantic partners | None  
+For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | None 
+How did they meet? | None 
+Any children (include names, ages, other parent if different from current partner)? | None 
+Describe relationship with each child (if any) | None (hates children) 
  
