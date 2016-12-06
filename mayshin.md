@@ -6,8 +6,8 @@ Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal
 Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
 Birth date | May 7th 
 Place of birth | Maine, United States 
-Ethnic background | Aknerian-human   
-Religion | Aknero
+Ethnic background | Plethoran-human   
+Religion | Well she is a Guardian so...
 Degree of religious practice (e.g. orthodox, casual, lapsed) | Uncertain  	 
 Current address | YES 
 Does s/he rent or own?	| No but helps out with her father  
