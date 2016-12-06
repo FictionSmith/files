@@ -18,7 +18,7 @@ Does s/he live with anyone | Adoptive father Billy, sister-in-law Mayshin
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
 Is this his/her ideal home and location | Does not seem to care as long as he has his own piece and silence from other neighbors and can watch TV in peace 
 Home decor (check all that apply) | Really expensive recliner that Billy paid for and treats it like a trash can, cluttered living room space, lots of movies, cds, and magazines in his bedroom and not to mention his bedroom looks like Detroit, food lying all over the floor with his backpack flung in the center of the room, usually trashes out the pantry and the fridge 
-When someone walks in, what's his/her first impression?	| Guest "What the ___ is that smell?!" Billy " (sigh) that's would be my son..." 
+When someone walks in, what's his/her first impression? | Will either look at them until they feel uncomfortable 
 Pets?	| None, he is a pet himself, expects his dad to feed him, baby him and let him use the bathroom 
 How important are they? How well are they treated?	| Thinks he's all the attention, wants everything his way and will beat someone up if they make fun of him or annoy him too much 
 Current occupation | VIDEO GAMES R US employee  
