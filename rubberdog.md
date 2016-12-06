@@ -49,21 +49,11 @@ Any chronic conditions?	| YES
 Any current health problems?	| Obesity 
 How does s/he dress (mark as many as appropriate) | wears usualy a short-sleeve t-shirt, jogging pants or jeans, sometimes wears a jacket, wears a watch
 PRICE | Cheap clothes, except the jacket is proubaly a hundred dollars and the watch about 500$
-STYLE | Sloppy jeans, raggedy clothes 
-Any special jewelry?
-If so, why is it special?	 
-Other accessories:	 
-Grooming:	___ Every hair in place, very neat (Why?)
-___ Average grooming 
-___ Clean but sloppy 
-___ Unkempt (Why?)
-Hairstyle
-(long, short, crewcut, locs, bangs, side-part etc.):	 
-Natural hair texture 
-(thick, thin, wiry, smooth, wavy, curly, nappy, etc.):	 
-Current hair texture (if different from above):	 
-Natural hair color:	 
-Current hair color (if different from above):	 
+STYLE | Sloppy jeans, rinkled clothes and old jacket 
+Any special jewelry? | Skull ring 
+If so, why is it special?	| Is makes him think of all his enemies and their skulls will be mounted into a ring one day  
+Other accessories | Cell phone, tablet, headphones, sometimes a couple snacks 	 
+Grooming | Human (Unknown, color: assumingly brown) Current (Messy and spiked, sometimes curly) 
 
 
  
