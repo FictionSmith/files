@@ -40,31 +40,16 @@ Weight | 233ibs
 What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Overweight  
 Eye color?	| Bark brown  
 Does s/he use glasses? Contacts? Hearing aid?	| None  
-Skin tone (pale, ivory, ruddy, tan, olive, 
-brown, black, etc.) | Furr: white, brown and black  
+Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Furr: white, brown and black  
 Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| None  
 Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Chubby  
 Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
-General health (good, excellent, poor...)?	 
-Any chronic conditions?	 
-Any current health problems?	 
-How does s/he dress (mark as many as appropriate):	
-PRICE:
-
-__ Expensive     __ Average     
-__ Inexpensive   __  Cheap
-
-STYLE:
-
-__  Haute Couture  __  Conservative   
-__  Trendy    __  Eclectic   __  Business   
-__ Sexy    __  Gaudy    __  Casual   
-__ Sloppy                
-Does s/he dress to be noticed? Why?	
- 
-
- 
-
+General health (good, excellent, poor...)?	| Poor
+Any chronic conditions?	| YES 
+Any current health problems?	| Obesity 
+How does s/he dress (mark as many as appropriate) | wears usualy a short-sleeve t-shirt, jogging pants or jeans, sometimes wears a jacket, wears a watch
+PRICE | Cheap clothes, except the jacket is proubaly a hundred dollars and the watch about 500$
+STYLE | Sloppy jeans, raggedy clothes 
 Any special jewelry?
 If so, why is it special?	 
 Other accessories:	 
