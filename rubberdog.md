@@ -38,7 +38,7 @@ Describe relationship with each child (if any) | None (hates children)
 Height | 5.12ft
 Weight | 233ibs 
 What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Overweight  
-Eye color?	| Bark brown  
+Eye color?	| Dark brown  
 Does s/he use glasses? Contacts? Hearing aid?	| None  
 Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Furr: white, brown and black  
 Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| None  
