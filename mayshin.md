@@ -6,13 +6,13 @@ Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal
 Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
 Birth date | May 7th 
 Place of birth | Maine, United States 
-Ethnic background | Human (Animaguia)  
-Religion | None 
-Degree of religious practice (e.g. orthodox, casual, lapsed) | None 	 
+Ethnic background | Aknerian-human   
+Religion | Aknero
+Degree of religious practice (e.g. orthodox, casual, lapsed) | Uncertain  	 
 Current address | YES 
-Does s/he rent or own?	| No, he's too lazy to get off his recliner 
-Brief description of home | Farmhouse, small, nice and clean, though gets trash out by him most of the time
-Does s/he live with anyone | Adoptive father Billy, sister-in-law Mayshin  
+Does s/he rent or own?	| No but helps out with her father  
+Brief description of home | Farmhouse, small, nice and clean, though gets trash out by Rubberdog most of the time
+Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
 Is this his/her ideal home and location | Does not seem to care as long as he has his own piece and silence from other neighbors and can watch TV in peace 
 Home decor (check all that apply) | Really expensive recliner that Billy paid for and treats it like a trash can, cluttered living room space, lots of movies, cds, and magazines in his bedroom and not to mention his bedroom looks like Detroit, food lying all over the floor with his backpack flung in the center of the room, usually trashes out the pantry and the fridge 
