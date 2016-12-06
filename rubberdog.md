@@ -5,18 +5,16 @@
 Name origin | He was named after his great great grandfather Bernardo Roberts the Great 	 
 Nickname, if any | Rubberdog
 (if so, explain its origin – e.g. who created it?) | Because his name is Robert and he was transformed into a dog like human called an Animaguia people started making fun of him calling him "Rubberdog" mostly because he was fat too 
-Does s/he like the nickname?	 
-Birth date:	 
-Place of birth:	 
-Ethnic background:	 
-Religion:	 
+Does s/he like the nickname | NOOOOOOOOOOOOOOOO!!! 
+Birth date | September 3rd 
+Place of birth | Maine, United States 
+Ethnic background | Human (Animaguia)  
+Religion | None 
 Degree of religious practice 
-(e.g. orthodox, casual, lapsed):	 
-Current address:	 
-Does s/he rent or own?	 
-Brief description of home
-(apartment, house, trailer, etc.):	
- 
+(e.g. orthodox, casual, lapsed) | None 	 
+Current address | YES 
+Does s/he rent or own?	| No, he's too lazy to get off his recliner 
+Brief description of home | Farmhouse, small, nice and clean, though gets trash out by him most of the time
 
  
 
