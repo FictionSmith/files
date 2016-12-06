@@ -24,7 +24,7 @@ How important are they? How well are they treated?	| Thinks he's all the attenti
 Current occupation | VIDEO GAMES R US employee  
 (include length of time, location, job title) | Average of three hours for four days a week, downtown, Games R Us store 	 
 Job satisfaction (happy, discontent, ambitious...) | hates it, wishes he could be at home playing video games rather than selling them 
-Income level 6$ an hour 	 
+Income level | 6$ an hour 	 
 Education | Average high school education 
 Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | 1994 Ford F-150, tan and rusted	 
 Sexuality | Straight 
