@@ -41,8 +41,8 @@ Does s/he use glasses? Contacts? Hearing aid?	| None
 Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Fair 
 Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| Mark on the palm of her hand   
 Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Heart-shaped  
-Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
-General health (good, excellent, poor...)?	| Poor
+Whom does s/he most look like (e.g. famous person or relative)?	| Ehh... maybe... 
+General health (good, excellent, poor...)?	| Good, exercises usually on a daily basis, yoga, meditation, martial arts, vegetarian diet 
 Any chronic conditions?	| YES 
 Any current health problems?	| YES
 How does s/he dress (mark as many as appropriate) | wears usualy a short-sleeve t-shirt, jogging pants or jeans, sometimes wears a jacket, wears a watch
