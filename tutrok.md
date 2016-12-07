@@ -1,18 +1,16 @@
 |||
 |---|---|
-|||
-|---|---|
-Name origin | was given by her mother Starlight which stands for "Arisen-Hero"  	 
-Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal-usualy by elders or Guardians) buddy or master (Tutrok) 
-(if so, explain its origin – e.g. who created it?) | It is a rare female name from Akneria, usualy it is given to someone who is born on the fifth month of the year 
-Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
-Birth date | May 7th 
-Place of birth | Maine, United States 
-Ethnic background | Plethoran-human   
-Religion | Well she is a Guardian so...
-Degree of religious practice (e.g. orthodox, casual, lapsed) | Uncertain  	 
+Name origin | YES 	 
+Nickname, if any | YES 
+(if so, explain its origin – e.g. who created it?) | YES 
+Does s/he like the nickname | YES 
+Birth date | XXX 
+Place of birth | YES 
+Ethnic background | Bot 
+Religion | None 
+Degree of religious practice (e.g. orthodox, casual, lapsed) | None 	 
 Current address | YES 
-Does s/he rent or own?	| No but helps out with her father  
+Does s/he rent or own?	| Has his own house, takes care of it as much as he can, pays bills
 Brief description of home | Farmhouse, small, nice and clean, though gets trash out by Rubberdog most of the time
 Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
