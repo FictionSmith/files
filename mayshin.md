@@ -1,7 +1,7 @@
 |||
 |---|---|
 Name origin | was given by her mother Starlight which stands for "Arisen-Hero"  	 
-Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal-usualy by elders or Guardians) buddy (Tutrok) 
+Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal-usualy by elders or Guardians) buddy or master (Tutrok) 
 (if so, explain its origin – e.g. who created it?) | It is a rare female name from Akneria, usualy it is given to someone who is born on the fifth month of the year 
 Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
 Birth date | May 7th 
@@ -14,8 +14,8 @@ Does s/he rent or own?	| No but helps out with her father
 Brief description of home | Farmhouse, small, nice and clean, though gets trash out by Rubberdog most of the time
 Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
-Is this his/her ideal home and location | Does not seem to care as long as he has his own piece and silence from other neighbors and can watch TV in peace 
-Home decor (check all that apply) | Really expensive recliner that Billy paid for and treats it like a trash can, cluttered living room space, lots of movies, cds, and magazines in his bedroom and not to mention his bedroom looks like Detroit, food lying all over the floor with his backpack flung in the center of the room, usually trashes out the pantry and the fridge 
+Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
+Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles 
 When someone walks in, what's his/her first impression?	| Guest "What the ___ is that smell?!" Billy " (sigh) that's would be my son..." 
 Pets?	| None, he is a pet himself, expects his dad to feed him, baby him and let him use the bathroom 
 How important are they? How well are they treated?	| Thinks he's all the attention, wants everything his way and will beat someone up if they make fun of him or annoy him too much 
