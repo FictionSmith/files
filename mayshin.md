@@ -16,7 +16,7 @@ Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes T
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
 Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
 Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles 
-When someone walks in, what's his/her first impression?	| Guest "What the ___ is that smell?!" Billy " (sigh) that's would be my son..." 
+When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them  hug
 Pets?	| None, he is a pet himself, expects his dad to feed him, baby him and let him use the bathroom 
 How important are they? How well are they treated?	| Thinks he's all the attention, wants everything his way and will beat someone up if they make fun of him or annoy him too much 
 Current occupation | VIDEO GAMES R US employee  
