@@ -244,9 +244,11 @@ Compliment: (Have your character say something nice)
 Insult: (Have your character insult someone)
 Expletive: (Can be an actual cuss (Ex: Dammit) or some kind of substitute. (Ex: Darn it!)
 Laughter: (What does your character's laugh sound like?)
+
 |||
 | ---|---|
-Tag Line | Sup fam! (Something your character says a lot in everyday sentences. Can often be filled with a sound or vocalization. Ex: Lol, dude, uh)
+| Tag Line | Sup fam! |
+(Something your character says a lot in everyday sentences. Can often be filled with a sound or vocalization. Ex: Lol, dude, uh)
 Signature Quote: (Something significant your character says. Doesn't have to be meaningful, just make it memorable.)
 Reputation: (What does the general population think of your character?)
 First Impressions: (What would you first think of this character upon meeting them?)
