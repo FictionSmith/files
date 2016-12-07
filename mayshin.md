@@ -15,12 +15,12 @@ Brief description of home | Farmhouse, small, nice and clean, though gets trash 
 Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
 Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
-Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles 
-When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them  hug
-Pets?	| None, he is a pet himself, expects his dad to feed him, baby him and let him use the bathroom 
-How important are they? How well are they treated?	| Thinks he's all the attention, wants everything his way and will beat someone up if they make fun of him or annoy him too much 
-Current occupation | VIDEO GAMES R US employee  
-(include length of time, location, job title) | Average of three hours for four days a week, downtown, Games R Us store 	 
+Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles
+When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them hug
+Pets?	| YES 
+How important are they? How well are they treated?	| XXX
+Current occupation | Starbucks   
+(include length of time, location, job title) | Cashier, four days 9:46/hr  
 Job satisfaction (happy, discontent, ambitious...) | hates it, wishes he could be at home playing video games rather than selling them 
 Income level | 6$ an hour 	 
 Education | Average high school education 
@@ -33,8 +33,8 @@ For current spouse/partner, what does the character call him/her (pet names, nic
 How did they meet? | None 
 Any children (include names, ages, other parent if different from current partner)? | None 
 Describe relationship with each child (if any) | None (hates children) 
-Height | 5.12ft
-Weight | 233ibs 
+Height | 5.6ft
+Weight | XXXibs 
 What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Overweight  
 Eye color?	| Dark brown  
 Does s/he use glasses? Contacts? Hearing aid?	| None  
@@ -44,7 +44,7 @@ Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Chub
 Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
 General health (good, excellent, poor...)?	| Poor
 Any chronic conditions?	| YES 
-Any current health problems?	| Obesity 
+Any current health problems?	| YES
 How does s/he dress (mark as many as appropriate) | wears usualy a short-sleeve t-shirt, jogging pants or jeans, sometimes wears a jacket, wears a watch
 PRICE | Cheap clothes, except the jacket is proubaly a hundred dollars and the watch about 500$
 STYLE | Sloppy jeans, rinkled clothes and old jacket 
