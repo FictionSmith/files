@@ -17,30 +17,30 @@ Describe the area in which s/he lives | Kind of a rural area but also suburban, 
 Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
 Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles
 When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them hug
-Pets?	| YES 
+Pets?	| Goldfish 
 How important are they? How well are they treated?	| XXX
 Current occupation | Starbucks   
-(include length of time, location, job title) | Cashier, four days 9:46/hr  
-Job satisfaction (happy, discontent, ambitious...) | hates it, wishes he could be at home playing video games rather than selling them 
-Income level | 6$ an hour 	 
-Education | Average high school education 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | 1994 Ford F-150, tan and rusted	 
-Sexuality | Straight 
-Marital status | Single 
-If married or currently romantically involved, with whom, and for how long?	| None 
-List any significant previous romantic partners | None  
-For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | None 
-How did they meet? | None 
+(include length of time, location, job title) | Cashier, four days a week  
+Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
+Income level | 9:46/hr  
+Education | Private High School 
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | 2017 Nissan 370Z (1951 le sabre converiblle)
+Sexuality | Straight, slightly curious  
+Marital status | Complicated  
+If married or currently romantically involved, with whom, and for how long?	| YES  
+List any significant previous romantic partners | YES  
+For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | YES  
+How did they meet? | YES  
 Any children (include names, ages, other parent if different from current partner)? | None 
-Describe relationship with each child (if any) | None (hates children) 
+Describe relationship with each child (if any) | None  
 Height | 5.6ft
 Weight | XXXibs 
-What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Overweight  
-Eye color?	| Dark brown  
+What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Slim and short 
+Eye color?	| Crystal blue   
 Does s/he use glasses? Contacts? Hearing aid?	| None  
-Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Furr: white, brown and black  
-Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| None  
-Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Chubby  
+Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Fair 
+Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| Mark on the palm of her hand   
+Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Heart-shaped  
 Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
 General health (good, excellent, poor...)?	| Poor
 Any chronic conditions?	| YES 
