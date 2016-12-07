@@ -45,13 +45,11 @@ Whom does s/he most look like (e.g. famous person or relative)?	| Ehh... maybe..
 General health (good, excellent, poor...)?	| Good, exercises usually on a daily basis, yoga, meditation, martial arts, vegetarian diet 
 Any chronic conditions?	| YES 
 Any current health problems?	| YES
-How does s/he dress (mark as many as appropriate) | wears usualy a short-sleeve t-shirt, jogging pants or jeans, sometimes wears a jacket, wears a watch
-PRICE | Cheap clothes, except the jacket is proubaly a hundred dollars and the watch about 500$
-STYLE | Sloppy jeans, rinkled clothes and old jacket 
-Any special jewelry? | Skull ring 
-If so, why is it special?	| Is makes him think of all his enemies and their skulls will be mounted into a ring one day  
-Other accessories | Cell phone, tablet, headphones, sometimes a couple snacks 	 
-Grooming | Human (Unknown, color: assumingly brown) Current (Messy and spiked, sometimes curly) 
-
-
+How does s/he dress (mark as many as appropriate) | Wears a sweater with a hoodie, short jeans, yoga pants or sometimes a kilt dress 
+PRICE | YES 
+STYLE | YES 
+Any special jewelry? | Crystal necklace
+If so, why is it special?	| YES 
+Other accessories | Cell phone, tablet, headphones
+Grooming | Medium-length hair with bangs, usualy scruffy or spiked 
  
