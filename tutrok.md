@@ -37,21 +37,21 @@ Height | 5.6ft
 Weight | XXXibs 
 What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Slim and short 
 Eye color?	| Crystal blue   
-Does s/he use glasses? Contacts? Hearing aid?	| None  
-Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Fair 
-Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| Mark on the palm of her hand   
-Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Heart-shaped  
-Whom does s/he most look like (e.g. famous person or relative)?	| Beethoven (the dog) 
-General health (good, excellent, poor...)?	| Poor
-Any chronic conditions?	| YES 
-Any current health problems?	| YES
-How does s/he dress (mark as many as appropriate) | wears usualy a short-sleeve t-shirt, jogging pants or jeans, sometimes wears a jacket, wears a watch
-PRICE | Cheap clothes, except the jacket is proubaly a hundred dollars and the watch about 500$
-STYLE | Sloppy jeans, rinkled clothes and old jacket 
-Any special jewelry? | Skull ring 
-If so, why is it special?	| Is makes him think of all his enemies and their skulls will be mounted into a ring one day  
-Other accessories | Cell phone, tablet, headphones, sometimes a couple snacks 	 
-Grooming | Human (Unknown, color: assumingly brown) Current (Messy and spiked, sometimes curly) 
+Does s/he use glasses? Contacts? Hearing aid?	| YESSSSS FAAAMMM!!
+Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | "Hey guuuys I'm greeeeyyyy!!!" 
+Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| GLASSES can never EVER come OFF  
+Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| BLOCK
+Whom does s/he most look like (e.g. famous person or relative)?	| R2-D2 eh dk WALL-E 
+General health (good, excellent, poor...)?	| MER 
+Any chronic conditions?	| Constantly changed from SMARTS to DUH
+Any current health(technical difficulties) problems?	| YES AND A LOT OF THEM
+How does s/he dress (mark as many as appropriate) | No clothes 
+PRICE | IDK 
+STYLE | WAT?
+Any special jewelry? | NOPE
+If so, why is it special?	| IDK  
+Other accessories | Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Grooming | "I got no hairs!" 
 
 
  
