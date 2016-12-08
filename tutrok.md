@@ -22,21 +22,21 @@ How important are they? How well are they treated?	| XXX
 Current occupation | Starbucks   
 (include length of time, location, job title) | Cashier, four days a week  
 Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
-Income level | 9:46/hr  
-Education | Private High School 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | MG Midget, Steamroller, ice cream truck, tow truck
-Sexuality | Straight, slightly curious  
-Marital status | Complicated  
+Income level | 2 cents a melinium  
+Education | YES 
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | MG Midget, Steamroller, ice cream truck, tow truck 
+Sexuality | ....
+Marital status | SINGAL HAR HAR 
 If married or currently romantically involved, with whom, and for how long?	| YES  
-List any significant previous romantic partners | YES  
-For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | YES  
-How did they meet? | YES  
-Any children (include names, ages, other parent if different from current partner)? | None 
-Describe relationship with each child (if any) | None  
-Height | 5.6ft
-Weight | XXXibs 
-What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Slim and short 
-Eye color?	| Crystal blue   
+List any significant previous romantic partners | YES
+For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | IDK  
+How did they meet? | IDK 
+Any children (include names, ages, other parent if different from current partner)? | NOPES 
+Describe relationship with each child (if any) | IDK 
+Height | 4.6ft 
+Weight | 33,087.96 tons 
+What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Square and blocky  
+Eye color?	| Silver  
 Does s/he use glasses? Contacts? Hearing aid?	| YESSSSS FAAAMMM!!
 Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | "Hey guuuys I'm greeeeyyyy!!!" 
 Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| GLASSES can never EVER come OFF  
