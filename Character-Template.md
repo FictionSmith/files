@@ -4,24 +4,24 @@
 | Full Name | Mayshin Numani |
 | Pronunciation | /mā-SHin/ |
 | Nickname/Alias | Nikole: human name<br/>Maya: other name | 
-| Meaning | Plethoran: "May" arisen "Shin" hero |
+| Meaning | Plethoran-Aknerian: "May" arisen "Shin" hero |
 | Origin | Plethora |
 | Title | XXX |
-| Pet Name | XXX |
+| Pet Name | Nikole: human name<br/>Maya: other name |
 | ID Number | (A number that may also be used to identify your character, such as tournaments and prison settings) |
 | Signature | (What is their handwriting like?) |
-| Gender | Female |
-| Gender Role | Predominantly masculine but has an odd mix of both |
-| Orientation | Straight |
-| Real Age | Not born yet | 
-| Age Appearance | NA |
-| Birthday | May 7th 2017 |
+| Gender | female |
+| Gender Role | predominantly masculine but has an odd mix of both |
+| Orientation | straight<br/>slightly curious |
+| Real Age | N/A | 
+| Age Appearance | N/A |
+| Birthday | 7/5/17 |
 | Deathday | (May not have one yet) |
-| Birthplace | Earth |
+| Birthplace | Earth (human planet) |
 | Astrological Sign | Taurus (bull) |
 | Zodiac Sign | Tiger |
-| Immediate Family | Starlight (mother)<br/>Billy (father)<br/>Pheonix (father-in-law)<br/>Alphalord (half-brother)<br/>Rubberdog (brother-in-law-) |
-| Distant Family | (The ones they don't see every day) |
+| Immediate Family | Starlite (mother)<br/>Billy (father)<br/>Robert (brother-in-law-)<br/>Thomas (second cousin) |
+| Distant Family | Feonix (father-in-law)<br/>Alphalord (half-brother) |
 | Parenting | NA |
 | Upbringing | (What morals and ideals were your characters raised with? |
 | Infancy | ([0-2] What was it like when your character was a baby? Were they nurtured or dropped at birth? |
