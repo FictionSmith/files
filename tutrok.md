@@ -15,7 +15,7 @@ Brief description of home | |"Big blue and old, with lots of computer stuffs ins
 Does s/he live with anyone | "No... Except my master Mayshin!!!" (on occasions) 
 Describe the area in which s/he lives | LOTS AND A LOT OF HOUSES!
 Is this his/her ideal home and location | YUP 
-Home decor (check all that appldidyoudoanytyhingwiththesantaclubthingyet?y) NOOOOOOOO!!!! | Sigh... living room: Bookshelves, old photos of random people he doesn't even know, TV from like the 80s. Second living room: grandfather clock, couch-bed thingy. Office: computer, books, desk, plants. Kitchen: table, old plate collection. Bathroom: sigh... Bedroom: bed, okay i'm done here..
+Home decor (check all that appl did you do anytyhing with the santa club thing yet?y) NOOOOOOOO!!!! | Sigh... living room: Bookshelves, old photos of random people he doesn't even know, TV from like the 80s. Second living room: grandfather clock, couch-bed thingy. Office: computer, books, desk, plants. Kitchen: table, old plate collection. Bathroom: sigh... Bedroom: bed, okay i'm done here..
 When someone walks in, what's his/her first impression?	| "HIIIII EVERYBODIIIES!!! Wants some teas?!" 
 How important are they? How well are they treated?	| Treated like a trash can by everyone else, Mayshin only looks out after him because she knows nobody likes him so she makes him not feel bad about himself 
 Current occupation | Y E S 
