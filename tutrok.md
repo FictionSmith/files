@@ -1,30 +1,29 @@
 |||
 |---|---|
-Name origin | YES 	 
-Nickname, if any | YES 
+Name origin | Tutrok is a fictional latin word for mechanical menace  	 
+Nickname, if any | Tut  
 (if so, explain its origin – e.g. who created it?) | YES 
-Does s/he like the nickname | YES 
+Does s/he like the nickname | Yup
 Birth date | XXX 
 Place of birth | YES 
 Ethnic background | Bot 
-Religion | None 
+Religion | IDK 
 Degree of religious practice (e.g. orthodox, casual, lapsed) | None 	 
-Current address | YES 
-Does s/he rent or own?	| Has his own house, takes care of it as much as he can, pays bills
-Brief description of home | Farmhouse, small, nice and clean, though gets trash out by Rubberdog most of the time
-Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
-Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
-Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
-Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles
-When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them hug
-Pets?	| Goldfish 
-How important are they? How well are they treated?	| XXX
-Current occupation | Starbucks   
-(include length of time, location, job title) | Cashier, four days a week  
-Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
+Current address | YES FAM  
+Does s/he rent or own?	|Can robots rent on their own? 
+Brief description of home | |"Big blue and old, with lots of computer stuffs inside!"
+Does s/he live with anyone | "No... Except my master Mayshin!!!" (on occasions) 
+Describe the area in which s/he lives | LOTS AND A LOT OF HOUSES!
+Is this his/her ideal home and location | YUP 
+Home decor (check all that appldidyoudoanytyhingwiththesantaclubthingyet?y) NOOOOOOOO!!!! | Sigh... living room: Bookshelves, old photos of random people he doesn't even know, TV from like the 80s. Second living room: grandfather clock, couch-bed thingy. Office: computer, books, desk, plants. Kitchen: table, old plate collection. Bathroom: sigh... Bedroom: bed, okay i'm done here..
+When someone walks in, what's his/her first impression?	| "HIIIII EVERYBODIIIES!!! Wants some teas?!" 
+How important are they? How well are they treated?	| Treated like a trash can by everyone else, Mayshin only looks out after him because she knows nobody likes him so she makes him not feel bad about himself 
+Current occupation | Y E S 
+(include length of time, location, job title) | Y E S   
+Job satisfaction (happy, discontent, ambitious...) | Loves it like itsthe best thing in the world 
 Income level | 2 cents a melinium  
 Education | YES 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | MG Midget, Steamroller, ice cream truck, tow truck 
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | MG Midget, Priest, steamroller, ice cream truck, tow truck 
 Sexuality | ....
 Marital status | SINGAL HAR HAR 
 If married or currently romantically involved, with whom, and for how long?	| YES  
