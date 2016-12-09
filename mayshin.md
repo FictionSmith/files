@@ -24,7 +24,7 @@ Current occupation | Starbucks
 Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
 Income level | 9:46/hr  
 Education | Private High School 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | 2017 Nissan 370Z (1951 le sabre converiblle)
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | Sports car: 2017 Nissan 370Z 
 Sexuality | Straight, slightly curious  
 Marital status | Complicated  
 If married or currently romantically involved, with whom, and for how long?	| YES  
