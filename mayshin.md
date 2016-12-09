@@ -2,11 +2,11 @@
 |---|---|
 Name origin | was given by her mother Starlight which stands for "Arisen-Hero"  	 
 Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal-usualy by elders or Guardians) buddy or master (Tutrok) 
-(if so, explain its origin – e.g. who created it?) | It is a rare female name from Akneria, usualy it is given to someone who is born on the fifth month of the year 
+(if so, explain its origin – e.g. who created it?) | It is a rare female name in Aknerian, usualy it is given to someone who is born on the fifth month of the year 
 Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
 Birth date | May 7th 
 Place of birth | Maine, United States 
-Ethnic background | Plethoran-human   
+Ethnic background | Aknerian-human   
 Religion | Well she is a Guardian so...
 Degree of religious practice (e.g. orthodox, casual, lapsed) | Uncertain  	 
 Current address | YES 
