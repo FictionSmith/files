@@ -49,7 +49,7 @@ PRICE | IDK
 STYLE | WAT?
 Any special jewelry? | NOPE
 If so, why is it special?	| IDK  
-Other accessories | Uhhhhhhhhhhhhhhhh<br/>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh<br/>hhhhhhhhhhhhhhhhhh
+Other accessories | Uhhhhhhhhhhhhhhhh
 Grooming | "I got no hairs!" 
 
 
