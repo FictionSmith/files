@@ -1,9 +1,9 @@
 |||
 |---|---|
-| Verse | Congeria |
-| Full Name | Mayshin |
+| Verse | The Blue Diamond Chronicles |
+| Full Name | Mayshin Numani |
 | Pronunciation | /mā-SHin/ |
-| Nickname/Alias | Nikole (human name) | 
+| Nickname/Alias | Nikole: human name<br/>Maya: other name | 
 | Meaning | Plethoran: "May" arisen "Shin" hero |
 | Origin | Plethora |
 | Title | XXX |
