@@ -23,7 +23,7 @@ Current occupation | Starbucks
 (include length of time, location, job title) | Cashier, four days a week  
 Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
 Income level | 9:46/hr  
-Education | Private High School 
+Education | Private High School, college level 
 Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | Sports car: 2017 Nissan 370Z 
 Sexuality | Straight, slightly curious  
 Marital status | Complicated  
@@ -46,7 +46,7 @@ General health (good, excellent, poor...)?	| Good, exercises usually on a daily 
 Any chronic conditions?	| YES 
 Any current health problems?	| YES
 How does s/he dress (mark as many as appropriate) | Wears a sweater with a hoodie, short jeans, yoga pants or sometimes a kilt dress 
-PRICE | YES 
+PRICE | Hoodie about 100$, kilt maybe 240$ 
 STYLE | YES 
 Any special jewelry? | Crystal necklace
 If so, why is it special?	| YES 
