@@ -23,7 +23,7 @@ Current occupation | Y E S
 Job satisfaction (happy, discontent, ambitious...) | Loves it like itsthe best thing in the world 
 Income level | 2 cents a melinium  
 Education | YES 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | MG Midget, Priest, steamroller, ice cream truck, tow truck 
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | Honda N-Box, MG Midget, Priest, steamroller, ice cream truck, tow truck 
 Sexuality | ....
 Marital status | SINGAL HAR HAR 
 If married or currently romantically involved, with whom, and for how long?	| YES  
