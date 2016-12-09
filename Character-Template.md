@@ -72,7 +72,7 @@
 | Mood | (What mood are you most likely to catch your character in?) |
 | Attitude | (How does your character interact with others?) |
 | Stability | (How emotionally consistant are they?) |
-| Expressiveness | (Do they hide emotion or let it out openly?) |
+| Expressiveness | hide emotions|
 | When Happy | Likes to make jokes, have fun with friends or go on adventures. |
 | When Depressed | Listens to music or puts her arm against her face. | 
 | When Angry | Kicking someone's a** or uses spells on someone who really annoying. | 
