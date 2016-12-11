@@ -17,6 +17,7 @@
 1904 | June 1: Fink resumes production of Barnstormer rocket launchers, which was left on hold after Boxer Rebellion incident.<br/>Payton Lane Easter & Sons begins producing Automated Stallions.<br/>Emporia Towers is bombed by a man the Vox Populi believe to be an unnamed postman.<br/>The Siphon is installed in the tower on Monument Island and begins to limit and harness Elizabeth's powers.
 1905 | Vanderwall & Palmer begins to sell Sky-Hooks for traveling on Columbia's Sky-Line.<br/>Chen Lin opens his Gunsmith Shop in the Plaza of Zeal at Finkton.<br/>March 16: The Vox Populi attack the local prison and rescue several of their comrades. As a result of the situation, Chief Poole's leadership is questioned, and Fitzroy reconsiders John Goldman's loyalty to the cause. 
 1906 | April 11: Chief Poole is assassinated by an unknown sniper during a meeting with city officials and the act is claimed by the Vox Populi. Police officer Harrison Thacker is appointed as Chief of Police, and publicly announces a fierce campaign to be made against Vox Populi terrorism.
-1907 | XXX 
+1907 | May 17: Police forces strike a violent blow at a cabal of Vox Populi in retaliation to Poole's assassination, but with heavy losses on both sides. 
+1908 | June 4: The Vox Populi bombs the office of Columbia's treasurer Montgomery Billings to destroy the debt records of the working class. The bombing caused no casualties.<br/>September 17: Construction of the RMS Titanic begins in Belfast Harbour.
 
 
