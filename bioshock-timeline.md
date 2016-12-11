@@ -16,6 +16,7 @@
 1903 | February 13: Daisy Fiztroy reveals herself as the leader of thw Vox Populi.<br/>November 23: A bomb is discovered by the police forces, following an anonymous tip, and it is revealed as belonging to the Vox Populi. Several eyewitnesses, however, report seeing men dressed as police members placing the explosives before the arrival of the official investigation, leading both sides to accuse one another.<br/>Solider's Field amusement park is completed.
 1904 | June 1: Fink resumes production of Barnstormer rocket launchers, which was left on hold after Boxer Rebellion incident.<br/>Payton Lane Easter & Sons begins producing Automated Stallions.<br/>Emporia Towers is bombed by a man the Vox Populi believe to be an unnamed postman.<br/>The Siphon is installed in the tower on Monument Island and begins to limit and harness Elizabeth's powers.
 1905 | Vanderwall & Palmer begins to sell Sky-Hooks for traveling on Columbia's Sky-Line.<br/>Chen Lin opens his Gunsmith Shop in the Plaza of Zeal at Finkton.<br/>March 16: The Vox Populi attack the local prison and rescue several of their comrades. As a result of the situation, Chief Poole's leadership is questioned, and Fitzroy reconsiders John Goldman's loyalty to the cause. 
-
+1906 | April 11: Chief Poole is assassinated by an unknown sniper during a meeting with city officials and the act is claimed by the Vox Populi. Police officer Harrison Thacker is appointed as Chief of Police, and publicly announces a fierce campaign to be made against Vox Populi terrorism.
+1907 | XXX 
 
 
