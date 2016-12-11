@@ -21,7 +21,13 @@
 1908 | June 4: The Vox Populi bombs the office of Columbia's treasurer Montgomery Billings to destroy the debt records of the working class. The bombing caused no casualties.<br/>September 17: Construction of the RMS Titanic begins in Belfast Harbour.
 1909 | May 7: Daisy Fiztroy is captured by Columbia's Police following a tip regarding plans for sabotage to the Sky-Line network. Legal expert John Goldman reassures the rebels that there was no betrayal from within the Vox Populi. Fitzroy is sent to the Comstock House Re-Education Center to be studied by Dr. Francis Pinchot before her sentencing.<br/>May 9: Daisy Fitzroy is sentenced to death by immolation on the 14th of May, and her body to be thrown out of the city. John Goldman, who dissapeared since her arrest, is revealed to the Vox Populi to be the traitor who gave away their leader. Unknown to the public, Fitzroy is scheduled for a lobotomy before her execution.<br/>May 13: A bomb detonates at Comstock Plaza where Fitzroy's execution was in preparation. At the same time, Vox members get into Comstock House and Dr. Pinchot is betrayed and murdered by Daisy Fitzroy after promising to assist in her escape before the lobotomy.<br/>October 31: The Luteces are supposedly killed after one of their machines is sabotaged by Jeremiah Fink. Instead, it disperses them across multiple realities, allowing them to exist across all of time and space. 
 1911 | May 31: The RMS Titanic is registered in Liverpool, England and launches on its maiden voyage.<br/>August 15: Columbia's police force debuts the Motorized Patriot. The Vox Populi see it as another reason to rally against the Founders. 
-1912 | XXX 
+1912 | March 13: City officials grant Police Chief Thacker the authority to apply his "Final Strike" and arrest the rest of the Vox Populi members. The rebels renew their determination in the conflict.<br/>April 14-15: The RMS Titanic collides with an iceberg at 41° 46′ N, 50° 14′ W, and starts sinking.<br/>June 11: Jeremiah Fink considers changing Vigors formula to injectable ones to reduce their production cost.<br/>The Lutece twins find Booker DeWitt and bring him into Comstock's timeline so he can reclaim Elizabeth. Across at least 122 different realities, none of Booker's attempts are successful.<br/>July 6: Columbia celebrates the 10th anniversary of its secession with the United States. The events of BioShock Infinite occur.<br/>The events of BioShock Infinite and existence of Columbia are erased from the multiverse due to Booker DeWitt and Elizabeth's actions. Burial at Sea has Elizabeth visit a version of Columbia, which takes place before the erasure of the Columbia timelines.
+
+
+
+
+
+
 
 
 
