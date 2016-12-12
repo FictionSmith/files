@@ -1,4 +1,5 @@
-|Alphalord|XXX|
+|Alphalord|![Alphalord](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj17rue3u3QAhWHhlQKHXMgDksQjRwIBw&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Flotr%2Fcomments%2F1ukfyr%2Fwhat_does_sauron_look_like_under_his_armor%2F&psig=AFQjCNHGa3EGv93B-di7XssBngzBZN8Rpw&ust=1481600531246217)
+Forma: ![Alt Text](url)|
 |---|---|
 Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
 Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
