@@ -1,4 +1,4 @@
-|Alphalord|![Alphalord](http://static2.wikia.nocookie.net/__cb20071018031245/lotr/images/e/e8/1165596377sauron1.jpg)|
+|Alphalord|![Alphalord](http://static2.wikia.nocookie.net/__cb20071018031245/lotr/images/e/e8/1165596377sauron1.jpg)<br/>(Note this image is used for inspirational use only)|
 |---|---|
 Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
 Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
