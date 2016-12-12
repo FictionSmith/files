@@ -27,20 +27,20 @@ Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, ag
 Sexuality | Unknown (assumingly straight)
 Marital status | Assumingly single   
 If married or currently romantically involved, with whom, and for how long?	| YES  
-List any significant previous romantic partners | YES  
-For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | YES  
-How did they meet? | YES  
-Any children (include names, ages, other parent if different from current partner)? | None 
-Describe relationship with each child (if any) | None  
-Height | 5.6ft
-Weight | XXXibs 
-What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Slim and short 
+List any significant previous romantic partners | N/A 
+For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | N/A
+How did they meet? | N/A  
+Any children (include names, ages, other parent if different from current partner)? | One son; but was not given by birth. However this is no clear evidence if he really had a son or not. Name is unknown. 
+Describe relationship with each child (if any) | N/A  
+Height | 7.2ft
+Weight | 190ibs 
+What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, etc.)?	| Muscular mesomorph 
 Eye color?	| Crystal blue   
 Does s/he use glasses? Contacts? Hearing aid?	| None  
-Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | Fair 
-Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| Mark on the palm of her hand   
-Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Heart-shaped  
-Whom does s/he most look like (e.g. famous person or relative)?	| Ehh... maybe... 
+Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | slightly dark (younger)<br/>pale (older) 
+Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| a scar going across his right eye from when he killed his father which left a mark with his blade after a brutal fight moments before he killed his father.    
+Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Oval  
+Whom does s/he most look like (e.g. famous person or relative)?	| Jason Isaacs (British actor)<br/>Benedict Cumberbatch (British actor)
 General health (good, excellent, poor...)?	| Good, exercises usually on a daily basis, yoga, meditation, martial arts, vegetarian diet 
 Any chronic conditions?	| YES 
 Any current health problems?	| YES
