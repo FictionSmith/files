@@ -11,8 +11,8 @@ Degree of religious practice (e.g. orthodox, casual, lapsed) | N/A
 Current address | 2748 Thijan Blvd. Observatory, Akneria 
 Does s/he rent or own?	| Him and his father [Feonix](https://) do not pay the rent whatsoever, instead their servants pay at least 70 Asymeth a week (that is the equivalent 420 million  US dollars) 
 Brief description of home | The Observatory is quite big, being nearly 86,976,258 square feet and being on top of a dormant supervolcano knwon as Mount Eberos; along side an amphitheater and a court house. The halls of the Observatory are long with glowing green mists that blanket the floors and the walls made out of the mountain. 
-Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
-Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
+Does s/he live with anyone | Alpha lives with his family: his father [Feonix](https://), his mother [Starlite](https://), sister [Mayshin](https://), a couple other Guardians and officials who serve the Court and the servants  
+Describe the area in which s/he lives | Akneria is a self-ruling state in an area completely alien from the rest of Plethora, being the center is Mount Eberos, volcanic springs, the city of Basile which is the capitol of Akneria and an ocean to the north
 Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
 Home decor (check all that apply) | Bedroom: Desk with laptop and notebooks and painting supply, Martial Arts awards and some Ketanas hanging on the wall, walk in closet with her favorite clothes such as dresses, sweaters, jackets and hoodies. Flat screen TV, game consoles
 When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them hug
