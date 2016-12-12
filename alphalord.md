@@ -18,14 +18,14 @@ Home decor (check all that apply) | Walls, floors and basically the main structu
 When someone walks in, what's his/her first impression?	| Alpha doesn't like guest in his home, if someone walks in he doesn't like or known he usualy gives them a dirty look: indicating that they don't deserve to step foot in his home
 Pets?	| [Salem](https://): a 300-foot long [Reeper](https://) that feeds off of holes through time and space and sometimes just about anything including people. Salem is alos refered as "[Forcefield](https://)."
 How important are they? How well are they treated?	| Alpha uses Salem as a weapon to destroy things from people to nearly planets, but is killed later on by [Konos](https://) in battle. You can see Alpha slighty unimpressed to his companion's death. 
-Current occupation | Lord of the [Guardian Insurgency](https://)<br/>later on becomes part of the ------   
+Current occupation | Lord of the [Guardian Insurgency](https://)<br/>later on becomes part of the [Order](https://)   
 (include length of time, location, job title) | 24/7, anywhere he please mostly at the [Observatory](https://) 
-Job satisfaction (happy, discontent, ambitious...) | You never clearly see Alpha's true emotion towards his reign, most of it is a mix of both pride and still anger, pride for fulfilling his place as "lord" but also anger for what he went through growing up in his childhood and little regret for killing his parents. 
-Income level | 9:46/hr  
-Education | Private High School, college level 
-Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | Sports car: 2017 Nissan 370Z 
-Sexuality | Straight, slightly curious  
-Marital status | Complicated  
+Job satisfaction (happy, discontent, ambitious...) | You never clearly see Alpha's true emotion towards his reign, most of it is a mix of both prid, anger and regret. Pride for fulfilling his place as "lord" but also anger for what he went through growing up in his childhood and little regret for killing his father [Feonix](https://) and destroying his innocence. 
+Income level |  YES
+Education | At birth a full-blooded Guardian is given every single knowledge about the universe and is already an adult at the age of 1. Guardian's don't need school's or place of education because of this gift. 
+Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | Rides on the back of a Akrihide (black stallion), or on the back of [Salem](https://) 
+Sexuality | Unknown (assumingly straight)
+Marital status | Assumingly single   
 If married or currently romantically involved, with whom, and for how long?	| YES  
 List any significant previous romantic partners | YES  
 For current spouse/partner, what does the character call him/her (pet names, nicknames, etc.)? | YES  
