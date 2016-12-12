@@ -41,14 +41,14 @@ Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | slightly dark (
 Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| a scar going across his right eye from when he killed his father which left a mark with his blade after a brutal fight moments before he killed his father.    
 Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Oval  
 Whom does s/he most look like (e.g. famous person or relative)?	| [Jason Isaacs](https://en.wikipedia.org/wiki/Jason_Isaacs) (British actor)<br/>[Benedict Cumberbatch](https://en.wikipedia.org/wiki/Benedict_Cumberbatch) (British actor)
-General health (good, excellent, poor...)?	| Good, exercises usually on a daily basis, yoga, meditation, martial arts, vegetarian diet 
-Any chronic conditions?	| YES 
-Any current health problems?	| YES
-How does s/he dress (mark as many as appropriate) | Wears a sweater with a hoodie, short jeans, yoga pants or sometimes a kilt dress 
-PRICE | Hoodie about 100$, kilt maybe 240$ 
-STYLE | YES 
-Any special jewelry? | Crystal necklace
-If so, why is it special?	| YES 
-Other accessories | Cell phone, tablet, headphones
-Grooming | Medium-length hair with bangs, usualy scruffy or spiked 
+General health (good, excellent, poor...)?	| Alpha is technically dead but alive as he portrays as a spiritual-being. Doesn't eat or sleep, so is in good shape for a Guardian-lord.
+Any chronic conditions?	| Mostly his hatred for his father that never goes away and his self-obsession 
+Any current health problems?	| You could say that his powers are actually destroying him very slowly as he gets older
+How does s/he dress (mark as many as appropriate) | Robe, armor with helmet (appearing to be a Anubis head) later on goes without helmet
+PRICE | HOW DAFTPUNK AM I SUPPOSE TO KNOW?
+STYLE | Egyptian-Samurai style with armour crest of gold and jade
+Any special jewelry? | Earrings, rings, necklace with Guardian symbol and a few piercings
+If so, why is it special?	| Why wouldn't it be? Alpha loves hoarding his jewerly  
+Other accessories | Staff, stone-sword of lightning bolts, dagger, carries a cloth given to him by his mother [Starlite](https://) not because he missed her or still loved her but because it was a symbol of his past and evolution to what he had become 
+Grooming | long dreadlocks
  
