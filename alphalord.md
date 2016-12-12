@@ -15,9 +15,9 @@ Does s/he live with anyone | Alpha lives with his family: his father [Feonix](ht
 Describe the area in which s/he lives | [Akneria](https://) being the future [Plethora](https://) in a different universe which by then looks completely alien by then. Being the center is Mount Eberos, volcanic springs, the city of Basile which is the capitol of [Akneria](https://) and an ocean to the north
 Is this his/her ideal home and location | He didn't want the [Akneria](https://) his father [Feonix](https://) created, he wanted a world that would be enslaved to his dark-cold hatred heart. With the distruction of a quarter of the planet's wildlife, plantlife and inhabitants, [Plethora](https://) became a dark and evil haven for Alphalord.
 Home decor (check all that apply) | Walls, floors and basically the main structure of the Observatory are made of obsideon, while the [Tower](https://) is constructed by golden-brass instrumental plates to form the [Eye](https://) which is used to forsee the future and other realities. 
-When someone walks in, what's his/her first impression?	| She usualy keeps to herself unless the person is directly signaling a contact to her, she usualy begins a convo with a simple shy smile or welcomes them or if somebody she knows usualy she welcomes them hug
-Pets?	| Goldfish 
-How important are they? How well are they treated?	| XXX
+When someone walks in, what's his/her first impression?	| Alpha doesn't like guest in his home, if someone walks in he doesn't like or known he usualy gives them a dirty look: indicating that they don't deserve to step foot in his home
+Pets?	| [Salem](https://): a 300-foot long [Reeper](https://) that feeds off of holes through time and space and sometimes just about anything including people. Salem is alos refered as "[Forcefield](https://)."
+How important are they? How well are they treated?	| Alpha uses Salem as a weapon to destroy things from people to nearly planets, but is killed later on by [Konos](https://) in battle. You can see Alpha slighty unimpressed to his companion's death. 
 Current occupation | Starbucks   
 (include length of time, location, job title) | Cashier, four days a week  
 Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
