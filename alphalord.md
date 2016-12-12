@@ -3,7 +3,7 @@
 Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
 Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
 Does s/he like the nickname | Alphalord mentions that he should be now known as "Alphalord" instead of Alpha as the name gives him a more powerful touch. Tutrok is threatened by Alpha that if he calls him "Alfy-lurd" one more time that he would smelt Tutrok into a heap of carbonated liquid.  
-Birth date | May 7th 
+Birth date | Unknown C. 3 000 BC (earth) 
 Place of birth | Maine, United States 
 Ethnic background | Aknerian-human   
 Religion | Well she is a Guardian so...
