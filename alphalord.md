@@ -18,7 +18,7 @@ Home decor (check all that apply) | Walls, floors and basically the main structu
 When someone walks in, what's his/her first impression?	| Alpha doesn't like guest in his home, if someone walks in he doesn't like or known he usualy gives them a dirty look: indicating that they don't deserve to step foot in his home
 Pets?	| [Salem](https://): a 300-foot long [Reeper](https://) that feeds off of holes through time and space and sometimes just about anything including people. Salem is alos refered as "[Forcefield](https://)."
 How important are they? How well are they treated?	| Alpha uses Salem as a weapon to destroy things from people to nearly planets, but is killed later on by [Konos](https://) in battle. You can see Alpha slighty unimpressed to his companion's death. 
-Current occupation | Starbucks   
+Current occupation | Lord of the [Guardian Insurgency](https://)<br/>later on becomes part of the ------   
 (include length of time, location, job title) | Cashier, four days a week  
 Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
 Income level | 9:46/hr  
