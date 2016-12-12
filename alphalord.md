@@ -1,7 +1,7 @@
 |Alphalord|XXX|
 |---|---|
 Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
-Nickname, if any | Alpha (original name)<br/>Alfy-lurd (Tutrok)
+Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
 (if so, explain its origin – e.g. who created it?) | It is a rare female name in Aknerian, usualy it is given to someone who is born on the fifth month of the year 
 Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
 Birth date | May 7th 
