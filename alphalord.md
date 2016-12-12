@@ -1,5 +1,4 @@
-|Alphalord|![Github Logo](/images/logo.png)
-Format: ![Alt Text](url)|
+|||
 |---|---|
 Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
 Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
