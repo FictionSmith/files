@@ -19,8 +19,8 @@ When someone walks in, what's his/her first impression?	| Alpha doesn't like gue
 Pets?	| [Salem](https://): a 300-foot long [Reeper](https://) that feeds off of holes through time and space and sometimes just about anything including people. Salem is alos refered as "[Forcefield](https://)."
 How important are they? How well are they treated?	| Alpha uses Salem as a weapon to destroy things from people to nearly planets, but is killed later on by [Konos](https://) in battle. You can see Alpha slighty unimpressed to his companion's death. 
 Current occupation | Lord of the [Guardian Insurgency](https://)<br/>later on becomes part of the ------   
-(include length of time, location, job ti
-Job satisfaction (happy, discontent, ambitious...) | A bit on the ambitious side but is calm most hours, always talks to her friends while working 
+(include length of time, location, job title) | 24/7, anywhere he please mostly at the [Observatory](https://) 
+Job satisfaction (happy, discontent, ambitious...) | You never clearly see Alpha's true emotion towards his reign, most of it is a mix of both pride and still anger, pride for fulfilling his place as "lord" but also anger for what he went through growing up in his childhood and little regret for killing his parents. 
 Income level | 9:46/hr  
 Education | Private High School, college level 
 Does s/he drive? What kind of car does s/he own, if any? (Make, model, color, age, etc.) | Sports car: 2017 Nissan 370Z 
