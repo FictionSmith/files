@@ -1,6 +1,6 @@
-|||
+|Alphalord|XXX|
 |---|---|
-Name origin | Alpha: meaning leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
+Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
 Nickname, if any | Nikole (everyone), Maya (sometime's her friends) Shin (formal-usualy by elders or Guardians) buddy or master (Tutrok) 
 (if so, explain its origin – e.g. who created it?) | It is a rare female name in Aknerian, usualy it is given to someone who is born on the fifth month of the year 
 Does s/he like the nickname | Doesn't seem t care except gets annoyed when Tutrok calles her "my buddy!" 
