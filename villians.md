@@ -8,4 +8,5 @@
 |Name|Species|Powers|
 |---|---|---|
 |**Saruman**| Wizard | Wizard Staff, (powers of Maiar) dagger, Dark sorcery 
+|**Darth Sidious**| Human (Sith Lord) | the Force, manipulation  
 
