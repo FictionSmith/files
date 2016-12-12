@@ -40,7 +40,7 @@ Does s/he use glasses? Contacts? Hearing aid?	| None
 Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | slightly dark (younger)<br/>pale (older) 
 Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| a scar going across his right eye from when he killed his father which left a mark with his blade after a brutal fight moments before he killed his father.    
 Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| Oval  
-Whom does s/he most look like (e.g. famous person or relative)?	| Jason Isaacs (British actor)<br/>Benedict Cumberbatch (British actor)
+Whom does s/he most look like (e.g. famous person or relative)?	| [Jason Isaacs](https://en.wikipedia.org/wiki/Jason_Isaacs) (British actor)<br/>[Benedict Cumberbatch](https://en.wikipedia.org/wiki/Benedict_Cumberbatch) (British actor)
 General health (good, excellent, poor...)?	| Good, exercises usually on a daily basis, yoga, meditation, martial arts, vegetarian diet 
 Any chronic conditions?	| YES 
 Any current health problems?	| YES
