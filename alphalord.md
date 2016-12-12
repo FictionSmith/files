@@ -1,4 +1,4 @@
-|Alphalord|XXX|
+|Alphalord|![Alphalord](http://static2.wikia.nocookie.net/__cb20071018031245/lotr/images/e/e8/1165596377sauron1.jpg)|
 |---|---|
 Name origin | Alpha: leader of the pack<br/>Lord: someone or something having power, authority, or influence; a master or ruler.	 
 Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
@@ -52,6 +52,6 @@ If so, why is it special?	| Why wouldn't it be? Alpha loves hoarding his jewerly
 Other accessories | Staff, stone-sword of lightning bolts, dagger, carries a cloth given to him by his mother [Starlite](https://) not because he missed her or still loved her but because it was a symbol of his past and evolution to what he had become 
 Grooming | long dreadlocks
 
-![Alphalord](http://static2.wikia.nocookie.net/__cb20071018031245/lotr/images/e/e8/1165596377sauron1.jpg)
+
 
  
