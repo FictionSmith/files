@@ -53,5 +53,5 @@ Other accessories | Staff, stone-sword of lightning bolts, dagger, carries a clo
 Grooming | long dreadlocks
 
 ![Alphalord](http://static2.wikia.nocookie.net/__cb20071018031245/lotr/images/e/e8/1165596377sauron1.jpg)
-Format: ![Alt Text](url)
+
  
