@@ -4,13 +4,13 @@ Name origin | Alpha: leader of the pack<br/>Lord: someone or something having po
 Nickname, if any | Alpha (original name)<br/>Alfy-lurd ([Tutrok](https://))
 Does s/he like the nickname | Alphalord mentions that he should be now known as "Alphalord" instead of Alpha as the name gives him a more powerful touch. Tutrok is threatened by Alpha that if he calls him "Alfy-lurd" one more time that he would smelt Tutrok into a heap of carbonated liquid.  
 Birth date | Unknown C. 3 000 BC (earth) 
-Place of birth | Maine, United States 
-Ethnic background | Aknerian-human   
-Religion | Well she is a Guardian so...
-Degree of religious practice (e.g. orthodox, casual, lapsed) | Uncertain  	 
-Current address | YES 
-Does s/he rent or own?	| No but helps out with her father  
-Brief description of home | Farmhouse, small, nice and clean, though gets trash out by Rubberdog most of the time
+Place of birth | The Observatory, Akneri-Plethora 
+Ethnic background | Aknerian Guardian (full-blooded)
+Religion | N/A
+Degree of religious practice (e.g. orthodox, casual, lapsed) | N/A
+Current address | 2748 Thijan Blvd. Observatory, Akneria 
+Does s/he rent or own?	| Him and his father [Feonix](https://) do not pay the rent whatsoever, instead their servants pay at least 70 Asymeth a week (that is the equivalent 420 million  US dollars) 
+Brief description of home | The Observatory is quite big, being nearly 86,976,258 square feet and being on top of a dormant supervolcano knwon as Mount Eberos; along side an amphitheater and a court house. The halls of the Observatory are long with glowing green mists that blanket the floors and the walls made out of the mountain. 
 Does s/he live with anyone | Father Billy, brother-in-law Rubberdog, sometimes Tutrok  
 Describe the area in which s/he lives | Kind of a rural area but also suburban, they live on an island isolated from the urban city areas 	 
 Is this his/her ideal home and location | It is like everything to her, she lives in a farmhouse and not to mention her second home is a victorian house that she goes to on the weekends, she literally lives on a beautiful island what could be better than that? 
