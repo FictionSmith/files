@@ -1,4 +1,4 @@
-|||
+|School|Location|
 |---|---|
 Beauxbatons Academy of Magic | Pyrenees, France 
 Castelobruxo | Amazon rainforest, Brazil
