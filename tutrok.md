@@ -1,4 +1,4 @@
-|Tutrok|http://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/honda-n-box-5_0.jpg?itok=No9RJtD0|
+|Tutrok| NO | 
 |---|---|
 Name origin | Tutrok is a fictional latin word for mechanical menace  	 
 Nickname, if any | Tut  
