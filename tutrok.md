@@ -38,7 +38,7 @@ What is his/her body type (skinny, slim, athletic, curvy, overweight, muscular, 
 Eye color?	| Silver  
 Does s/he use glasses? Contacts? Hearing aid?	| YESSSSS FAAAMMM!!
 Skin tone (pale, ivory, ruddy, tan, olive, brown, black, etc.) | "Hey guuuys I'm greeeeyyyy!!!" 
-Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| GLASSES can never EVER come OFF, freckles r uguly btw
+Any prominent features, freckles/moles/scars/tattoos/other distinguishing marks?	| GLASSES can never EVER come OFF
 Face shape (round, oval, chubby, thin, long, square, heart-shaped, etc.)?	| BLOCK
 Whom does s/he most look like (e.g. famous person or relative)?	| R2-D2 eh dk WALL-E 
 General health (good, excellent, poor...)?	| MER 
