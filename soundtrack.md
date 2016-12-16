@@ -8,3 +8,4 @@
 | *Thomas Bergersen* | *Rada* | [*The Blue Diamond Chronicles III*](https://): The scene<br/>where you face Naro. |
 | *Zack Hemsey* | *Greeting the Menace* | [*The Blue Diamond Chronicles IV*](https://): The scene when you go to<br/>Akneria and you meet Alphalord in person. |
 | *Immediate Music* | *The Fate of Our Brave* | [*The Blue Diamond Chronicles IV*](https://): The scene when<br/>you finally fight Alphalord. 
+| # | *Blood and Stone* | [*The Blue Diamond Chronicles Origins*](https://): The scene when Alpha murdered Feonix,<br/>took over the Observatory and and became evil. | 
