@@ -1,21 +1,21 @@
 |Tutrok| NO | 
 |---|---|
-Name origin | Tutrok is a fictional latin word for mechanical menace  	 
-Nickname, if any | Tut  
-(if so, explain its origin – e.g. who created it?) | YES 
+Name origin | Tutrok is a fictional latin word for mechanical menace (I really have no idea)   	 
+Nickname, if any | Tow-truck 
+(if so, explain its origin – e.g. who created it?) | YES FAM! 
 Does s/he like the nickname | Yup
-Birth date | XXX 
-Place of birth | YES 
-Ethnic background | Bot 
-Religion | IDK 
-Degree of religious practice (e.g. orthodox, casual, lapsed) | None 	 
-Current address | YES FAM  
+Birth date | February 31st 1,937,736,243,877 BC 
+Place of birth | YES FAM!
+Ethnic background | Robot 
+Religion | YES FAM! 
+Degree of religious practice (e.g. orthodox, casual, lapsed) | YES FAM!  	 
+Current address | YES FAM!   
 Does s/he rent or own?	|Can robots rent on their own? 
-Brief description of home | |"Big blue and old, with lots of computer stuffs inside!"
+Brief description of home | |"Big blue and old, with lots of computer stuff inside!"
 Does s/he live with anyone | "No... Except my master Mayshin!!!" (on occasions) 
 Describe the area in which s/he lives | LOTS AND A LOT OF HOUSES!
 Is this his/her ideal home and location | YUP 
-Home decor (check all that appl did you do anytyhing with the santa club thing yet?y) NOOOOOOOO!!!! | Sigh... living room: Bookshelves, old photos of random people he doesn't even know, TV from like the 80s. Second living room: grandfather clock, couch-bed thingy. Office: computer, books, desk, plants. Kitchen: table, old plate collection. Bathroom: sigh... Bedroom: bed, okay i'm done here..
+Home decor (check all that appl did you do anytyhing with the secret-santa essentials thing yet?y) NOOOOOOOO!!!! | Sigh... living room: Bookshelves, old photos of random people he doesn't even know, TV from like the 80s. Second living room: grandfather clock, couch-bed thingy. Office: computer, books, desk, plants. Kitchen: table, old plate collection. Bathroom: sigh... Bedroom: bed, okay i'm done here..
 When someone walks in, what's his/her first impression?	| "HIIIII EVERYBODIIIES!!! Wants some teas?!" 
 How important are they? How well are they treated?	| Treated like a trash can by everyone else, Mayshin only looks out after him because she knows nobody likes him so she makes him not feel bad about himself 
 Current occupation | Y E S 
