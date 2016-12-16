@@ -52,5 +52,3 @@ If so, why is it special?	| IDK
 Other accessories | Uhhhhhhhhhhhhhhhh
 Grooming | "I got no hairs!" 
 
-
- 
