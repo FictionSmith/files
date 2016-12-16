@@ -1,5 +1,6 @@
 |Artist|Work|Scene|
 |---|---|---|
+| *Future World Music* | *Battle of Babylon* | [*The Blue Diamond Chronicles II*](https://): The flashback<br/>scene when Alpha became evil. | 
 | *Future World Music* | *Army of Ghost* | [*The Blue Diamond Chronicles II*](https://): Final fight scene when<br/>the Moles unleash the Underworld | 
 | *Zack Hemsey* | *Mind Heist: Evolution* | [*The Blue Diamond Chronicles II*](https://): The scene when you watch<br/>the intro to AG Industries. | 
 | *Zack Hemsey* | *Graven Image* | [*The Blue Diamond Chronicles III*](https://): The scene where<br/>you walk into the headquarters of AG Industries. |
