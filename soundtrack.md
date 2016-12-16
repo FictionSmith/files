@@ -1,3 +1,3 @@
 |Artist|Work|Scene|
 |---|---|---|
-| Thomas Bergersen | Rada | 
+| *Thomas Bergersen* | *Rada* | 
