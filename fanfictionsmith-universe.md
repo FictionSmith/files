@@ -9,6 +9,10 @@ Uncertain date | The beginning of time and existence.
 5481| The [Precursors](https://) destroy the planet [Endor](https://).
 5506 | [The Oblivion Crises](https://): [General Grievous](https://) the ruler of [Reach](https://), leads the [Forerunner](https://) against the [Precursors](https://).
 5643 | The planet [Coruscant](https://) is first colonized by the [Imperials](https://).
+5689 | [Norman Osborn](https://) becomes the ruler of [Coruscant](https://)/
+5821 | [Coruscant](https://) is attack by [Kaiju](https://).
+5978 | [Han Solo](https://) is born on earth.
+5990 | [Azog](https://) becomes a warrior in [Asgard](https://).
 
 
 
