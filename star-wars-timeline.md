@@ -11,5 +11,7 @@
 1926 | 18 BBY | ◦ The Graf family is pursued by the Empire.<br/>◦ The Antar Atrocity.<br/>◦ Bail Organa and Ahsoka Tano organize a rebel network. 
 1927 | 17 BBY | ◦ The Erso family flees from Coruscant. 
 1930 | 14 BBY | ◦ Darth Sidious and Darth Vadar undertake a mission to Ryloth.<br/>• The Free Ryloth movement led by Cham Syndulla attempts to assassinate the two Sith Lords.<br/>• Deaths of Belkor Dray and Isval<br/>◦ The Berch Teller campaign.<br/>◦ Moff Wilhuff tarkin enunciates the Tarkin Doctrine.
-1933 | 11 BBY | ◦ Obi-Wan Kenobi rescues Luke Skywalker when the boy confronts Jabba the Hutt's henchmen about their master's "water tax," under which local farmers are suffering during the Great Drought. Kenobi carries the unconscious Skywalker to the lars family homestead and leaves before he wakes up, but the child's courage reassures Kenobi that the Jedi have not yet met their end; the waning hope is renewed.
+1933 | 11 BBY | ◦ Obi-Wan Kenobi rescues Luke Skywalker when the boy confronts Jabba the Hutt's henchmen about their master's "water tax," under which local farmers are suffering during the Great Drought. Kenobi carries the unconscious Skywalker to the lars family homestead and leaves before he wakes up, but the child's courage reassures Kenobi that the Jedi have not yet met their end; the waning hope is renewed.<br/>◦ Gorse conflict<br/>◦ Hera Syndulla and Kanan Jarrus join forces
+1938 | 6 BBY | ◦ The Leonis family migrates to Lothal.<br/>◦ Westhills massacre<br/>◦ Dhara Leonis is kidnapped by the Grand Inquisitor and forcibly inducted into Project Harvester.<br/>◦ Westhills skirmish 
+
 
