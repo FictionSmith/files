@@ -7,6 +7,7 @@
 | Kaneria | Unknwon | Terrestrial<br/>Artic |• Rocky<br/>• Tundra<br/>• Ice sheets | Kanerian (snow-elves) | Twin planet of Akneria |
 | Ketaran | --- | --- | --- | --- | --- |
 | Nafire | --- | --- | --- | --- | --- | 
+| Oceania | --- | Terrestrial<br/>Tropical | • Ocean<br/>• Tropical rainforest<br/>•Subtropical wetlands<br/>• Islands and beaches | Humans<br/>Cuain<br/>Syv<br/>Basilisk<br/>Naga | Most tropical planet you will ever find in the galaxy
 | Thades | --- | --- | --- | --- | --- | 
 | Tildin | --- | --- | --- | --- | --- | 
 | Wickmar | --- | Terrestrial<br/>Temperate | • Redwood Forest<br/>• Wetlands | Unknown | --- | 
