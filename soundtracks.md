@@ -1,0 +1,3 @@
+||||
+|---|---|---|
+*Nightwish* | Ghost Love Score | ---
