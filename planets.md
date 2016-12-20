@@ -9,4 +9,4 @@
 | Nafire | --- | --- | --- | --- | --- | 
 | Thades | --- | --- | --- | --- | --- | 
 | Tildin | --- | --- | --- | --- | --- | 
-| Wickmar | --- | Terrestrial<br/>Temperate | • Evergreen Forest<br/>• Wetlands | Unknown | --- | 
+| Wickmar | --- | Terrestrial<br/>Temperate | • Redwood Forest<br/>• Wetlands | Unknown | --- | 
