@@ -1,6 +1,6 @@
 |Gregorian Calendar|Galactic Standard Calendar|Event|
 |---|---|---|
-Unestimated | Millennia before the Battle of Yavin (Pre-Clone Wars) | #
+Unestimated | Millennia before the Battle of Yavin (Pre-Clone Wars) | ◦ One or more ancestral species unlock the secrets of hyperspace travel and open the galaxy for exploration.<br/>◦ The Zillo Beasts are believed extinct.<br/>◦ Force sensitives gather to form the Jedi Order, dedicated to the preservation of peace and justice. The world Ilum comes into their possession.<Br/>◦ Unidentified rogue Jedi is born.<br/>◦ A group of malevolent Force users splits from the Jedi Order during the Hundred-Year Darkness. They form the Sith Order.
 3056 BC | 5000 BBY | ◦ The Great Temple of Massassi is built by the Massassi on Yavin 4. 
 2022 BC | 3966 BBY | ◦ Galactic travelers navigate hyperspace using hyperspace sextants. 
 1333 BC | 3277 BBY | ◦ The Lothal Calendar is introduced.<br/>• Over 1036 years before the Battle of Yavin<br/>◦ Maz kanata is born. 
