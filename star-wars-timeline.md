@@ -1,5 +1,18 @@
 |Gregorian Calendar|Galactic Standard Calendar|Event|
 |---|---|---|
+1498 | 446 BBY | ◦ Yaddle is born.
+1600 | 300 BBY | ◦ Garazeb Orrelios's grandmother is born
+1700 | 200 BBY | ◦ Chewbacca is born on Kashyyyk. 
+1842 | 102 BBY | ◦ Dooku is born. 
+1852 | 92 BBY | ◦ Qin-Gon Jinn is born on Coruscant. 
+c. 1860 | c. 84 BBY | ◦ Sheev Palpatine is born on Naboo. 
+1871 | 73 BBY | ◦ Cad Bane is born on Duro. 
+1872 | 72 BBY | ◦ Mace Windu is born on Haruun Kal. 
+1880 | 64 BBY | ◦ Wilhuff Tarkin is born on Eriadu. 
+1887 | 57 BBY | ◦ Obi-Wan Kenobi is born on Stewjon. 
+1898 | 46 BBY | ◦ Padme Amidala (Padme Naberrie) is born on Naboo. 
+1900 | 44 BBY | ◦ Garazeb Orrelios, also known as Zeb, is born on Lasan. 
+1902 | 42 BBY | ◦ Anakin Skywalker is born to Shmi Skywalker. 
 1903 | 41 BBY | ◦ Rae Sloane is born on Ganthel.<br/>• Before the Invasion of Naboo<br/>◦ Sifo-Dyas forsees an upcoming full-scale conflict but is removed from the Jedi Council. He secretly commissions the Kaminoans to grow a clone army for the Republic.<br/>◦ Battle of Malastare Narrows.<br/>◦ Obi-Wan Kenobi met Satine Kryze.<br/>◦ Lor San Tekka is born.<br/>◦ Asajj Ventress is born.<br/>◦ Mace Windu rescues a young girl name Depa Billaba.<br/>◦Finis Valorum replaces Kalpana as Supreme Chancellor of the Galactic Republic.
 1908 | 36 ABY | ◦ Ahsoka Tano is born on Shili.
 1911 | 33 BBY | ◦ Caleb Dume (kanan Jarrus) is born on Coruscant.<br/>◦ Ahsoka Tano is accepted into the Jedi Order after Plo Koon discovers her on Shili.
