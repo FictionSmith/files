@@ -1,5 +1,6 @@
 |Gregorian Calendar|Galactic Standard Calendar|Event|
 |---|---|---|
+922 | 1022 BBY | ◦ The Battle of Takodana is fought between the Jedi and the Sith. (at least 1,000 years)<br/>◦ The Sith are defeated by the Jedi and are driven into hiding.<br/>◦ The Old Republic collapses.<br/>◦ Mandalorians raid the Jedi Temple and steal the darksaber.<br/>◦ Darth Bane establishes the Rule of Two.<br/>◦ Several solar systems unite and found the Galactic Republic.<br/>◦ The Zygerrian Slave Empire is defeated by the Jedi. 
 925 | 1019 BBY | ◦ The Yavin Code is established at the Yavin Convention. 
 1047 | 896 BBY | ◦ Yoda is born on an unknown planet. 
 1077 | 867 BBY | ◦ Naboo joins the Galactic Republic. 
