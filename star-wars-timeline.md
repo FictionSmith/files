@@ -1,5 +1,11 @@
 |Gregorian Calendar|Galactic Standard Calendar|Event|
 |---|---|---|
+925 | 1019 BBY | ◦ The Yavin Code is established at the Yavin Convention. 
+1047 | 896 BBY | ◦ Yoda is born on an unknown planet. 
+1077 | 867 BBY | ◦ Naboo joins the Galactic Republic. 
+1147 | 797 BBY | ◦ Yoda begins to train Jedi in the ways of the Force. 
+1344 | 600 BBY | ◦ Jabba Desilijic Tiure is born. 
+1422 | 522 BBY | ◦ The Citadel is built to imprison rogue Jedi. 
 1498 | 446 BBY | ◦ Yaddle is born.
 1600 | 300 BBY | ◦ Garazeb Orrelios's grandmother is born
 1700 | 200 BBY | ◦ Chewbacca is born on Kashyyyk. 
