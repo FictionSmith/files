@@ -26,4 +26,5 @@
 1955 | 11 ABY (Post-Galactic Civil War) | ◦ Finn is born.
 1959 | 15 ABY | ◦ Rey is born. 
 1965 | 21 ABY | ◦ The First Order begins using Rinnrivin Di's cartel and the Amaxine warriors to procure funds for rebuilding its navy.
-1972 | 28 ABY | #
+1972 | 28 ABY | ◦ Amaxine warrior crisis<br/>◦ Senator Leia Organa resigns from the Galactic Senate following revelations of her parentage.<br/>◦ Leia Organa forms the Resistance.<br/>◦ Carise Sindian is expelled from the Elder Houses.
+1972-1978 | Unknown period of time between 28 ABY and 34 ABY | #
