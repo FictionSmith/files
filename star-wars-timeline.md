@@ -1,5 +1,9 @@
 |Gregorian Calendar|Galactic Standard Calendar|Event|
 |---|---|---|
+Unestimated | Millennia before the Battle of Yavin (Pre-Clone Wars) | #
+3056 BC | 5000 BBY | ◦ The Great Temple of Massassi is built by the Massassi on Yavin 4. 
+2022 BC | 3966 BBY | ◦ Galactic travelers navigate hyperspace using hyperspace sextants. 
+1333 BC | 3277 BBY | ◦ The Lothal Calendar is introduced.<br/>• Over 1036 years before the Battle of Yavin<br/>◦ Maz kanata is born. 
 922 | 1022 BBY | ◦ The Battle of Takodana is fought between the Jedi and the Sith. (at least 1,000 years)<br/>◦ The Sith are defeated by the Jedi and are driven into hiding.<br/>◦ The Old Republic collapses.<br/>◦ Mandalorians raid the Jedi Temple and steal the darksaber.<br/>◦ Darth Bane establishes the Rule of Two.<br/>◦ Several solar systems unite and found the Galactic Republic.<br/>◦ The Zygerrian Slave Empire is defeated by the Jedi. 
 925 | 1019 BBY | ◦ The Yavin Code is established at the Yavin Convention. 
 1047 | 896 BBY | ◦ Yoda is born on an unknown planet. 
