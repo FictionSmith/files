@@ -27,4 +27,5 @@
 1959 | 15 ABY | ◦ Rey is born. 
 1965 | 21 ABY | ◦ The First Order begins using Rinnrivin Di's cartel and the Amaxine warriors to procure funds for rebuilding its navy.
 1972 | 28 ABY | ◦ Amaxine warrior crisis<br/>◦ Senator Leia Organa resigns from the Galactic Senate following revelations of her parentage.<br/>◦ Leia Organa forms the Resistance.<br/>◦ Carise Sindian is expelled from the Elder Houses.
-1972-1978 | Unknown period of time between 28 ABY and 34 ABY | #
+1972-1978 | Unknown period of time between 28 ABY and 34 ABY | ◦ Destruction of Luke Skywalker's Jedi. Turning to the dark side of the Force, Ben Solo prevents his uncle Luke Skywalker's plan to resurrect the Jedi Order by massacring his students. He ultimately assumes the name Kylo Ren, master of the Knights of Ren and a First Order warlord.<br/>◦ Luke Skywalker goes imto exile over Kylo Ren's fall to the dark side.
+1978 | 34 ABY | #
