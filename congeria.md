@@ -3,7 +3,7 @@ Note that I do not own any rights to these pictures! (inspirational use only)
 |Planet|Image|
 |-------|-------|
 | Akneria | ![Akneria](http://vignette4.wikia.nocookie.net/finalfantasy/images/f/f5/Fortress_-_World_Map_Desert.jpg/revision/latest?cb=20090923083752)<br/>![Akneria](https://cdna0.artstation.com/p/assets/images/images/001/796/436/large/rostislav-zagornov-desertelf.jpg?1452862129)<br/>![Akneria](http://orig14.deviantart.net/256f/f/2009/060/5/c/canyon_city_by_zackf.jpg)<br/>![Akneria](https://s-media-cache-ak0.pinimg.com/736x/be/07/49/be0749c635ef1457ab5a852e004b74ba.jpg)|
-| Dorfhur | ![Dorfhur](https://www.artstation.com/artwork/ZelV8) | 
+| Dorfhur | ![Dorfhur](https://cdnb1.artstation.com/p/assets/images/images/000/501/725/large/thom-tenery-thomtenery-elvencity-wotc.jpg?1443931791) | 
 | Dragorah | ![Dragorah](http://pheopic.ru/images/251/1/35189.jpg)
 | Erathora | ![Erathora](https://s-media-cache-ak0.pinimg.com/736x/07/93/78/079378aa212cd1d5fafddfcff04e205f.jpg)|
 | Kaneria | ![Kaneria](http://hdwallpapersf.com/wp-content/uploads/2016/10/artsergeyzabelinlandscapefantasyworldrocksmountainscastleflyingcloudssnow.jpg)<br/>![kaneria](http://media-cache-ak0.pinimg.com/736x/6d/d9/4b/6dd94b2685d7ae86ff6494185a12663f.jpg)<br/>![Kaneria](http://www.wall321.com/thumbnails/detail/20121127/mountains%20winter%20snow%20fantasy%20art%202047x1080%20wallpaper_www.wall321.com_30.jpg)|
