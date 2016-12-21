@@ -1,4 +1,4 @@
-Note that I do not own any rigts to these pictures! (inspirational use only)
+Note that I do not own any rights to these pictures! (inspirational use only)
 
 |Planet|Image|
 |-------|-------|
