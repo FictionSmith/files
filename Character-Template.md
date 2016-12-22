@@ -79,68 +79,68 @@
 | Current Residence | Billy's farm on Bridgeheart Isle, Erathora. | 
 | Community | Bridgeheart Isle is kind of like Mackinac Island, it's peaceful, quiet, small residents, townhouses and farms, small downtown area and a big clock tower. | 
 | Family | ([Ex: Parents, children, siblings] Include stepfamilies if it applies, and label as such.) |
-Friends: (Who does your character like to hang out with?)
-Enemies: (Who does your character despise?)
-Bosses: (Who does your character answer to)
-Followers: (Who answers to your character?)
-Heroes: (Who does your character look up to?)
-Rivals: (Who are they competing with?)
-Relates to: (Who is similar to your character?)
-Pets/Familiars: (Describe a pet your character owns, real or fantasy and give it a name.)
-Wardrobe: (Describe your character's closet. What is their formal, casual, or other kind of wear?)
-Equipment: (Refers to tools or weapons your character may use. [Ex: A sword for a warrior]
-Accessories: (Tattoos, piercing, jewelry, glasses, ect.)
-Trinkets: (Applies to but not limited to good luck charms, purses, watches, or any other items they carry with them almost all the time.)
-Funds: (How much cash does your character have on hand, and how much at home/in the bank?)
-Home: (What is your character's house like? Describe it's overall appearance, [Ex: Shabby, fancy] type of house, [Trailer, mansion] and describe things such as the yard, wallpaper, or any other information. Things like bedrooms count as your character's home.)
-Neighborhood: (What are the people and places near your character like?)
-Transportation: (How does your character get around? [Ex: Car, bus, bike])
-License Plate Number: (Can be regular numbers, or something more creative. Adjust for your country.)
-Collections: (Does your character like to hoard or collect anything?)
-Most valuable possession: (In money)
-Prized Possession: (What object does your character value above all else?)
-Lovers: (From childhood crushes, to exes, to a married partner, who does your character love?)
-Marital Status: (Ex: Single, Taken, Dating, Available)
-Sex Life: (Pretty self explanatory)
-Type: (Eros/ragma/Banquet/Mania/Ludus/Storge)
-Turn-Ons: (What does your character want to see in their ideal mate?)
-Turn Offs: (What tends to make them back off)
-Position: (Dom/Sub)
-Plays: (Bondage, roleplay, ect.)
-Fetishes: (Self Explanatory)
-Virginity: (How many times have they "done it"?)
-Element: (Fire/Water/Air/Earth)
-Occupation: (Self explanatory)
-Work Ethnic: (How hard does your character work? How do they feel about their job?)
-Rank: (How high up are they on the corporate ladder?)
-Income: (How much money do they make?)
-Wealth Status: (How well financed is your character? Ex: Upper, middle, or lower class)
-Experience: (Include things like pasts jobs, or things that contributed to current occupation.)
-Organizations/Affiliations: (Who does your character side with?)
-IQ: (Self explanatory)
-Education: (How good is their education?)
-School: (What was their school like?)
-Grade: (What grades would they get?)
-Special Education: (Did they ever get held back or get honor role?)
-Social Stereotype: (ex: nerd, goth, punk)
-Degrees: (What degrees did/would they earn in school?)
-Intelligence: (Linguistic/logical/spatial/kinesthetic/musical/interpersonal/intrapersonal/naturalist)
-Extracurricular Activities: (Such as P.E. or art)
-Religion: (Self Explanatory)
-Morals: (What does your character find morally right or wrong?)
-Crime Record: (Relationship with authority, laws broken, and crimes committed.)
-Motivation: (What moves your character? [Ex: Power, money, love)]
-Priorities: (What does your character place first, second, and third?)
-Philosophy: (Your character's outlook on life)
-Political Party: (Ex: Democrat, Republican, Liberal, or Conservative)
-Etiquette: (How good our your characters manners? Do they bow or chew with their mouth open?)
-Culture: (Any things your character may do specific to a certain culture. [Ex: Bowing in Japan] Do your research on this one or you could offend people. )
-Influences: (Who or what inspires your character to change? Do they influence anyone else?)
-Relates to: (Who can your character relate to?)
-Traditions: (Does your character sit around the table with their family? What holidays do they celebrate?)
-Superstitions: (spilling salt, knocking on wood)
-Main Goal: (Driving force in the story. May be subject to change.)
-Minor Goals/Ambitions: (What is your character trying to accomplish?)
+| Friends | (Who does your character like to hang out with?) |
+| Enemies | (Who does your character despise?) |
+| Bosses | (Who does your character answer to) |
+| Followers | (Who answers to your character?) |
+| Heroes | (Who does your character look up to?) |
+| Rivals | (Who are they competing with?) |
+| Relates to | (Who is similar to your character?) |
+| Pets/Familiars| (Describe a pet your character owns, real or fantasy and give it a name.) |
+| Wardrobe | (Describe your character's closet. What is their formal, casual, or other kind of wear?) |
+| Equipment | (Refers to tools or weapons your character may use. [Ex: A sword for a warrior] |
+| Accessories | (Tattoos, piercing, jewelry, glasses, ect. | 
+| Trinkets | (Applies to but not limited to good luck charms, purses, watches, or any other items they carry with them almost all the time.) | 
+| Funds | (How much cash does your character have on hand, and how much at home/in the bank?) |
+| Home | (What is your character's house like? Describe it's overall appearance, [Ex: Shabby, fancy] type of house, [Trailer, mansion]  and describe things such as the yard, wallpaper, or any other information. Things like bedrooms count as your character's home.) |
+| Neighborhood | (What are the people and places near your character like?) |
+| Transportation | (How does your character get around? [Ex: Car, bus, bike]) |
+| License Plate Number | (Can be regular numbers, or something more creative. Adjust for your country.) |
+| Collections | (Does your character like to hoard or collect anything?) |
+| Most valuable possession | (In money) |
+| Prized Possession | (What object does your character value above all else?) |
+| Lovers | (From childhood crushes, to exes, to a married partner, who does your character love?) |
+| Marital Status | (Ex: Single, Taken, Dating, Available) |
+| Sex Life | (Pretty self explanatory) |
+| Type | (Eros/ragma/Banquet/Mania/Ludus/Storge) | 
+| Turn-Ons | (What does your character want to see in their ideal mate?) |
+| Turn Offs | (What tends to make them back off) |
+| Position | (Dom/Sub) |
+| Plays | (Bondage, roleplay, ect.) |
+| Fetishes | (Self Explanatory) |
+| Virginity | (How many times have they "done it"?) |
+| Element | (Fire/Water/Air/Earth) |
+| Occupation | (Self explanatory) |
+| Work Ethnic | (How hard does your character work? How do they feel about their job?) |
+| Rank | (How high up are they on the corporate ladder?) |
+| Income | (How much money do they make?) |
+| Wealth Status | (How well financed is your character? Ex: Upper, middle, or lower class) |
+| Experience | (Include things like pasts jobs, or things that contributed to current occupation.) |
+| Organizations/Affiliations | (Who does your character side with?) |
+| IQ | (Self explanatory) |
+| Education | (How good is their education?) |
+| School | (What was their school like?) |
+| Grade | (What grades would they get?) |
+| Special Education | (Did they ever get held back or get honor role?) |
+| Social Stereotype: (ex: nerd, goth, punk) |
+| Degrees: (What degrees did/would they earn in school?) |
+| Intelligence | (Linguistic/logical/spatial/kinesthetic/musical/interpersonal/intrapersonal/naturalist) |
+| Extracurricular Activities | (Such as P.E. or art)
+| Religion | (Self Explanatory) |
+| Morals | (What does your character find morally right or wrong?) |
+| Crime Record | (Relationship with authority, laws broken, and crimes committed.) |
+| Motivation | (What moves your character? [Ex: Power, money, love)] |
+| Priorities | (What does your character place first, second, and third?) |
+| Philosophy | (Your character's outlook on life) |
+| Political Party | (Ex: Democrat, Republican, Liberal, or Conservative) |
+| Etiquette | (How good our your characters manners? Do they bow or chew with their mouth open?) |
+| Culture: (Any things your character may do specific to a certain culture. [Ex: Bowing in Japan] Do your research on this one or you could offend people. ) | 
+| Influences | (Who or what inspires your character to change? Do they influence anyone else?) |
+| Relates to | (Who can your character relate to?) |
+| Traditions | (Does your character sit around the table with their family? What holidays do they celebrate?) |
+| Superstitions | (spilling salt, knocking on wood) |
+| Main Goal | (Driving force in the story. May be subject to change.) |
+| Minor Goals/Ambitions | (What is your character trying to accomplish?) |
 Career: (What would be your character's dream job?)
 Desires: (What does your character want?)
 Wishlist: (What material items does your character want?)
