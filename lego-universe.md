@@ -1,5 +1,5 @@
 |Lego|BioShock Infinite|
-|||
+|---|---|
 | Chapter I | Arrival In Columbia |
 | Chapter II | Hall of Heroes | 
 | Chapter III | Finkton | 
