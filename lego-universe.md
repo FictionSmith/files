@@ -16,3 +16,13 @@
 | Chapter V | Emporia |
 | Chapter VI | The Sea of Doors |
 
+|Lego|Elder Scrolls V: Skyrim|
+|---|---|
+| Chapter I | The Dragoborn Comes! |
+| Chapter II | Our Mutual Friend |
+| Chapter III | Thalmor Embassy |
+| Chapter IV | Alduin's Wall |
+| Chapter V | Blackreach |
+| Chapter VI | Fight In Sovngarde | 
+
+
