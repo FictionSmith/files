@@ -20,9 +20,9 @@
 |---|---|
 | Chapter I | • **The Dragoborn Comes!**<br/>◦ Before the Storm<br/>◦ Bleak Falls Barrow<br/>◦ Dragon Rising<br/>◦ The Way of the Voice |
 | Chapter II | • **Our Mutual Friend**<br/>◦ The Horn of Jurgen Windcaller<br/>◦ A Blade In The Dark |
-| Chapter III | • Thalmor Embassy |
-| Chapter IV | • Alduin's Wall |
-| Chapter V | • Blackreach |
-| Chapter VI | • Fight In Sovngarde | 
+| Chapter III | • **Thalmor Embassy**<br/>◦ Diplomatic Immunity<br/>◦ A Concerned Rat |
+| Chapter IV | • **Alduin's Wall**<br/>◦ Alduin's Wall<br/>◦ The Throat of the World  |
+| Chapter V | • **Blackreach**<br/>◦ Elder Knowledge |
+| Chapter VI | • **Fight In Sovngarde**<br/>◦ Alduin's Bane<br/>◦ The Fallen<br/>◦ Paarthurnax<br/>◦ Season Unending<br/>◦ The World-Eater's Eyrie<br/>◦ Sovngarde<br/>◦ Dragonslayer | 
 
 
