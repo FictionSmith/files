@@ -18,8 +18,8 @@
 
 |Lego|Elder Scrolls V: Skyrim|
 |---|---|
-| Chapter I | • **The Dragoborn Comes!**<br/>◦ Before the Storm<br/> ◦ Bleak Falls Barrow<br/> ◦ Dragon Rising<br/> ◦ The Way of the Voice |
-| Chapter II | • Our Mutual Friend |
+| Chapter I | • **The Dragoborn Comes!**<br/>◦ Before the Storm<br/>◦ Bleak Falls Barrow<br/>◦ Dragon Rising<br/>◦ The Way of the Voice |
+| Chapter II | • **Our Mutual Friend**<br/>◦ The Horn of Jurgen Windcaller<br/>◦ A Blade In The Dark |
 | Chapter III | • Thalmor Embassy |
 | Chapter IV | • Alduin's Wall |
 | Chapter V | • Blackreach |
