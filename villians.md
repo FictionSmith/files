@@ -6,8 +6,3 @@
 |**Naro Vendi**| Clone | She has the same powers and abilities as Mayshin and has the capability to get control of the blue Diamond's powers at a certain distance. |
 |**Alphalord**| Guardian <br/> | Carries a stone-sword and staff. Has god-like powers such as mind and gravitational control, telekinesis and can destroy an entire city with his own anger. | 
 
-|Name|Species|Powers|
-|---|---|---|
-|**Saruman**| Wizard | Wizard Staff, (powers of Maiar) dagger, Dark sorcery 
-|**Darth Sidious**| Human (Sith Lord) | the Force, manipulation  
-
