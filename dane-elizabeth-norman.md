@@ -19,7 +19,7 @@ Birthday |
 Deathday |
 Birthplace |
 Astrological Sign |
-Zodiac Sign |
+Zodiac Sign | Pisces | --- |--- 
 Immediate Family |
 Distant Family |
 Parenting |
