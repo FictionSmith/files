@@ -121,7 +121,7 @@ Education |
 School |
 Grade |
 Special Education |
-Social Stereotype |
+Social Stereotype | 
 Degrees |
 Intelligence |
 Extracurricular Activities |
