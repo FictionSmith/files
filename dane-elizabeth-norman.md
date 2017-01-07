@@ -19,7 +19,7 @@ Birthday |
 Deathday |
 Birthplace |
 Astrological Sign |
-Zodiac Sign | Pisces | --- |--- 
+Zodiac Sign | Pisces | --- | --- | ---
 Immediate Family |
 Distant Family |
 Parenting |
@@ -31,7 +31,7 @@ Adulthood |
 Coming of Age |
 Evolution |
 Species |
-Ethnicity |
+Ethnicity | Erathoran | Erathoran | Erathoran
 Blood Type | Blood Type O: Active, Curious, Friendly | --- | --- |
 Preferred Hand |
 Facial Type |
