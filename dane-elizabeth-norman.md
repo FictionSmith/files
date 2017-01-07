@@ -15,7 +15,7 @@ Gender Role |
 Orientation |
 Real Age |
 Age Appearance |
-Birthday | March | January | October 31 |
+Birthday | March 17 | February 14 | October 31 |
 Deathday |
 Birthplace |
 Astrological Sign |
