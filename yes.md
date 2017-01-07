@@ -17,7 +17,7 @@ Real Age |
 Age Appearance |
 Birthday | March 15 | May 7 | September 3 | Unknown
 Deathday | 
-Birthplace | Neko Tochi ネコ 土地 |  Neko Tochi ネコ 土地 |  Neko Tochi ネコ 土地 |  Neko Tochi ネコ 土地
+Birthplace | • Neko Tochi ネコ 土地<br/>◦ キャットランド Kyattorando |  • Neko Tochi ネコ 土地<br/>◦ キャットランド Kyattorando |  • Neko Tochi ネコ◦ <br/>キャットランド Kyattorando 土地 |  • Neko Tochi ネコ 土地<br/>◦ キャットランド Kyattorando
 Astrological Sign | 
 Zodiac Sign |
 Immediate Family |
