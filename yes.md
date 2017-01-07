@@ -1,4 +1,4 @@
-|#|Billy|Nikole|Robert|2-TR0C|
+|#|Billy|Nikole|Robert|2-tr0c|
 |---|---|---|---|---|
 Verse | 
 Full Name |
@@ -10,16 +10,16 @@ Title |
 Pet Name |
 ID Number |
 Signature |
-Gender | Male | Female | Male 
+Gender | Male | Female | Male | Male
 Gender Role |
 Orientation |
 Real Age |
 Age Appearance |
-Birthday | March | January-February | October 31 |
-Deathday |
-Birthplace |
-Astrological Sign |
-Zodiac Sign | Pisces | Aquarius | Scorpio | 
+Birthday | March 15 | May 7 | September 3 | Unknown
+Deathday | 
+Birthplace | Neko Tochi ネコ 土地 |  Neko Tochi ネコ 土地 |  Neko Tochi ネコ 土地 |  Neko Tochi ネコ 土地
+Astrological Sign | 
+Zodiac Sign |
 Immediate Family |
 Distant Family |
 Parenting |
