@@ -31,22 +31,22 @@ Adulthood |
 Coming of Age |
 Evolution |
 Species |
-Ethnicity | Erathoran | Erathoran | Erathoran
-Blood Type | Blood Type O: Active, Curious, Friendly | --- | --- |
+Ethnicity | Neko | Neko | Inu | Robot 
+Blood Type | 
 Preferred Hand |
 Facial Type |
-Eye Color | Green | Sky blue | Brown
-Hair Color | Natural light brown | Natural medium blonde | Natural Dark brown
+Eye Color | Green | Silver blue | Brown | Silver
+Hair Color | Natural dark blonde | Natural dark brown | Natural dark brown
 Hairstyle |
-Skin Tone |
-Complexion |
+Skin Tone | Light | Light | Light | Metal: silver
+Complexion | 
 Makeup |
 Body Type |
 Build |
-Height |
-Weight |
+Height | 5.5ft | 5.3ft | 6.1ft | 4.12ft 
+Weight | 
 Cup Size |
-Facial Hair | 
+Facial Hair | None | None | None | None 
 Shoe Size |
 Birthmarks/scars |
 Distinguishing Features |
@@ -182,24 +182,24 @@ Immunities |
 Restrictions |
 Alternate Forms |
 Extra Anatomy |
-Favorite Colors |
-Favorite Animals |
+Favorite Colors | Green | Blue | Purple | Red 
+Favorite Animals | 
 Favorite Mythological Creatures |
 Favorite Places |
 Favorite Landmarks |
 Favorite Flavors |
 Favorite Drinks |
 Favorite Characters |
-Favorite Genre |
+Favorite Genre | 
 Favorite Books |
-Favorite Movies |
-Favorite Games |
+Favorite Movies | --- | 
+Favorite Games | --- | Half Life | Grand Theft Auto | Minecraft
 Favorite Shows |
-Favorite Music |
-Favorite Bands |
+Favorite Music | Country | Techno | Rock/Heavy metal | Classical 
+Favorite Bands | 
 Favorite Songs |
-Favorite Sports |
-Favorite Stores |
+Favorite Sports | Baseball | Martial arts | Football (only on TV) | Golf
+Favorite Stores | 
 Favorite Subjects |
 Favorite Numbers |
 Favorite Websites |
