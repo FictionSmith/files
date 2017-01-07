@@ -1,4 +1,4 @@
-|#|Billy|Nikole|Robert|2-tr0c|
+|#|Billy|Nicole|Robert|2-tr0c|
 |---|---|---|---|---|
 Verse | 
 Full Name |
