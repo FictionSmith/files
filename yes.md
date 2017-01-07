@@ -193,7 +193,7 @@ Favorite Characters |
 Favorite Genre | 
 Favorite Books |
 Favorite Movies | --- | 
-Favorite Games | --- | Half Life | Grand Theft Auto | Minecraft
+Favorite Games | Metal Gear Solid (1987) | Half Life | Grand Theft Auto | Minecraft
 Favorite Shows |
 Favorite Music | Country | Techno | Rock/Heavy metal | Classical 
 Favorite Bands | 
