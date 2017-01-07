@@ -15,11 +15,11 @@ Gender Role |
 Orientation |
 Real Age |
 Age Appearance |
-Birthday |
+Birthday | March | January | October 31 |
 Deathday |
 Birthplace |
 Astrological Sign |
-Zodiac Sign | Pisces | Aquarius | --- | 
+Zodiac Sign | Pisces | Aquarius | Scorpio | 
 Immediate Family |
 Distant Family |
 Parenting |
