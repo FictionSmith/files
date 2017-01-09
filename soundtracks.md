@@ -16,7 +16,7 @@
 *Future World Music* | A Prayer For Humanity | ---
 *Future World Music* | Allegiance To The World | ---
 *Future World Music* | Anthem of the World | ---
-*Future World Music* | Army of Ghost | ---
+*Future World Music* | Army of Ghost | Molen unleashes the underworld an army of people who were infected by the Mole Virus
 *Future World Music* | Attack of the Titans | ---
 *Future World Music* | Battle of Babylon | ---
 *Future World Music* | Battlezone | ---
