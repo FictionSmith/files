@@ -43,7 +43,7 @@ Complexion |
 Makeup |
 Body Type |
 Build |
-Height | 5.5ft | 5.3ft | 6.1ft | 4.12ft 
+Height | 5.7ft | 5.5ft | 6.1ft | 4.2ft 
 Weight | 
 Cup Size |
 Facial Hair | None | None | None | None 
