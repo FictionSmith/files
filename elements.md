@@ -1,0 +1,12 @@
+Fire
+Wind
+Water
+Earth
+Lightning
+Ice
+Sand
+Forest
+Light
+Darkness
+Metal
+Time
