@@ -108,7 +108,7 @@ Position |
 Plays |
 Fetishes |
 Virginity |
-Element | Wind | Earth | Ice
+Element | --- | Lightning | --- | Earth
 Occupation | 
 Work Ethnic |
 Rank |
