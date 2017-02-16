@@ -3,8 +3,8 @@
 Verse | *The Blue Diamond* | *The Blue Diamond* | *The Blue Diamond* | *The Blue Diamond* |  
 Full Name |
 Pronunciation |
-Nickname/Alias |
-Meaning |
+Nickname/Alias | 
+Meaning | The name "Māyā" is a feminine given name, in Hindu mythology the name is from the goddess Durga, the name also means "illusion".  | --- | --- | --- |
 Origin |
 Title |
 Pet Name |
