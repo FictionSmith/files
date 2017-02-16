@@ -31,24 +31,24 @@ Adulthood |
 Coming of Age |
 Evolution |
 Species |
-Ethnicity | Human<br/>(Irish<br/>English<br/>French) | Human | Human | Akneiran
+Ethnicity | Human | Human | Human | Akneiran
 Blood Type | 
-Preferred Hand |
-Facial Type |
-Eye Color | Green | Silver blue | Brown | Silver
-Hair Color | Natural dark blonde | Natural dark brown | Natural dark brown
-Hairstyle |
-Skin Tone | Light | Light | Light | Metal: silver
+Preferred Hand | Right | Left | Rigt | Right |
+Facial Type | 
+Eye Color | green | blue | brown | silver
+Hair Color | natural dark blonde | natural dark brown | natural dark brown | --- |
+Hairstyle | 
+Skin Tone | light | light | light | rocky
 Complexion | 
 Makeup |
 Body Type |
 Build |
-Height | 5.7ft | 5.5ft | 6.1ft | 4.2ft 
+Height | 5.7ft | 5.5ft | 5.8ft | 6.1ft 
 Weight | 
 Cup Size |
-Facial Hair | None | None | None | None 
-Shoe Size |
-Birthmarks/scars |
+Facial Hair | --- | none | none | none 
+Shoe Size | 
+Birthmarks/scars | 
 Distinguishing Features |
 Health |
 Energy |
@@ -108,8 +108,8 @@ Position |
 Plays |
 Fetishes |
 Virginity |
-Element | --- | Lightning | --- | Earth
-Occupation | 
+Element | none | Lightning | --- | Earth
+Occupation | farmer's market | college | high school<br/>Gamestop | engineer<br/>doctor
 Work Ethnic |
 Rank |
 Income |
@@ -117,7 +117,7 @@ Wealth Status |
 Experience |
 Organizations/Affiliations |
 IQ |
-Education |
+Education | 
 School |
 Grade |
 Special Education |
