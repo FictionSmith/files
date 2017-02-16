@@ -22,7 +22,7 @@ Government | Dynastic Monarchy
 Population | Uncertain 
 Demonym | [Erathoran](https://)
 Major Cities | • [Erathora](https://) (human capitol)
-Affiliation | • [Saintaints](https://)<br/>• [Oceania](https://)<br/>• [Akneria](https://)<br/>• [Dorfur](https://)<br/>• [Brath](https://)<br/>• [Siren(https://)
+Affiliation | • [Saintaints](https://)<br/>• [Oceania](https://)<br/>• [Akneria](https://)<br/>• [Dorfur](https://)<br/>• [Brath](https://)<br/>• [Siren](https://)
  
 ![Erathora](https://youtu.be/9sGdpCt168M) 
  <br/>• Fungi forest<br/>• Volcanic tundra<br/>• Mesa desert<br/>• Subtropical forest and wetlands
