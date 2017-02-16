@@ -13,7 +13,7 @@ Signature |
 Gender | Male | Female | Male | Male
 Gender Role |
 Orientation |
-Real Age |
+Real Age | 38 | 19 | 18 | in the 5,000s |
 Age Appearance |
 Birthday | March 15 | May 7 | September 3 | Unknown
 Deathday | 
