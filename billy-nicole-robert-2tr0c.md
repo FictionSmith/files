@@ -15,11 +15,11 @@ Gender Role |
 Orientation |
 Real Age | 38 | 19 | 18 | in the 5,000s |
 Age Appearance |
-Birthday | March 15 | May 7 | September 3 | ---
+Birthday | March 15 | May 7 | September 3 | March 27
 Deathday | 
 Birthplace | somewhere in Tennessee | Boston, MA | Boston, MA | Basile, Akneria |
 Astrological Sign | 
-Zodiac Sign |
+Zodiac Sign | Pisces | Taurus | Virgo | Aries |
 Immediate Family |
 Distant Family |
 Parenting |
