@@ -4,7 +4,7 @@ Verse | *The Blue Diamond* | *The Blue Diamond* | *The Blue Diamond* | *The Blue
 Full Name |
 Pronunciation |
 Nickname/Alias | 
-Meaning | AN English name, usually short for William | The name "Māyā" is a feminine given name, in Hindu mythology the name is from the goddess Durga, the name also means "illusion"  | "Robert" is a German given name, someone who is bright, well-known and lively. | --- |
+Meaning | AN English name, usually short for William | The name "Māyā" is a feminine given name, in Hindu mythology the name is from the goddess Durga, the name also means "illusion"  | "Robert" is a German given name, someone who is bright, well-known and lively. | In Aknerian, the name "Tutrok" can be a bit complicated, the "rok" part is short for "rock", (in which Aknerians have rocky skin, however the "Tut" part is unknwon, it could possibly mean "king" | |
 Origin |
 Title |
 Pet Name |
