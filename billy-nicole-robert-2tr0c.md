@@ -1,6 +1,6 @@
 |#|Billy|Maya|Robert|Tutrok|
 |---|---|---|---|---|
-Verse | 
+Verse | *The Blue Diamond* | *The Blue Diamond* | *The Blue Diamond* | *The Blue Diamond* |  
 Full Name |
 Pronunciation |
 Nickname/Alias |
