@@ -18,8 +18,8 @@ Age Appearance |
 Birthday | March 15 | May 7 | September 3 | March 27
 Deathday | 
 Birthplace | somewhere in Tennessee | Boston, MA | Boston, MA | Basile, Akneria |
-Astrological Sign | 
-Zodiac Sign | Pisces | Taurus | Virgo | Aries |
+Astrological Sign | Pisces | Taurus | Virgo | Aries |
+Zodiac Sign | Fish | Bull | Virgin | Ram |
 Immediate Family |
 Distant Family |
 Parenting |
