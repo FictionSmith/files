@@ -12,7 +12,7 @@ Diameter | 5,763 mi
 Atmosphere | Oxygen and carbon dioxide 
 Climate | Temperate
 Primary<br/>terrain | • Temperate forest<br/>• Deciduous forest<br/>• Coniferous forest
- Points of Interest | • [Erathora](https://) (capitol city)<br/>• [Bridgeheart River](https://)<br/>• [Northwind Mountains](https://)<br/>• [the Reach](https://)<br/>• [Foundfront Isles](https://)<br/>• [Lordskeep Tower](https://)<br/>• [Norman's Airship](https://)
+ Points of Interest | • [Erathora](https://) (capitol city)<br/>• [Bridgeheart River](https://)<br/>• [Northwind Mountains](https://)<br/>• [the Reach](https://)<br/>• [Foundfront Isles](https://)<br/>• [Lordskeep Tower](https://)<br/>• [Emperor's Airship](https://)
 Native flora | • Pine trees
 Fauna | • Centaurs<br/>• Deer Woman<br/>• Dragons<br/>• Ghost Whales<br/>• Griffins<br/>• Harpies<br/>• Hippocampus<br/>• Hippogriff<br/>• Hydras<br/>• Jaculus<br/>• Kraken<br/>• Mermaids<br/>• Pheonix<br/>• Rocs<br/>• Sea Serpents<br/>• Selkies<br/>• Sirens<br/>• Undine<br/>• Vampires<br/>• Water Horses<br/>• Werewolves<br/>• White Stags<br/>• Wyverns
 Native Species | • [Guardians](https://) (angels)<br/>• [Erathorans](https://) (humans)
