@@ -31,7 +31,7 @@ Adulthood |
 Coming of Age |
 Evolution |
 Species |
-Ethnicity | Neko | Neko | Inu | Robot 
+Ethnicity | Human<br/>(Irish<br/>English<br/>French) | Human | Human | Akneiran
 Blood Type | 
 Preferred Hand |
 Facial Type |
