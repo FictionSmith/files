@@ -27,7 +27,7 @@
 2008 - 2010 | Golden Age (Classical Era)
 2011 - 2012 | Second Dark Ages 
 2013 - 2015 | Renaissance
-2016 | Discovery & Crises 
+2016 | Crises 
 2017 | Enlightenment 
 
 
