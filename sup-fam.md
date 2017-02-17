@@ -12,7 +12,7 @@ Universe | [*Chronicles Universe*](https://)
 Base of Operations | The Erathoran Enterprise
 Orginization leader(s) | ---
 Former members | ---
-Students | Alphalord<br/>Billy<br/>Cat<br/>Dane Nerlok<br/>Eden Crystal<br/>Elizabeth<br/>Emon<br/>Maya<br/>Mayshin<br/>Molen<br/>Norman<br/>Rubberdawg<br/>Sahm<br/>Tornador<br/>Tutrok
+Students | 2-tr0k<br/>Alphalord<br/>Billy<br/>Cat<br/>Dane Nerlok<br/>Eden Crystal<br/>Elizabeth<br/>Emon<br/>Maya<br/>Mayshin<br/>Molen<br/>Norman<br/>Rubberdawg<br/>Sahm<br/>Tornador<br/>Tutrok
 Origin | ---
 Place of Formation | ---
 First Appearance | ---
