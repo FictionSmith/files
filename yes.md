@@ -1,26 +1,26 @@
 |||
 |---|---|
-Verse |
-Full Name |
+Verse | *League of Extraodinary Gentlemen* 
+Full Name | Nikola Tesla 
 Pronunciation |
-Nickname/Alias |
+Nickname/Alias | 
 Meaning |
-Origin |
+Origin | 
 Title |
 Pet Name |
 ID Number |
 Signature |
-Gender |
-Gender Role |
+Gender | Male 
+Gender Role | 
 Orientation |
-Real Age |
+Real Age | 
 Age Appearance |
-Birthday |
-Deathday |
-Birthplace |
-Astrological Sign |
-Zodiac Sign |
-Immediate Family |
+Birthday | 10 July 1856 
+Deathday | 7 January 1943 
+Birthplace | Smiljan, Austrian Empire 
+Astrological Sign | Cancer 
+Zodiac Sign | Crab 
+Immediate Family | 
 Distant Family |
 Parenting |
 Upbringing |
