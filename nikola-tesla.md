@@ -1,6 +1,6 @@
 |||
 |---|---|
-Verse | *Inventors Assembled* 
+Verse | *Geniuses Assembled* 
 Full Name | Nikola Tesla 
 Pronunciation |
 Nickname/Alias | 
