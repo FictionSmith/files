@@ -1,6 +1,6 @@
 |||
 |---|---|
-Verse | *League of Extraodinary Gentlemen* 
+Verse | *Inventors Assembled* 
 Full Name | Nikola Tesla 
 Pronunciation |
 Nickname/Alias | 
