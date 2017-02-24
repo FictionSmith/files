@@ -83,7 +83,7 @@ Enemies | Thomas Edison
 Bosses | Thomas Edison 
 Followers |
 Heroes |
-Rivals |
+Rivals | Thomas Edison 
 Relates to |
 Pets/Familiars |
 Wardrobe |
