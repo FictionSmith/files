@@ -11,7 +11,7 @@ Pet Name |
 ID Number |
 Signature | ![Nikola Tesla](https://upload.wikimedia.org/wikipedia/commons/0/0c/Nikola_Tesla_signature_1900.svg)
 Gender | Male 
-Gender Role | 
+Gender Role | Masculine 
 Orientation |
 Real Age | 
 Age Appearance |
@@ -21,7 +21,7 @@ Birthplace | Smiljan, Austrian Empire
 Astrological Sign | Cancer 
 Zodiac Sign | Crab 
 Immediate Family | Milutin Tesla father<br/>Đuka Tesla mother<br/>Dane brother<br/>Milka sister<br/>Angelina sister<br/>Marica sister
-Distant Family |
+Distant Family | 
 Parenting |
 Upbringing |
 Infancy |
@@ -34,9 +34,9 @@ Species | Human
 Ethnicity | Serbian
 Blood Type |
 Preferred Hand | 
-Facial Type |
-Eye Color |
-Hair Color |
+Facial Type | 
+Eye Color | blue<br/>fun fact: his eyes became lighter due to his extreme his intelligence 
+Hair Color | 
 Hairstyle |
 Skin Tone |
 Complexion |
@@ -78,9 +78,9 @@ When Angry |
 Current Residence |
 Community |
 Family |
-Friends |
-Enemies |
-Bosses |
+Friends | Mark Twain<br/>John Muir
+Enemies | Thomas Edison
+Bosses | Thomas Edison 
 Followers |
 Heroes |
 Rivals |
