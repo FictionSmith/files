@@ -20,7 +20,7 @@ Deathday | 7 January 1943
 Birthplace | Smiljan, Austrian Empire 
 Astrological Sign | Cancer 
 Zodiac Sign | Crab 
-Immediate Family | 
+Immediate Family | • Milutin Tesla father<br/>• Đuka Tesla mother<br/>• Dane brother<br/>• Milka sister<br/>• Angelina sister<br/>• Marica sister
 Distant Family |
 Parenting |
 Upbringing |
