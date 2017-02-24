@@ -20,7 +20,7 @@ Deathday | 7 January 1943
 Birthplace | Smiljan, Austrian Empire 
 Astrological Sign | Cancer 
 Zodiac Sign | Crab 
-Immediate Family | • Milutin Tesla father<br/>• Đuka Tesla mother<br/>• Dane brother<br/>• Milka sister<br/>• Angelina sister<br/>• Marica sister
+Immediate Family | Milutin Tesla father<br/>Đuka Tesla mother<br/>Dane brother<br/>Milka sister<br/>Angelina sister<br/>Marica sister
 Distant Family |
 Parenting |
 Upbringing |
@@ -30,10 +30,10 @@ Adolescence |
 Adulthood | 
 Coming of Age |
 Evolution |
-Species |
-Ethnicity |
+Species | Human 
+Ethnicity | Serbian
 Blood Type |
-Preferred Hand |
+Preferred Hand | 
 Facial Type |
 Eye Color |
 Hair Color |
@@ -229,7 +229,7 @@ Least Favorite Numbers |
 Least Favorite Websites |
 Least Favorite Words |
 Least Favorite Quotations |
-Languages |
+Languages | Serbo-Croatian<br/>English<br/>Czech<br/>German<br/>French<br/>Hungarian<br/>Italian<br/>Latin 
 Accent | 
 Voice |
 Speech Impediments |
