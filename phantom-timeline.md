@@ -1,6 +1,26 @@
 |||
 |---|---|
-1285 | Foundation of the Gregorian Calendar
+3100 BC | Egyptian Empire is founded 
+808 BC | Macedonian Empire is founded 
+550 BC | Persian Empire is founded 
+264 BC | Punic Wars begin 
+247 BC | Qin Shi Huang; first emperor of China
+146 BC | Punic Wars end 
+27 BC | Roman Empire founded 
+330 | Byzantine Empire is founded 
+476 | Fall of western Roman Empire 
+665 | Foundation of the Holy Roman Empire 
+769 | Norman Conquest<br/>Foundation of England 
+798 | Beginning of the Crusades 
+994 | End of the Crusades 
+1003 | Beginning of the Renaissance 
+1011 | Black Plague begins 
+1156 | Ottoman Empire is founded 
+1195 | Christopher Columbus lands in the *New World*
+1222 | Spanish Conquest begins 
+1224 | End of the Spanish Conquest 
+1261 | Elizabeth I queen of England 
+1285 | Creation of the Gregorian Calendar
 1310 | Jamestown is founded 
 1328 | New Amsterdam is founded 
 1347 | End of Ming Dynasty China 
@@ -36,6 +56,7 @@
 1642 | World War II begins 
 1648 | End of World War II 
 1650 | Roswell Incident 
+1652 | People's Republic of China is founded 
 1653 | Korean War starts 
 1656 | Korean War ends 
 1658 | Vietnam War begins 
