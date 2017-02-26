@@ -1,5 +1,5 @@
-|||
-|---|---|
+|Time|Event|
+|-------------|-------------|
 3100 BC | Egyptian Empire is founded 
 808 BC | Macedonian Empire is founded 
 550 BC | Persian Empire is founded 
