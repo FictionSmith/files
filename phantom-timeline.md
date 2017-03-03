@@ -1,6 +1,6 @@
 |Time|Event|
 |-------------|-------------|
-3100 BC | Egyptian Empire is founded 
+3100 BC | Egyptian Empire is founded ![Egypt](http://cdn.ohmygodfacts.com/wp-content/uploads/2014/08/anegfcts-001.jpg)
 808 BC | Macedonian Empire is founded 
 550 BC | Persian Empire is founded 
 264 BC | Punic Wars begin 
