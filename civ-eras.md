@@ -1,20 +1,20 @@
 |||
 |---|---|
-Prehistoric | ---
-Ancient | ---
-Classical | ---
-Medieval | ---
-Renaissance | ---
-Baroque | ---
-Neo-Classical | ---
-Romance | ---
-Victorian | --- 
-Industrial | 1850 - 1900 (steam-powered)
-Progressive | ---
-Atomic | 1945
-Digital | ---
-Modern | ---
-Future | ---
+Prehistoric | 2500000 BC - 4000 BC
+Ancient | 4000 BC - 1200 BC 
+Classical | 1200 BC - 500 AD
+Medieval | 500 - 1300
+Renaissance | 1300 - 1600
+Baroque | 1600 - 1750 
+Neo-Classical | 1750 - 1820
+Romance | 1800 - 1850
+Victorian | 1837 - 1901
+Industrial | 1850 - 1900
+Progressive | 1890 - 1930
+Atomic | 1945 - 
+Digital | 1970 -
+Modern | 2000 - 
+Future | 2017 - 2050
 Utopia | ---
 Dystopia | ---
 Apocalypse | ---
