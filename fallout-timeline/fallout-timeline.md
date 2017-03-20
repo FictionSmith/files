@@ -1,0 +1,1 @@
+1940s<br/>August 6: The Little Boy atomic bomb is deployed by the United States onto the Japanese city of Hiroshima.<br/>![Hiroshima](http://vignette2.wikia.nocookie.net/fallout/images/b/b4/FO4_Intro_slide_5.jpg/revision/latest?cb=20151110175308)
