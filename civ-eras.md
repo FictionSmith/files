@@ -1,21 +1,20 @@
-|Yes|Tomatoes|
-|---|---|
-| Prehistoric | 2500000 BC - 4000 BC |
-| Ancient | 4000 BC - 1200 BC |
-| Classical | 1200 BC - 500 AD |
+|Yes|Tomatoes|Peanuts|
+|---|---|---|
+| Prehistoric | 2500000 BC - 4000 BC | *Far Cry Primal* |
+| Ancient | 4000 BC - 1200 BC | --- |
+| Classical | 1200 BC - 500 AD | *Ryse: Son of Rome* |
 | Medieval | 500 - 1300 |
 | Renaissance | 1300 - 1600 |
-| Baroque | 1600 - 1750 |
-| Neo-Classical | 1750 - 1820 |
-| Romance | 1800 - 1850 |
-| Victorian | 1837 - 1901 |
-| Industrial | 1850 - 1900 |
-| Progressive | 1890 - 1930 |
-| Atomic | 1945 - Present |
+| Baroque | 1600 - 1750 | *Assassin's Creed IV Black Black* (Sigh..) |
+| Neo-Classical | 1750 - 1820 | *Assassin's Creed Unity* (Broken as hell) |
+| Romance | 1800 - 1850 | 
+| Industrial | 1850 - 1900 | *Assassin's Creed Syndicate* |
+| Progressive | 1890 - 1930 | *BioShock Infinite*<br/>*Battlefield 1* |
+| Atomic | 1945 - Present | 
 | Digital | 1970 - Present |
 Modern | 2000 - Present |
-Future | 2017 - 2050 |
-Utopia | --- |
+Future | 2017 - 2050 | 
+Utopia | --- | 
 Dystopia | --- |
 Apocalypse | --- |
 
