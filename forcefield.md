@@ -1,2 +1,0 @@
-In 1846, the city of London was attack by a beast never known to man, some say it was a curse, others believed it was a plot behind evil forces, however it was a creature from another planet. It was later discovered in 1913 by Chinese sailors just before World War I broke out. In the 21st century the monster attacks several cities across the globe including New York, San Francisco and London. The monster was given the name Forcefield after its indestructible shield that it would summon to defend itself. 
-
