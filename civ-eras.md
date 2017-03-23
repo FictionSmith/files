@@ -1,6 +1,6 @@
 |||
 |---|---|
-Prehistoric | 2500000 BC - 4000 BC
+| Prehistoric | 2500000 BC - 4000 BC |
 Ancient | 4000 BC - 1200 BC 
 Classical | 1200 BC - 500 AD
 Medieval | 500 - 1300
