@@ -9,6 +9,7 @@
 | 1987 | *Predator* |
 | 1988 | *The Abyss* | 
 | 1996 | *Independence Day* | 
+| 2002 | *Signs* |
 | 2005 | *War of the Worlds* |
 | 2010 | *District 9* |
 | 2011 | *World Invasion: Battle Los Angeles* |
