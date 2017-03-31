@@ -2,7 +2,7 @@
 |---|---|---|
 | Ancient Greece | Medusa | ![medusa](http://pre14.deviantart.net/b9eb/th/pre/f/2015/188/6/d/medusa_battle_illustration_by_babaganoosh99-d90ctb2.png) |
 | 8th-11th centuries | Grendel | ![grendel](http://kingofwallpapers.com/grendel/grendel-002.jpg) |
-| before 1661 | Wendigo | ![wendigo](http://kingofwallpapers.com/grendel/grendel-002.jpg) |
+| before 1661 | Wendigo | ![wendigo](https://s-media-cache-ak0.pinimg.com/originals/b9/6f/42/b96f42cbda5e901ecfa54999f3d6fa00.jpg) |
 | 1786 | Ghoul | ![ghoul](http://vignette3.wikia.nocookie.net/creepypasta/images/6/60/Ghoul.jpg/revision/latest?cb=20141212131524) |
 | 1818 | Frankenstein | ![franky](http://www.sherlockology.com/media/291572/frank.jpg) |
 | 1897 | Count Dracula | ![dracula](http://www.bran-castle.com/assets/pages/dracula-main1.jpg) |
