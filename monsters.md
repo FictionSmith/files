@@ -7,6 +7,7 @@
 | before 1661 | Wendigo | ![wendigo](https://s-media-cache-ak0.pinimg.com/originals/b9/6f/42/b96f42cbda5e901ecfa54999f3d6fa00.jpg) |
 | 1786 | Ghoul | ![ghoul](http://vignette3.wikia.nocookie.net/creepypasta/images/6/60/Ghoul.jpg/revision/latest?cb=20141212131524) |
 | 1818 | Frankenstein | ![franky](http://www.sherlockology.com/media/291572/frank.jpg) |
+| 1886 | Mr. Hyde | ![hyde](http://orig15.deviantart.net/9b7f/f/2012/285/9/d/mr_hyde__a_friend_of_dr_jekyll_by_fenice8-d5hk5ri.jpg) |
 | 1897 | Count Dracula | ![dracula](http://www.bran-castle.com/assets/pages/dracula-main1.jpg) |
 | 1933 | King Kong | ![kong](http://img09.deviantart.net/4d09/i/2015/348/9/a/kingkong_by_deniseworisch-d9k5gci.jpg) |
 | 1954 | Godzilla | ![godzilla](https://img.yesmovies.to/2016/07/15/cover/7b4278828847b86755289d94afce71e6-godzilla-1468643934.jpg) |
