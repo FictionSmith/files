@@ -2,6 +2,7 @@
 |---|---|---|
 | Ancient Greece | Medusa | ![medusa](http://pre14.deviantart.net/b9eb/th/pre/f/2015/188/6/d/medusa_battle_illustration_by_babaganoosh99-d90ctb2.png) |
 | Ancient Greece | Charybdis | ![charybdis](https://static1.comicvine.com/uploads/original/1/15659/4158864-charybdis-percy_jackson-sea_of_monsters-concept_art_by_sebastian_meyers-final.jpg) |
+| Ancient Greece | Scylla | ![scylla](https://static1.squarespace.com/static/5586f86ce4b024895fe7d686/t/5795f7306b8f5b356abed5e3/1469445964909/scylla) |
 | 8th-11th centuries | Grendel | ![grendel](http://kingofwallpapers.com/grendel/grendel-002.jpg) |
 | before 1661 | Wendigo | ![wendigo](https://s-media-cache-ak0.pinimg.com/originals/b9/6f/42/b96f42cbda5e901ecfa54999f3d6fa00.jpg) |
 | 1786 | Ghoul | ![ghoul](http://vignette3.wikia.nocookie.net/creepypasta/images/6/60/Ghoul.jpg/revision/latest?cb=20141212131524) |
