@@ -13,5 +13,6 @@
 | 1961 | Mothra | ![mothra](http://www.scified.com/articles/godzilla-2-concept-art.png) |
 | 1964 | King Ghidorah | ![ghidorah](http://vignette2.wikia.nocookie.net/idw-godzilla/images/3/3d/King_Ghidorah_Cataclysm.jpg/revision/latest?cb=20141115221605) |
 | 1965 | Gamera | ![gamera](http://img06.deviantart.net/19f6/i/2015/352/1/e/gamera_2015_16_by_grimbro-d9kjmzq.jpg) |
+| 1974 | Mechagodzilla | ![mecha](http://idrawgirls.com/tutorials/wp-content/uploads/2015/11/mecha-godzilla-speedpainting.jpg) |
 | 1984 | Stay Puft Marshmallow Man | ![stay puft](https://i.ytimg.com/vi/GHDbtuCbKa8/maxresdefault.jpg) |
 | 2008 | clover | ![clover](http://vignette2.wikia.nocookie.net/non-aliencreatures/images/7/75/Clover.jpg/revision/latest?cb=20100906235147) |
