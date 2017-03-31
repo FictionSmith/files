@@ -10,6 +10,7 @@
 | 1886 | Mr. Hyde | ![hyde](http://orig15.deviantart.net/9b7f/f/2012/285/9/d/mr_hyde__a_friend_of_dr_jekyll_by_fenice8-d5hk5ri.jpg) |
 | 1897 | Count Dracula | ![dracula](http://www.bran-castle.com/assets/pages/dracula-main1.jpg) |
 | 1933 | King Kong | ![kong](http://img09.deviantart.net/4d09/i/2015/348/9/a/kingkong_by_deniseworisch-d9k5gci.jpg) |
+| 1928 | Cthulhu | ![cthulhu](http://img3.wikia.nocookie.net/__cb20120509185304/powerlisting/images/9/90/Great-cthulhu.jpg) |
 | 1954 | Godzilla | ![godzilla](https://img.yesmovies.to/2016/07/15/cover/7b4278828847b86755289d94afce71e6-godzilla-1468643934.jpg) |
 | 1961 | Mothra | ![mothra](http://www.scified.com/articles/godzilla-2-concept-art.png) |
 | 1964 | King Ghidorah | ![ghidorah](http://vignette2.wikia.nocookie.net/idw-godzilla/images/3/3d/King_Ghidorah_Cataclysm.jpg/revision/latest?cb=20141115221605) |
