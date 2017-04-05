@@ -27,3 +27,17 @@ WWII | *Call of Duty: World At War II*
 2065 | *Call of Duty: Black Ops III*
 Distant future | *Call of Duty: Infinite Warfare* 
 2558 | *Halo 5: Guardians*
+
+Far Cry Primal 
+Ryse: Son Of Rome
+Assassin's Creed IV Black Flag 
+Assassin's Creed Unity 
+Assassin's Creed Syndicate 
+Red Dead Redemption 2 
+Battlefield 1 
+Call of Duty: World At War II
+Mafia III
+Watch Dogs 2 
+Call of Duty: Infinite Warfare 
+Mass Effect Andromeda
+Halo 5: Guardians 
