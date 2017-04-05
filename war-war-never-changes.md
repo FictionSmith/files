@@ -12,6 +12,7 @@ WWII | *Call of Duty: World At War*
 2016 | *Call of Duty: Modern Warfare 2*<br/>*Call of Duty: Modern Warfare 3*
 2023 | *Call of Duty: Ghosts* 
 2025 | *Call of Duty: Black Ops II* 
+2054- | *Call of Duty: Advanced Warfare* 
 2552 | *Halo Reach*
 2552-2553 | *Halo 3* 
 2557 | *Halo 4* 
