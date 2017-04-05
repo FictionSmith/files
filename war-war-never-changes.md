@@ -19,10 +19,11 @@ WWII | *Call of Duty: World At War*
 
 |Date|Game|
 |---|---|
+Ancient Egypt | *Assassin's Creed Empire* |
 1715-1723| *Assassin's Creed IV Black Flag* 
 1789-1794 | *Assassin's Creed Unity* 
 1868 | *Assassin's Creed Syndicate* 
 WWII | *Call of Duty: World At War II*
 2065 | *Call of Duty: Black Ops III*
-Distant future | Call of Duty: Infinite Warfare* 
+Distant future | *Call of Duty: Infinite Warfare* 
 2558 | *Halo 5: Guardians*
