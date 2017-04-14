@@ -1,5 +1,8 @@
 |Year|Event|
 |---|---|
+1600s | Sometime after March 24, 1603, during the Tokugawa shogunate, Toshiro Kago is abducted by mothership *Zeta* from Japan. 
+1612 | Captain John Smith discovers Point Lookout. 
+1630 | Boston's North End is settled.
 1874 | April 19: Booker DeWitt is born.
 1890 | December 29: Booker DeWitt is present at the Wounded Knee Massacre, and is given the nickname "The White Injun" by other members of his regiment, due to his violent actions against the Native Americans. 
 1891 - 1892 | Booker DeWitt, remorseful for his actions at Wounded Knee, attends a baptism ceremony presided over by Preacher Witting.<br/>In one timeline, Booker rejects his baptism at the last moment.<br/>In another timeline, Booker accepts baptism and is born again, taking on the name Zachary Hale Comstock. 
