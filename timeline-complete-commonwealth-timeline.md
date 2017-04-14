@@ -200,7 +200,7 @@ November: Captain Maxson, his men and their families, arrive at the Lost Hills b
 November: Ms. Carrie Delaney is the last adult to leave Little Lamplight Caves in search for help. Ten-year-old child Jason Grant takes charge in her absence.
 November 2: Psychoactive drugs are released throughout Vault 106.
 December 25: The security and support staff of Vault 111 celebrates Christmas.[85]
-2078
+2078 | ---
 
 
 
