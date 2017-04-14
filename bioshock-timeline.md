@@ -87,7 +87,12 @@
 2016 | Wonderglue is established this year.
 2020 | The *Delta IX* rocket is commissioned by the U.S.S.A. the *Delta IX* rocket is the last of the manned rockets to the Moon.
 2021 | Hubris Comics begins publishing comic books, one of their most popular is *Grognak the barbarian*. 
-
+2026 | The original Vim! Pop Inc. factory burns down.
+2031 | The Boston city council unanimously votes to bury Emilia Butler in the Old Granary burying ground.
+2034 | The *Delta IX* rocket is converted for the U.S. military purposes. Crew and instrument sections are replaced with a nuclear warhead.
+2037 | The Mister Handy series of robots is first brought to market as a general construction and maintenance unit by General Atomics International. 
+2039 | ? Prometheus Coal, a division of Poseidon Energy, opens a coal mine in central Utah. As a result a small village is settled nearby called Eagle Rock.<br/>An early bug in Mister Handy robots that caused interference in the operation of the multiple arms is fixed with a hardware update, with no major problems since then.
+2040 | ---
 
 
 
