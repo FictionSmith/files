@@ -82,7 +82,11 @@
 1969 | By this year, the United States is divided into thirteen commonwealths, each of which encompasses several states.<br/>The national flag is changed to reflect the division and depicts fourteen stars - thirteen in a circle to represent the commonwealths and one in the middle to represent the federal government and the nation as a whole.<br/>July 16: The Virgo II Lunar Lander *valiant 11* with U.S.S.A. astronauts Captain Richard Wade, Captain Mark Garris, and Captain Michael hagen lands on the moon. The astronauts become the first humans to walk on a celestial body other than Earth.<br/>November 14: Virgo III Lander *Valiant 12* lands on the moon. 
 1981 | A fallen building from Columbia is found high in the Alps, leading to the discovery of several Columbian artifacts, among them a Sky-Hook in its wooden box, a bottle of Murder of Crows, a Custom Authority book from 1907, a propaganda poster warning of the "False Shepherd," and othe objects. The rest of the city remains hidden to the world. 
 1983 - 1984 | december 31 - January 1: In a timeline where Booker DeWitt and Elizabeth meet, but Elizabeth is recaptured by Songbird, Columbia emerges from isolation and brazenly attacks New York City. Zachary Comstock's prophecy that Elizabeth would lead Columbia to "drown in flame the mountains of man" is fulfilled.<br/>An elderly Elizabeth, responsible for the leadup to the attack but unable to prevent it herself, summons Booker to this time from 1912 and gives him the musical sequence to control Songbird so that this reality can be avoided. 
-
+1992 | The mission of Sierra Army Depot is changed. It is now responsible for the demilitarization of stores of surplus ammunition that have been deemed unfit or obsolete for military purposes. This mission is to be overseen by the Industrial Operations Command in cooperation with the Environmental Protection Agency, providing a greener, cleaner way to dispose of military ordnance. The mission continued until 2050. 
+2002 | The West Tek Research Facility is founded.
+2016 | Wonderglue is established this year.
+2020 | The *Delta IX* rocket is commissioned by the U.S.S.A. the *Delta IX* rocket is the last of the manned rockets to the Moon.
+2021 | Hubris Comics begins publishing comic books, one of their most popular is *Grognak the barbarian*. 
 
 
 
