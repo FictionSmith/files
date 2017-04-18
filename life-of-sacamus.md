@@ -10,7 +10,7 @@
 |||
 |-------|-------|
 | Synopsis |
-| Early life |
+| Early life | Sacamus was born in the city of Basil, which was advanced technological city on the planet Akneira. He was the younger brother of Tutrok Okran
 | Rise to power |
 | Akneiran Invasion |
 | Death and legacy |
