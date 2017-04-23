@@ -13,6 +13,8 @@
 | Atomic | 1945 - Present | 
 | Digital | 1970 - Present |
 Modern | 2000 - Present |
+| Transhuman | Tommorow - 2200 |
+| Galactic | 2200 - *Bed Baths & Beyond* |
 Future | 2017 - 2050 | 
 Utopia | --- | 
 Dystopia | --- |
