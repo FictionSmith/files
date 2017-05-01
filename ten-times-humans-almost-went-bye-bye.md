@@ -2,6 +2,6 @@
 
 1815 eruption of Mount Tambora<br/>black Death 
 
-|Event|Date|Location|Deathtoll|
+|Event|Date|Location|Death toll|
 |---|---|---|---|
-Eruption of Mount Tambora | 1815 | Sumbawa, Lesser Sunda Islands, Dutch East Indies
+Eruption of Mount Tambora | 1815 | Sumbawa, Lesser Sunda Islands,<br/>Dutch East Indies | at least 71,000 
