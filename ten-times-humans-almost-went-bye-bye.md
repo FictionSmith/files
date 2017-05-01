@@ -6,6 +6,7 @@
 |---|---|---|---|
 Eruption of Mount Krakatoa | 1883 | Krakatoa, Dutch East Indies | 36,000
 Eruption of Mount Tambora | 1815 | Sumbawa, Lesser Sunda Islands,<br/>Dutch East Indies | At least 71,000
+Native American Genocide | 1492- | North and South America | 1,283,393 
 Black Death "Bubonic Plague" | 1346-1353 | Most of Europe, the Middle East, Central Asia, Africa and India | 25,000,000 
 Mongol Conquests | 1206-1368 | Eurasia | 40,000,000
 Spanish Flu | 1918-1919 | Global | 50 - 100,000,000 
