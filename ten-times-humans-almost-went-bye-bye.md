@@ -37,5 +37,5 @@ Mt. Unzen | Japan | 1792 | 12,000-15,000
 Nevado del Ruiz | Columbia | November 13th 1985 | 23,000 
 Mt. Krakatoa | Indonesia | August 16th-28th 1883 | 36,000
 Mt. Pelee | West Indies | April 25th-May 8th 1902 | 40,000 
-Mt. Tambora | Indonesia | April 10th-15th | 1816 | 92,000
+Mt. Tambora | Indonesia | April 10th-15th 1816 | 92,000
 
