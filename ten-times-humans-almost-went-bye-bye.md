@@ -23,3 +23,9 @@ Black Death "Bubonic Plague" | 1346-1353 | Most of Europe, the Middle East, Cent
 Spanish Flu | 1918-1919 | Global | 50 - 100,000,000 
 European colonization of the Americas | 1492-1691 | Americas | 138,000,000
 Toba Supereruption | 72,000 B.C.E. | Lake Toba, Sumatra, Indonesia | Not given 
+
+10 Deadliest Volcano Eruptions In History 
+
+|||||
+|---|---|---|---|
+Mt. Galunggung | Java Indonesia | 1882 | 4,011
