@@ -4,4 +4,4 @@
 
 |Event|Date|Location|Deathtoll|
 |---|---|---|---|
-
+Eruption of Mount Tambora | 1815 | Sumbawa, Lesser Sunda Islands, Dutch East Indies
