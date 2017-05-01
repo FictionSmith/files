@@ -29,3 +29,13 @@ Toba Supereruption | 72,000 B.C.E. | Lake Toba, Sumatra, Indonesia | Not given
 |||||
 |---|---|---|---|
 Mt. Galunggung | Java Indonesia | 1882 | 4,011
+Mt. Kelut | Indonesia | May 19th 1919 | 5,110 
+Mt. Vesuvius | Italy | 1631 | 6,000 
+The Laki Volcano System | Iceland | June 8th 1783-8th February 1784 | 9,350 
+Mt. Vesuvius | Italy | August 24th AD 79 | 10,000+ 
+Mt. Unzen | Japan | 1792 | 12,000-15,000 
+Nevado del Ruiz | Columbia | November 13th 1985 | 23,000 
+Mt. Krakatoa | Indonesia | August 16th-28th 1883 | 36,000
+Mt. Pelee | West Indies | April 25th-May 8th 1902 | 40,000 
+Mt. Tambora | Indonesia | April 10th-15th | 1816 | 92,000
+
