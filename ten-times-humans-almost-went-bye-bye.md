@@ -6,3 +6,4 @@
 |---|---|---|---|
 Eruption of Mount Tambora | 1815 | Sumbawa, Lesser Sunda Islands,<br/>Dutch East Indies | At least 71,000
 Black Death "Bubonic Plague" | 1346-1353 | Most of Europe, the Middle East, Central Asia, Africa and India | 25,000,000 
+Toba Supereruption | 72,000 B.C.E. | Lake Toba, Sumatra, Indonesia | 
