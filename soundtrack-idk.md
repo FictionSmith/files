@@ -1,1 +1,1 @@
-Imperium Aeternum - March of the Spartans<br/>X Score - Full of Stars<br/>Phantasmal Music - Lightbringer<br/>Elephant Music -Super Nova<br/>Red Noise Industries - Army of Steel<br/>Robert Slump - Neohuman Hero<br/>George Tsaliagos - Heart of the Brave
+Imperium Aeternum - March of the Spartans<br/>X Score - Full of Stars<br/>Phantasmal Music - Lightbringer<br/>Elephant Music -Super Nova<br/>Red Noise Industries - Army of Steel<br/>Robert Slump - Neohuman Hero<br/>Soundmopi - Rise of Storm<br/>George Tsaliagos - Heart of the Brave
