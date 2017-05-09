@@ -4,4 +4,4 @@ They say be afraid<br/>You're not like the others<br/>Futuristic lover<br/>Diffe
 
 You're from a whole 'nother world<br/>A different dimension<br/>You open my eyes<br/>And I'm ready to go<br/>Lead me into the light
 
-Kiss me, ki-ki-kiss me<br/>Infect me with your poison<br/>Take me, ta-ta-take me<br/>Wanna be your victim<br/>ready for abduction
+Kiss me, ki-ki-kiss me<br/>Infect me with your loving<br/>Fill me with your poison<br/>Take me, ta-ta-take me<br/>Wanna be your victim<br/>ready for abduction
