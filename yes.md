@@ -8,4 +8,4 @@ Kiss me, ki-ki-kiss me<br/>Infect me with your loving<br/>Fill me with your pois
 
 Boy, boy, you're an alien<br/>Your touch so foreign<br/>It's supernatural<br/>Extraterrestrial
 
-
+You're so supersonic<br/>Wanna feel your power
