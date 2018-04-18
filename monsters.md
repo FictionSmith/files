@@ -1,4 +1,4 @@
-||||
+|Origin|Name||
 |---|---|---|
 | Ancient Greece | Medusa | ![medusa](http://pre14.deviantart.net/b9eb/th/pre/f/2015/188/6/d/medusa_battle_illustration_by_babaganoosh99-d90ctb2.png) |
 | Ancient Greece | Charybdis | ![charybdis](https://static1.comicvine.com/uploads/original/1/15659/4158864-charybdis-percy_jackson-sea_of_monsters-concept_art_by_sebastian_meyers-final.jpg) |
