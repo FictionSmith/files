@@ -13,14 +13,14 @@ Climate | Temperate
 Primary<br/>terrain | • Temperate forest<br/>• Coniferous forest<br/>• Grasslands<br/>• Drylands<br/>• Arctic tundra<br/>• Seas
 Ruling states | •[Erathoran Republic](https://)
 Points of interest | • [Golden River](https://)<br/>• Bridgheart River](https://)<br/>• the [Glicial Mountians](https://)
-Native flora | • Pine trees
-Fauna | • Deer<br/>• Griffins<br/>• Hippogriff<br/>• Jaculus<br/>• Kraken<br/>• White Stags
+Native flora | • Pine trees<br/>• Oak trees<br>• Birch trees<br/>• Willow trees
+Fauna | • Deer<br/>• Elk<br/>• Fox<br/>• Wolves<br/>• Bears<br/>• Eagles<br/>• Falcons<br/>• Salmon
 Native Species | • [Erathorans](https://)
 Immigrated species | ---
 Primary language(s) | • Erathoran (simplified)<br/>• Erathoran (tradional)
-Government | Constitunional Monarchy 
+Government | Constituntional Monarchy 
 Population | 2,200,000 
 Demonym | [Erathoran](https://)
-Major Cities | • [Camberlahn](https://)<br/>• [Bridgeheart](https://)
-Affiliation | • [Saintaints](https://)<br/>• [Oceania](https://)<br/>• [Kaidesh](https://)<br/>• [Kentota](https://)<br/>• [Titanrus](https://)
+Major Cities | • [Camberlahn](https://)<br/>• [Bridgeheart](https://) (capital) 
+Affiliation | • [Saintaints](https://)<br/>• [Oceania](https://)<br/>• [Kaidesh](https://)<br/>• [Kentotia](https://)<br/>• [Titanrus](https://)
  
