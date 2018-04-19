@@ -3,7 +3,7 @@
 Verse | ---
 Galaxy | ---
 System | ---
-Sun(s) | ---
+Sun(s) | 1
 Moon(s) | • Dorfhur<br/>• Bradth
 Orbital period | 365 earth days (24 months<br/>15 days)
 Class | Terrestrial 
@@ -11,8 +11,8 @@ Diameter | 5,763 mi
 Atmosphere | Oxygen and carbon dioxide 
 Climate | Temperate
 Primary<br/>terrain | • Temperate forest<br/>• Coniferous forest<br/>• Grasslands<br/>• Drylands<br/>• Arctic tundra<br/>• Seas
-Ruling states | •[Bridhkada](https://)<br/>• [Novark](https://)<br/>[Thades](https://)<br/>• [Caslava](https://)<br/>
-Points of interest | • [Golden River](https://)<br/>• [](https://)<br/>• the [Glicial Mountians](https://)
+Ruling states | •[Erathoran Republic](https://)
+Points of interest | • [Golden River](https://)<br/>• Bridgheart River](https://)<br/>• the [Glicial Mountians](https://)
 Native flora | • Pine trees
 Fauna | • Deer<br/>• Griffins<br/>• Hippogriff<br/>• Jaculus<br/>• Kraken<br/>• White Stags
 Native Species | • [Erathorans](https://)
