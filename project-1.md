@@ -1,0 +1,1 @@
+**19th century:** "All she does is read those stupid books!"<br/>**21st century:** "All she does is sit on her stupid phone!"<br/>![nick young](http://i0.kym-cdn.com/photos/images/facebook/000/993/875/084.png)
