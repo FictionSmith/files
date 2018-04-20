@@ -1,9 +1,9 @@
 |Erathora|---|
 |---|---|
-Verse | ---
-Galaxy | ---
-System | ---
-Sun(s) | 1
+Verse | Congeria 
+Galaxy | Plethora
+System | Chronos
+Sun(s) | Chronos 
 Moon(s) | • Dorfhur<br/>• Bradth
 Orbital period | 365 earth days (24 months<br/>15 days)
 Class | Terrestrial 
