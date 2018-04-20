@@ -19,7 +19,7 @@ Native Species | • [Erathorans](https://)
 Immigrated species | ---
 Primary language(s) | • Erathoran (simplified)<br/>• Erathoran (tradional)
 Government | Constituntional Monarchy 
-Population | 2,200,000 
+Population | 2,200,000,000
 Demonym | [Erathoran](https://)
 Major Cities | • [Camberlahn](https://)<br/>• [Bridgeheart](https://) (capital) 
 Affiliation | • [Saintaints](https://)<br/>• [Oceania](https://)<br/>• [Kaidesh](https://)<br/>• [Kentotia](https://)<br/>• [Titanrus](https://)
