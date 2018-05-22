@@ -1,5 +1,0 @@
-|||
-|---|---|
-Atlantis |
-Mesopotamia |
-Egypt |
