@@ -1,4 +1,4 @@
-|||
+|Tesla||
 |---|---|
 Verse | *Geniuses Assembled* 
 Full Name | Nikola Tesla 
