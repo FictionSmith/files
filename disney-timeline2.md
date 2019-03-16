@@ -1,6 +1,6 @@
 |Time|Movie|
 |---|---|
-Stone Age | • Brother Bear<br/>Atlantis 
+Stone Age | • Brother Bear<br/>• Atlantis 
 Iron Age | • Hercules 
 Early Middle Ages | • The Sword In the Stone<br/>• Mulan<br/>• The Black Cauldron<br/>• Aladdin
 High Middle Ages | • Robin Hood<br/>• Sleeping Beauty<br/>• The Hunchback of Notre Dame
