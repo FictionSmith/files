@@ -2,6 +2,7 @@
 |---|---|
 Argentina |
 Belgium |
+Canada | • Assassin's Creed IV Black Flag<br/>• Assassin's Creed Rogue 
 China |
 Denmark |
 Egypt | • Assassin's Creed Origins 
