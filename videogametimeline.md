@@ -18,8 +18,7 @@
 1930 | Mafia
 1943 | Mafia II 
 1960 | BioShock
-1968 | BioShock 2 
-1968 | Mafia III 
+1968 | Mafia III<br/>Bioshock 2
 2018 | Spider-Man 
 2033 | The Last of Us 
 2038 | Detroit: Become Human 
