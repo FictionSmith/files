@@ -4,9 +4,9 @@ Argentina |
 Belgium |
 China |
 Denmark |
-Egypt |
+Egypt | • Assassin's Creed Origins 
 France | • Assassin's Creed Unity 
-Greece | • God of War<br/>• God of War 2<br/>• God of war 3
+Greece | • Assassin's Creed Odyssey<br/>• God of War<br/>• God of War 2<br/>• God of war 3
 Hungary 
 Italy | • Assassin's Creed II<br/>• Assassin's Creed Brotherhood 
 Japan | • Yakuza
