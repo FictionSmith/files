@@ -1,6 +1,6 @@
 |19th Century||
 |---|---|
-1880s | • Red Dead Revolver 
+1880s | • Red Dead Revolver<br/>• The Order: 1886 
 1890s | • Red Dead Redemption 2
 
 |20th Century||
