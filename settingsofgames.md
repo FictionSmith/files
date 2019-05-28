@@ -9,8 +9,9 @@
 1930s | • Mafia 
 1940s | • Battlefield: 1942<br/>• Battlefield V<br/>• Mafia II
 1950s | • Mafia II 
-1960s | • BioShock 2<br/>• BioShock<br/>• BioShock Infinite<br/>• Grand Theft Auto: London 1961<br/>• Grand Theft Auto: London 1869<br/>• Mafia III 
-1990s | • Grand Theft Auto 
+1960s | • BioShock 2<br/>• BioShock<br/>• Grand Theft Auto: London 1961<br/>• Grand Theft Auto: London 1869<br/>• Mafia III 
+1980s | • Grand Theft Auto: Vice City 
+1990s | • Grand Theft Auto 2<br/>• Grand Theft Auto 2>Grand Theft Auto<br/>•Grand Theft AUto: San Andreas 
 
 |21st Century||
 |---|---|
