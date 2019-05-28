@@ -1,5 +1,32 @@
+|12th century||
+|---|---|
+1190s | • Assassin's Creed 
+
+|15th century||
+|---|---|
+1470s | • Assassin's Creed II
+1480s | • Assassin's creed II
+1490s | • Assassin's Creed II
+
+|16th Century||
+|---|---|
+1500s | • Assassin's Creed Brotherhood
+1510s | • Assassin's Creed Revelations 
+
+|18th Century||
+|---|---|
+1710s | • Assassin's Creed IV Black Flag 
+1720s | • Assassin's Creed IV Black Flag
+1750s | • Assassin's Creed III
+1760s | • Assassin's Creed III 
+1770s | • Assassin's Creed III<br/>• Assassin's Creed Unity 
+1780s | • Assassin's Creed III<br/>• Assassin's Creed Unity 
+1790s | • Assassin's Creed Unity 
+
+
 |19th Century||
 |---|---|
+1860s | • Assassin's Creed Syndicate 
 1880s | • Red Dead Revolver<br/>• The Order: 1886 
 1890s | • Red Dead Redemption 2
 
