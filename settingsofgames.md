@@ -8,7 +8,7 @@
 
 |21st Century||
 |---|---|
-2070s | • Fallout 4<br/>• Fallout 4
+2070s | • Fallout 4<br/>• Fallout 76
 
 |22nd Century||
 |---|---|
