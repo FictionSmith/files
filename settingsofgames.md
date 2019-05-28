@@ -4,8 +4,15 @@
 1930s | • Mafia 
 1940s | • Mafia II
 1950s | • Mafia II 
-1960s | • BioShock<br/>• BioShock 2<br/>• Mafia III 
+1960s | • BioShock 2<br/>• BioShock<br/>BioShock Infinite<br/>• Mafia III 
 
 |22nd Century||
 |---|---|
 2160s | • Fallout 
+
+|23rd Century||
+|---|---|
+2240s | • Fallout 2
+2250s | • Fallout 3 
+2270s | • Fallout 3
+2280s | • Fallout 4<br/>Fallout: New Vegas
