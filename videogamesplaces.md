@@ -21,6 +21,6 @@ Spain |
 Syria | • Assassin's Creed
 Turkey | • Assassin's Creed Revelations
 United Kingdom | • Assassin's Creed Syndicate 
-United States | • Assassin's Creed III<br/>• Far Cry 5<br/>• Red Dead Redemption 2<br/>• Spider-Man
+United States | • Assassin's Creed III<br/>• Far Cry 5<br/>• Red Dead Redemption 2<br/>• Red Dead Redemption<br/>• Red Dead revolver<br/>• Spider-Man
 Venezuela | 
 Zealand, New | 
