@@ -21,7 +21,7 @@
 1912 | BioShock Infinite 
 1918 | Assassin's Creed Chronicles: Russia
 1930 | Mafia
-1951 | Mafia II 
+1943 | Mafia II 
 1960 | BioShock
 1968 | BioShock 2 
 1968 | Mafia III 
