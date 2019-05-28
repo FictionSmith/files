@@ -5,16 +5,16 @@
 
 |20th Century||
 |---|---|
-1910s | • BioShock Infinite<br/>• Red Dead Redemption 
+1910s | • Battlefield 1<br/>• BioShock Infinite<br/>• Red Dead Redemption 
 1930s | • Mafia 
-1940s | • Battlefield: 1942<br/>• Mafia II
+1940s | • Battlefield: 1942<br/>•Battlefield V<br/>• Mafia II
 1950s | • Mafia II 
 1960s | • BioShock 2<br/>• BioShock<br/>• BioShock Infinite<br/>• Mafia III 
 
 |21st Century||
 |---|---|
 2000s | • Battlefield 2
-2010s | • Battlefield 3
+2010s | • Battlefield 3<br/>• Battlefield: Hardline 
 2070s | • Fallout 4<br/>• Fallout 76
 
 |22nd Century||
