@@ -7,7 +7,7 @@ China |
 Denmark |
 Egypt | • Assassin's Creed Origins 
 France | • Assassin's Creed Unity 
-Greece | • Assassin's Creed Odyssey<br/>• God of War<br/>• God of War 2<br/>• God of War 3
+Greece | • Assassin's Creed Odyssey<br/>• God of War<br/>• God of War II<br/>• God of War III
 Hungary 
 Israel | • Assassin's Creed 
 Italy | • Assassin's Creed II<br/>• Assassin's Creed Brotherhood 
