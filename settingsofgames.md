@@ -1,6 +1,11 @@
+|19th Century||
+|---|---|
+1880s | • Red Dead Revolver 
+1890s | • Red Dead Redemption 2
+
 |20th Century||
 |---|---|
-1910s | • BioShock Infinite 
+1910s | • BioShock Infinite<br/>• Red Dead Redemption 
 1930s | • Mafia 
 1940s | • Mafia II
 1950s | • Mafia II 
