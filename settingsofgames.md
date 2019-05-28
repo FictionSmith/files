@@ -11,7 +11,7 @@
 1950s | • Mafia II 
 1960s | • BioShock 2<br/>• BioShock<br/>• Grand Theft Auto: London 1961<br/>• Grand Theft Auto: London 1869<br/>• Mafia III 
 1980s | • Grand Theft Auto: Vice City 
-1990s | • Grand Theft Auto 2<br/>• Grand Theft Auto 2>Grand Theft Auto<br/>•Grand Theft AUto: San Andreas 
+1990s | • Grand Theft Auto 2<br/>• Grand Theft Auto<br/>•Grand Theft AUto: San Andreas 
 
 |21st Century||
 |---|---|
