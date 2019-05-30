@@ -23,3 +23,13 @@ Maine | Agora Grand Event Center | 220'
 Maryland | Transamerica Tower | 529'
 Massachusetts | John Hancock Tower | 790'
 Michigan | Detroit Marriott at the Renaissance Center | 755'
+Minnesota | IDS Center | 792'
+Mississippi | Beau Rivage Casino Hotel | 347ft
+Missouri | One Kansas City Place | 624'
+Montana | First Interstate Center | 272'
+Nebraska | First National bank Tower | 634'
+Nevada | The Palazzo | 642'
+New Hampshire | City Hall Plaza | 275'
+New Jersey | 99 Hudson Street | 900'
+New Mexico | Albuquerque Plaza | 351'
+New York | One World Trade Center | 1,776
