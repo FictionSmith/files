@@ -15,7 +15,10 @@ BC | Great Pyramid of Giza | Egypt | 481 ft | NA
 1884 - 1889 | Washington Monument | United States | 554 ft | NA 
 1889 -1930 | Eiffel Tower | France|  984 ft | NA
 1930 - 1931 | Chrysler Building | United States | 1,046 ft | NA
-1931 - | Empire State Building | United States | 1,454 ft | NA 
+1931 - 1967 | Empire State Building | United States | 1,454 ft | NA 
+1967 - 1974 | Ostankino Tower | Russia | 1,772 ft | NA
+1974 - 2009 | CN Tower | Canada | 1,815.3 ft | NA 
+2009 - Present | Burj Khalifa | United Arab Emirates | 2,722 ft | Current tallest structure 
 
 United States
 
