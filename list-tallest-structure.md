@@ -4,7 +4,18 @@ In History
 |---|---|---|---|---|
 BC | Great Pyramid of Giza | Egypt | 481 ft | NA 
 13th century - 1300 | Old St. Paul's Cathedral | UK | 489 ft | NA
-
+1300 - 1549 | Lincoln Cathedral | UK | 524ft | Spire collapsed 1549
+1549 - 1569 | St. Mary's Church | Germany | 495 ft | NA
+1569 - 1573 | St. Pierre's Cathedral | France | 502 ft | Tower collapsed 1573
+1573 - 1647 | St. Mary's Church | Germany | 495 ft | Bell tower burned down in 1647
+1647 - 1874 | Great Pyramid of Giza | Egypt | 481 ft | NA 
+1874 - 1876 | Church of St. Nicholas | Germany | 482 ft | NA
+1876 - 1880 | Rouen Cathedral | France | 495 ft | NA
+1880 - 1884 | Cologne Cathedral | Germany | 516.3 ft | Tallest structure Washington Monument from 1884
+1884 - 1889 | Washington Monument | United States | 554 ft | NA 
+1889 -1930 | Eiffel Tower | France|  984 ft | NA
+1930 - 1931 | Chrysler Building | United States | 1,046 ft | NA
+1931 - | Empire State Building | United States | 1,454 ft | NA 
 
 United States
 
