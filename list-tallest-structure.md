@@ -34,7 +34,8 @@ Tallest Buildings In History
 1874 - 1876 | Church of St. Nicholas | Germany | 482 ft | NA
 1876 - 1880 | Rouen Cathedral | France | 495 ft | NA
 1880 - 1890 | Cologne Cathedral | Germany | 516.3 ft | Tallest structure Washington Monument from 1884
-1890 - 1908 | Ulm Minster | Germany | 530 ft | Tallest structure Eiffel Tower from 1889
+1890 - 1894 | Ulm Minster | Germany | 530 ft | Tallest structure Eiffel Tower from 1889
+1894 - 1908 | Philadelphia City Hall | United States | 548 ft | NA
 1908 - 1909 | Singer Building | United States | 612 ft | NA
 1909 - 1913 | Metropolitan Life Tower | United States | 700 ft | NA
 1913 - 1930 | Woolworth Building | United States | 792 ft | NA
