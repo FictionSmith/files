@@ -1,8 +1,8 @@
 In History
 
-|Name|Height|Date and Location|
-|---|---|---|
-Great Pyramid of Giza | 481 ft | 2560 BC, Fourth Dynasty Egypt 
+|Years Tallest|Name|Location|Height|Notes|
+|---|---|---|---|---|
+BC | Great Pyramid of Giza | Egypt | 481 ft | NA 
 
 
 
