@@ -2,7 +2,7 @@ Tallest Structures In History
 
 |Years Tallest|Name|Location|Height|Notes|
 |---|---|---|---|---|
-BC | Great Pyramid of Giza | Egypt | 481 ft | NA 
+2560 BC - 13th century | Great Pyramid of Giza | Egypt | 481 ft | NA 
 13th century - 1300 | Old St. Paul's Cathedral | UK | 489 ft | NA
 1300 - 1549 | Lincoln Cathedral | UK | 524ft | Spire collapsed 1549
 1549 - 1569 | St. Mary's Church | Germany | 495 ft | NA
