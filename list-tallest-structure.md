@@ -1,3 +1,11 @@
+In History
+
+|Name|Height|Date and Location|
+|---|---|---|
+Great Pyramid of Giza | 481 ft | 2560 BC, Fourth Dynasty Egypt 
+
+
+
 United States
 
 |State (US)|Name|Height|
