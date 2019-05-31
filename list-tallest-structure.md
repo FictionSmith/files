@@ -3,7 +3,7 @@ In History
 |Years Tallest|Name|Location|Height|Notes|
 |---|---|---|---|---|
 BC | Great Pyramid of Giza | Egypt | 481 ft | NA 
-
+13th century - 1300 | Old St. Paul's Cathedral | UK | 489 ft | NA
 
 
 United States
