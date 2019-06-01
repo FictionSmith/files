@@ -48,6 +48,14 @@ Tallest Buildings In History
 2004 - 2010 | Taipei 101 | Taiwan | 1,671 ft | NA
 2010 - Present | Burj Khalifa | United Arab Emirates | 2,717 ft | Current tallest structure/building 
 
+
+Countries
+
+|Country|Name|Height and City|
+|---|---|---|
+Australia | Brisbane Skytower | 	269.5 m (884 ft)<br/>Brisbane
+
+
 United States
 
 |State (US)|Name|Height|
