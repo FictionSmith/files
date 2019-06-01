@@ -54,7 +54,8 @@ Countries
 |Country|Name|Height and City|
 |---|---|---|
 Australia | Brisbane Skytower | 	269.5 m (884 ft)<br/>Brisbane
-
+Brazil | Millennium Palace | 177.3 metres (581.7 feet)Balneario Camboriu 
+China | Shanghai Tower | 632 m (2,073 ft),br/>Shanghai 
 
 United States
 
