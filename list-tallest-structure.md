@@ -1,3 +1,20 @@
 |Name|Location|Time|Height|
 |---|---|---|---|
 Step Pyramid | Saqqara, Egypt | Built in 2650 BC | 62m (203ft)
+Red Pyramid | Dahshur, Egypt | Built in 2600 BC | 104m (341ft)
+Great Pyramid | Giza, Egypt | Built in 2540 BC | 146.5m (481ft)
+St. Paul's Cathedral | London, UK | 1240-1311 | 149m (489ft) 
+Lincoln Cathedral | Lincoln, UK | 1311-1549 | 159.7m (524ft)
+St. Mary's Church | Stralsund, Germany | 1549-1647<br/>Built in 1298 | 151m (495ft)
+Great Pyramid | Giza, Egypt | 1647-1876 | 146.5m (481ft)
+Church of St. Nicholas | Hamburg, Germany | 1874-1876 | 147m (482ft)
+Rouen Cathedral | Rouen, France | 1876-1880 | 151m (495ft)
+Cologne Cathedral | Cologne, Germany | 1880-1884 | 157.4m (516.3ft)
+Washington Monument | Washington, USA | 1884-1889 | 169m (555ft)
+Eiffel Tower | Paris, France | 1889-1930 | 300m (984ft)
+Chrysler Building | New York, USA | 1930-1931 | 320m (1,050ft)
+Empire State Building | New York, USA | 1931-1967 | 381.0m (1,250ft)
+Ostankino Tower | Moscow, Russia | 1967-1974 | 540.1m (1,772.0ft)
+CN Tower | Toronto, Canada | 1976-| 553m (1,815ft)
+Burj Khalifa | Dubai, UAE | 2010-Present | 828m (2,717ft)
+
