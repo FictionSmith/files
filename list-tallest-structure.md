@@ -15,6 +15,6 @@ Eiffel Tower | Paris, France | 1889-1930 | 300m (984ft)
 Chrysler Building | New York, USA | 1930-1931 | 320m (1,050ft)
 Empire State Building | New York, USA | 1931-1967 | 381.0m (1,250ft)
 Ostankino Tower | Moscow, Russia | 1967-1974 | 540.1m (1,772.0ft)
-CN Tower | Toronto, Canada | 1976-| 553m (1,815ft)
+CN Tower | Toronto, Canada | 1976-2010| 553m (1,815ft)
 Burj Khalifa | Dubai, UAE | 2010-Present | 828m (2,717ft)
 
