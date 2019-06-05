@@ -2,7 +2,7 @@
 |---|---|---|
 1975 | Bohemian Rhapsody | Queen 
 1976 | Carry On Wayward Son | Kansas
-1981 | Down Under | Men At Work 
+1981 | Don't Stop Believin' | Journey 
 1983 | Billie Jean | Michael Jackson 
 1984 | Holding Out For A Hero | Bonnie Tyler 
 1985 | Everybody Wants to Rule the World | Tears For Fears 
