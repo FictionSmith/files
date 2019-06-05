@@ -4,6 +4,7 @@
 1969 | Aquarius/Let the Sunshine In | The 5th Dimension 
 1975 | Bohemian Rhapsody | Queen 
 1976 | Carry On Wayward Son | Kansas
+1979 | Moskau | Dschinghis Khan 
 1981 | Don't Stop Believin' | Journey 
 1983 | Billie Jean | Michael Jackson 
 1984 | Holding Out For A Hero | Bonnie Tyler 
