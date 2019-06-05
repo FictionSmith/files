@@ -18,3 +18,7 @@ Ostankino Tower | Moscow, Russia | 1967-1974 | 540.1m (1,772.0ft)
 CN Tower | Toronto, Canada | 1976-2010| 553m (1,815ft)
 Burj Khalifa | Dubai, UAE | 2010-Present | 828m (2,717ft)
 
+
+|Building|Place|Time|Height|
+|---|---|---|---|
+Mausoleum of Halicarnassus | Bodrum, Turkey | 353 BC-140 BC | 45m (147ft)
