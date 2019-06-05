@@ -1,6 +1,7 @@
 |Year|Song|Artist|
 |---|---|---|
-1969 | Fortunate Son | Creedence Clearwater Revival 
+1965 | California Dreamin' | Mamas and the Papas 
+1969 | Aquarius/Let the Sunshine In | The 5th Dimension 
 1975 | Bohemian Rhapsody | Queen 
 1976 | Carry On Wayward Son | Kansas
 1981 | Don't Stop Believin' | Journey 
