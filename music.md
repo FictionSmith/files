@@ -1,5 +1,7 @@
 |Year|Song|Artist|
 |---|---|---|
+1954 | Rock Around the Clock | Bill Haley & His Comets 
+1956 | Why Do Fools Fall In Love | Frankie Lymon & The Teenagers 
 1963 | Surfin' U.S.A. | Beach Boys 
 1965 | California Dreamin' | Mamas and the Papas 
 1969 | Aquarius/Let the Sunshine In | The 5th Dimension 
