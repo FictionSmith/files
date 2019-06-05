@@ -1,5 +1,6 @@
 |Year|Song|Artist|
 |---|---|---|
+1969 | Fortunate Son | Creedence Clearwater Revival 
 1975 | Bohemian Rhapsody | Queen 
 1976 | Carry On Wayward Son | Kansas
 1981 | Don't Stop Believin' | Journey 
