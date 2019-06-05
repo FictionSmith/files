@@ -1,4 +1,4 @@
-|Name|Location|Time|Height|
+|Structure|Location|Time|Height|
 |---|---|---|---|
 Step Pyramid | Saqqara, Egypt | Built in 2650 BC | 62m (203ft)
 Red Pyramid | Dahshur, Egypt | Built in 2600 BC | 104m (341ft)
@@ -21,4 +21,5 @@ Burj Khalifa | Dubai, UAE | 2010-Present | 828m (2,717ft)
 
 |Building|Place|Time|Height|
 |---|---|---|---|
-Mausoleum of Halicarnassus | Bodrum, Turkey | 353 BC-140 BC | 45m (147ft)
+Mausoleum of Halicarnassus | Bodrum, Turkey | 353 BC-280 BC | 45m (147ft)
+Lighthouse of Alexandria | Alexandria, Egypt | 280 BC-1323 | 137m (450 ft)
