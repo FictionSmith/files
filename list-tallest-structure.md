@@ -40,6 +40,6 @@ Chrysler Building | New York, USA | 1930-1931 | 320m (1,050ft)
 Empire State Building | New York, USA | 1931-1969 | 443.2m (1,050ft)
 John Hancock Center | Chicago, USA | 1969-1978 | 459m (1,506ft)
 1 WTC | New York, USA | 1978-2000 | 526m (1,727ft) 
-Sears Tower | 2000-2010 | Chicago, USA | 530m (1,739ft)
+Sears Tower | Chicago, USA | 2000-2010 | 530m (1,739ft)
 Burj Khalifa | Dubai, UAE | 828m (2,717ft)
 
