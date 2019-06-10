@@ -18,6 +18,9 @@ USSR | Germany
 USA | Japan
 Great Britain | Italy
 
+World War III
+2020
+
 |Allied Powers|Entity Powers|
 |---|---|
 USA | China
