@@ -1,7 +1,30 @@
 
-Rank
+World War I
+1914-1918 
 
-|Time|#1|#2|#3|#4|#5| 
-|---|---|---|---|---|---|
-1898 | Great Britain | Russian Empire | United States | France | Germany 
+|Allied Powers|Central Powers|
+|---|---|
+USA | Germany 
+Great Britain | Austria-Hungary
+France | Bulgaria
+Russia | Ottoman Empire
+
+World War II
+1939-1945
+
+|Allied Powers|Axis Powers|
+|---|---|
+USSR | Germany 
+USA | Japan
+Great Britain | Italy
+
+|Allied Powers|Entity Powers|
+|---|---|
+USA | China
+European Union | Russia 
+
+
+
+
+
 
