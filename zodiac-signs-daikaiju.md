@@ -5,10 +5,25 @@ Ox |
 Tiger |
 Rabbit |
 Dragon | King Ghidorah
-snake |
+snake | Manda 
 Horse |
 Ram |
 Monkey | King Kong 
 Rooster | Rodan 
-Dog |
+Dog | King Caesar 
 Pig | 
+
+|Western Zodiac|Daikaiju|
+|---|---|
+Aries |
+Taurus |
+Gemini |
+Cancer | Ebirah 
+Leo |
+Virgo |
+Libra |
+Scorpio | Kumonga 
+Sagittarius |
+Capricorn|
+Aquarius |
+Pisces | 
