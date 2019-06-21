@@ -1,5 +1,19 @@
 |Year|Movie|
 |---|---|
+1933 | King Kong 
+1937 | Snow White and the Seven Dwarves 
+1939 | The Wizard of Oz 
+1940 | Pinocchio 
+1942 | Bambi 
+1950 | Cinderella 
+1953 | Peter Pan 
+1955 | Lady and the Tramp 
+1956 | The Ten Commandments 
+1959 | Sleeping Beauty 
+1964 | Mary Poppins 
+1965 | The Sound of Music 
+1967 | The Jungle Book 
+1977 | Star Wars: Episode IV - A New Hope<br/>Close Encounters of the Third Kind
 1980 | Star Wars: Episode V - The Empire Strikes Back 
 1981 | Raiders of the Lost Ark 
 1983 | Star Wars: Episode VI - Return of the Jedi 
