@@ -1,5 +1,15 @@
 |Year|Movie|
 |---|---|
+1990 | Ghost 
+1991 | Beauty and the Beast 
+1992 | Aladdin 
+1993 | Jurassic Park 
+1994 | The Lion King<br/>Forrest Gump 
+1995 | Toy Story 
+1996 | Independence Day 
+1997 | The Lost World: Jurassic Park<br/>Titanic 
+1998 | Saving Private Ryan 
+1999 | Star Wars: Episode I - The Phantom Menace<br/>Toy Story 2
 2001 | Harry Potter and the Sorcerer's Stone<br/>The Lord of the Rings: The Fellowship of the Ring 
 2002 | Star Wars: Episode II - Attack of the Clones<br/>The Lord of the Rings: The Two Towers 
 2003 | The Lord of the Rings: The Return of the King 
