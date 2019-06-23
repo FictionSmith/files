@@ -10,7 +10,7 @@
 5:00 PM | Donkey is captured, Shrek goes in after him to discover an ogre camp
 5:25 PM | Shrek meets Fiona
 6:00 PM | Witches spotted over camp
-7:00 PM | Shrek tries to get with Fiona
+7:00 PM | Shrek tries to get with Fiona<br/>Rumple hires Pide Piper as a bounty hunter to capture the ogres
 8:00 PM | Shrek and Fiona begin training 
 11:30 PM | The ogres begin their ambush
 12:00 AM | Pide Piper suprises the ogres<br/>Shrek, Fiona and Donkey and Puss escape
