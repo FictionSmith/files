@@ -21,7 +21,7 @@ Erathoran Astrology
 |Zodiac Sign/God|Season|Western Zodiac|Greek God|
 |---|---|---|---|
 Liyanin (Goddess of birth, growth and fertality) | Spring | Taurus | Hera 
-Vulcan God of the sun, energy and the soul) | Summer | Leo | Apollo 
+Vulcan (God of the sun, energy and the soul) | Summer | Leo | Apollo 
 Alphalus (God of the dead, the afterlife) | Autumn | Scorpio | Hades 
 Chronos (God of time, order and knowledge) | Winter | Aquarius | Chronos 
 
