@@ -13,3 +13,15 @@ Capricorn | Hippocampus | Element: Earth<br/>Sea-horse
 Aquarius | Serpent | Element: Air<br/>Flying serpentine or sea serpent 
 Pisces | Mermaid | Element: Water<br/>Beautiful mermaid or merman 
 
+
+
+
+Erathoran Astrology 
+
+|Zodiac Sign/God|Season|Western Zodiac|
+|---|---|
+Liyanin | (Goddess of birth, growth and fertality) | Spring | Taurus 
+Vulcan | (God of the sun, energy and the soul) | Summer | Leo 
+Alphalus | (God of the dead, the afterlife) | Autumn | Scorpio 
+Chronos | (God of time, order and knowledge) | Winter | Aquarius 
+
