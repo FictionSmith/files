@@ -18,10 +18,10 @@ Pisces | Mermaid | Element: Water<br/>Beautiful mermaid or merman
 
 Erathoran Astrology 
 
-|Zodiac Sign/God|Season|Western Zodiac|Greek God|
-|---|---|---|---|
-Liyanin (Goddess of birth, growth and fertality) | Spring | Taurus | Hera 
-Vulcan (God of the sun, energy and the soul) | Summer | Leo | Apollo 
-Alphalus (God of the dead, the afterlife) | Autumn | Scorpio | Hades 
-Chronos (God of time, order and knowledge) | Winter | Aquarius | Chronos 
+|God|Season|Western Zodiac|Greek God|Zodiac|
+|---|---|---|---|---|
+Liyanin (Goddess of birth, growth and fertality) | Spring | Taurus | Hera | Giant ox, raven or a serpent 
+Vulcan (God of the sun, energy and the soul) | Summer | Leo | Apollo | Ram or golem 
+Alphalus (God of the dead, the afterlife) | Autumn | Scorpio | Hades | Jackle-headed shepard
+Chronos (God of time, order and knowledge) | Winter | Aquarius | Chronos | Serpentine dragon 
 
