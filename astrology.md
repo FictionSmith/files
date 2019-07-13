@@ -9,7 +9,7 @@ Virgo | Nymph | Element: Earth<br/>Beautiful woman
 Libra | Angel | Element: Air<br/>Angel of justice, sword, key and or scale 
 Scorpio | Chimera | Element: Water (Ice)<br/> Giant horned cat/monkey with scorpion tale 
 Sagittarius | Centaur | Element: Fire<br/>Half-man half-horse with bow
-Capricorn | Hippocampus | Element: Earth | Sea-horse
+Capricorn | Hippocampus | Element: Earth<br/>Sea-horse
 Aquarius | Serpent | Element: Air<br/>Flying serpentine or sea serpent 
 Pisces | Mermaid | Element: Water<br/>Beautiful mermaid or merman 
 
