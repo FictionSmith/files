@@ -1,5 +1,5 @@
 |Tropical|Erathoran|Info|
-|---|---|
+|---|---|---|
 Aries | Faun | Element: Fire<br/>Goat-man, flute, horns
 Taurus | Minotaur | Element: Earth<br/>Bull-headed man, chainmail, axe 
 Gemini | Hydra | Element: Air<br/>Wyrm with many heads
