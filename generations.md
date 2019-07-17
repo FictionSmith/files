@@ -16,8 +16,9 @@ Gen Alpha | 2013 | 2025
 
 |Generation|Start|
 |---|---|
-The Lost Generation | 1900 
-The Interbellum Generation | 1912
+The Lost Generation | 1888 
+The Interbellum Generation | 1900
+1912 
 The Greatest Generation | 1924 
 The Silent Generation | 1936 
 Baby Boomer Generation | 1948 
