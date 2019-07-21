@@ -1,4 +1,0 @@
-|Leader|Civilization|Traits|Starting Technologies|Unique Units & Buildings|
-|---|---|---|---|---|
-| Dahne Nerlok | Erathoran Empire | [Imperialistic](https://)<br/>◦ +100% Great General Emergence<br/>◦ +50% Faster Production of [Settler](https://)<br/>[Charismatic](https://)<br/>◦ +1☺/City<br/>◦ -25% XP Needed for Unit Promotions<br/>◦ +1☺ from [Monument](https://), [Broadcast Tower](https://) | ◦ [Hunting](https://)<br/>◦ [Mysticism](https://) | ◦ Bridha Guard [(Pikeman)](https://)<br/>◦ Airship Station [(Broadcast Tower)](https://)
-| Sacamus | Titanran Empire | [Agressive](https://)<br/>◦ +100% Birth Rate<br/>◦ Double Production Speed of [University](https://)<br/>[Industrious](https://)<br/>◦ +50% Wonder Production<br/>◦ Double Production Speed of [Forge](https://) | ◦ [Agriculture](https://)<br/>◦ [Mining](https://) | ◦ Land Strider [(Cavalry)](https://)<br/>◦ Amphitheater [(Theatre)](https://)
