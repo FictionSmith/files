@@ -1,5 +1,6 @@
 |Generation|Time|Strauss Howe Model|
 |---|---|---|
+Lost Generation | 1883 | Nomad
 GI Generation | 1901 | Hero 
 Silent Generation | 1924 | Artist 
 Baby Boomer Generation | 1942 | Prophet 
