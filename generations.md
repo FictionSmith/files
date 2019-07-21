@@ -8,3 +8,5 @@ Generation X | 1960 | Nomad
 Generation Y (Millenial) | 1981 | Hero 
 Gen Z | 2005 | Artist 
 Gen Alpha | 2025 | Prophet 
+
+
