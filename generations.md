@@ -1,9 +1,9 @@
-|Generation|Time|
+|Generation|Time|Strauss Howe Model|
 |---|---|
-GI Generation | 1901
-Silent Generation | 1925
-Baby Boomer Generation | 1946
-Generation X | 1964
-Generation Y (Millenial) | 1981
-Gen Z | 1996
-Gen Alpha | 2011
+GI Generation | 1901 | Hero 
+Silent Generation | 1924 | Artist 
+Baby Boomer Generation | 1942 | Prophet 
+Generation X | 1960 | Nomad 
+Generation Y (Millenial) | 1981 | Hero 
+Gen Z | 2005 | Artist 
+Gen Alpha | 2025 | Prophet 
