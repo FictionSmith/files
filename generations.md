@@ -1,5 +1,5 @@
 |Generation|Time|Strauss Howe Model|
-|---|---|
+|---|---|---|
 GI Generation | 1901 | Hero 
 Silent Generation | 1924 | Artist 
 Baby Boomer Generation | 1942 | Prophet 
