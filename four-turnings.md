@@ -1,5 +1,4 @@
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
-American High<br/><img src="https://www.mydreamcar.online/2013/05/10/1957-chrysler-300-c-convertible-rock-n-roll-50s-cars/"> | NA | NA | NA 
-
-
+Tiber Septim's Reign | Splitting of the Empire | Triumph of Dagoth Ur | Oblivion Crisis 
+Post-Crisis | Thalmor rise to power | Great War | Dragon Crisis |
