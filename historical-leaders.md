@@ -13,5 +13,7 @@ Abraham Lincoln | February 12, 1809 | Aquarius | Dragon
 Otto von Bismarck | April 1, 1815 | Aries | Pig
 Gandhi | October 2, 1869 | Libra | Snake 
 Winston Churchill | November 30, 1874 | Sagittarius | Dog 
+Joseph Stalin | December 18, 1878 | Sagittarius | Tiger 
+Franklin D. Roosevelt | January 30, 1882 | Aquarius | Snake 
 Charles de Gaulle | November 22, 1890 | Sagittarius | Tiger 
 Mao Zedong | December 26, 1893 | Capricorn | Snake 
