@@ -5,6 +5,7 @@ Isabella | April 22, 1451 | Taurus | Goat
 Joao II | March 3, 1455 | Pisces | Pig 
 Elizabeth | September 7, 1533 | Virgo | Snake 
 Louis XIV | September 5, 1638 | Virgo | Tiger 
+Peter the Great | June 9, 1672 | Gemini | Rat 
 Frederick the Great | January 24, 1712 | Aquarius | Rabbit 
 Catherine the Great | May 2, 1729 | Taurus | Rooster 
 Napoleon Bonaparte | August 15, 1769 | Leo | Ox 
