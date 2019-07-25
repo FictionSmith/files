@@ -2,7 +2,7 @@
 |---|---|---|---|
 Mehmed II | March 30, 1432 | Aries | Rat 
 Isabella | April 22, 1451 | Taurus | Goat 
-Joao II | March 3, 1455 | Pig 
+Joao II | March 3, 1455 | Pisces | Pig 
 Elizabeth | September 7, 1533 | Virgo | Snake 
 Louis XIV | September 5, 1638 | Virgo | Tiger 
 Frederick the Great | January 24, 1712 | Aquarius | Rabbit 
