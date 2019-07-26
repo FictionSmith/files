@@ -1,4 +1,4 @@
-|**High**|**Awakening**|**Unraveling**|**crisis**|
+|**High**|**Awakening**|**Unraveling**|**Crisis**|
 |---|---|---|---|
 NA | NA |NA | NA 
 NA | NA | Mary Queen of Scots | Elizabeth: The Golden Age
