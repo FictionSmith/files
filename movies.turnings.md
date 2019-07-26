@@ -1,6 +1,6 @@
 |**High**|**Awakening**|**Unraveling**|**crisis**|
 |---|---|---|---|
-NA | NA |NA | 
+NA | NA |NA | NA 
 NA | NA | NA | Elizabeth: The Golden Age
 The New World | NA | To Kill a King | NA 
 NA | NA | The Last of the Mohicans | The Patriot
