@@ -1,5 +1,7 @@
 A random list of examples of the Strauss Howe Generation Model
 
+World 
+
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
 | NA | NA | NA | Battle of Hastings 
@@ -15,6 +17,8 @@ Era of Good Feelings | Second Great Awakening | Sectionalism & The Mexican War |
 Reconstruction & Gilded Age | Third Great Awakening | World War I & Prohibition | Depression & World War II 
 American High | Consciousness Revolution | Culture Wars | Global Financial Crisis 
 
+France 
+
 |High|Awakening|UNraveling|Crisis|
 |---|---|---|---|
 NA | NA | NA | Thirty Years' War 
@@ -23,6 +27,8 @@ Bourbon Restoration | July Monarchy<br/>Second Great Awakening | Second Republic
 Third Republic<br/>Belle Epoque | Third Great Awakening | World War I | Great Depression<br/>World War II 
 Economic Recovery | Consciousness Revolution | Culture Wars | Global Financial Crisis
 
+The Elder Scrolls 
+
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
 Cameron Dynasty | First Empire of Cyrodiil | Red Mountain erruption & Akaviri Invasion | Assassination of Reman III 
@@ -30,11 +36,12 @@ NA | Guilds Act is Passed | Interregnum | Rise of Tiber Septim
 Tiber Septim's Reign | Splitting of the Empire | Triumph of Dagoth Ur | Oblivion Crisis 
 Post-Crisis | Thalmor rise to power | Great War | Dragon Crisis |
 
-
 Wars
 
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
+*Restorative* | *Controversial* | *Inconclusive* | *Total* 
+NA | NA | NA | Wars of the Roses 
 NA | NA | NA | Armada Crisis 
 NA | Pequot War | English Civil War | Glorious Revolution 
 War of Spanish Succession | NA | French and Idnian War | American Revolutionary War 
