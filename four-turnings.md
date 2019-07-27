@@ -3,8 +3,10 @@ A random list of examples of the Strauss Howe Generation Model
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
 | NA | NA | NA | Battle of Hastings 
-Norman Dynasty | NA | Civil War
-Angevin Empire | NA | NA | NA 
+Norman Dynasty | NA | NA | Civil War
+Angevin Empire | NA | Magna Carta signed | NA 
+Llewellyn the Great | NA | Edward I | War of Scottish Independence 
+NA | NA | Hundred Years' War starts | NA 
 NA | NA | NA | Wars of the Roses 
 Tudor Period | Protestant Reformation | NA | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
