@@ -31,9 +31,9 @@ Tiber Septim's Reign | Splitting of the Empire | Triumph of Dagoth Ur | Oblivion
 Post-Crisis | Thalmor rise to power | Great War | Dragon Crisis |
 
 
-
-Star Wars 
+Wars
 
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
-NA | NA | Invasion of Naboo | Seperatist Crisis<br/>Clone Wars
+Spanish War | Boxer Rebellion | World War I | World War II
+Korean War | Vietnam War | Gulf War | War on Terror 
