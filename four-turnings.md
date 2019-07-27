@@ -43,8 +43,10 @@ Wars
 *Restorative* | *Controversial* | *Inconclusive* | *Total* 
 NA | NA | NA | Wars of the Roses 
 NA | NA | NA | Armada Crisis 
-NA | Pequot War | English Civil War | Glorious Revolution 
-War of Spanish Succession | NA | French and Idnian War | American Revolutionary War 
+NA | NA | English Civil War | Glorious Revolution 
+War of Spanish Succession | Waf of the Austrian Succession | French and Indian War | American Revolutionary War 
 War of 1812 | First Opium War | Mexican-American War | American Civil War
 Spanish-American War | Boxer Rebellion | World War I | World War II
 Korean War | Vietnam War | Gulf War | War on Terror 
+
+
