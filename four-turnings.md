@@ -2,12 +2,14 @@ A random list of examples of the Strauss Howe Generation Model
 
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
-NA | NA | NA | Battle of Hastings 
+| NA | NA | NA | Battle of Hastings 
+Norman Dynasty | NA | Civil War
+Angevin Empire | NA | NA | NA 
 NA | NA | NA | Wars of the Roses 
 Tudor Period | Protestant Reformation | NA | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
 Augustan Age of Empire | Great Awakening | French and Indian War | American Revolutionary War 
-Era of Good Feelings | Second Great Awakening | Sectionalism & The Mexican War | Civil War 
+Era of Good Feelings | Second Great Awakening | Sectionalism & The Mexican War | U.S. Civil War 
 Reconstruction & Gilded Age | Third Great Awakening | World War I & Prohibition | Depression & World War II 
 American High | Consciousness Revolution | Culture Wars | Global Financial Crisis 
 
