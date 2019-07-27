@@ -8,6 +8,6 @@
 *Reformation* | Renaissance | Protestant Reformation | NA | Armada Crisis 
 *New World* | Elizabethan Era | Puritan Awakening | Reaction and Restoration | Glorious Revolution 
 *Revolutionary* | Augustan Age | Great Awakening | French and Idian War | American Revolutionary War<br/>French Revolution & Napoleonic Wars 
-*Industrial* | Era of Good Feelings<br/>Second Great Awakening | Sectionalism<br/>Mexican War | American Civil War
+*Industrial* | Era of Good Feelings | Second Great Awakening | Sectionalism<br/>Mexican War | American Civil War
 *Great Power* | Reconstruction<br/>Gilded Age | Third Great Awakening | World War I<br/>Prohibtion | Great Depression<br/>World War II 
 *Millennial* | American Super Power | Consciousness Revolution | Culture Wars | Global Financial Crisis 
