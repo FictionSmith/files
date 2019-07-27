@@ -2,6 +2,7 @@ A random list of examples of the Strauss Howe Generation Model
 
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
+NA | NA | NA | Battle of Hastings 
 NA | NA | NA | Wars of the Roses 
 Tudor Period | Protestant Reformation | NA | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
