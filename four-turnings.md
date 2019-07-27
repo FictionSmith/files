@@ -34,3 +34,5 @@ Post-Crisis | Thalmor rise to power | Great War | Dragon Crisis |
 
 Star Wars 
 |High|Awakening|Unraveling|Crisis|
+|---|---|---|---|
+NA | NA | Invasion of Naboo | Seperatist Crisis<br/>Clone Wars
