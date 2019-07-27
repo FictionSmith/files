@@ -35,5 +35,9 @@ Wars
 
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
-Spanish War | Boxer Rebellion | World War I | World War II
+NA | NA | NA | Armada Crisis 
+NA | Pequot War | English Civil War | Glorious Revolution 
+War of Spanish Succession | NA | French and Idnian War | American Revolutionary War 
+War of 1812 | First Opium War | Mexican-American War | American Civil War
+Spanish-American War | Boxer Rebellion | World War I | World War II
 Korean War | Vietnam War | Gulf War | War on Terror 
