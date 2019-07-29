@@ -8,8 +8,8 @@ World
 Norman Dynasty | NA | NA | Civil War
 Angevin Empire | NA | Magna Carta signed | NA 
 Llewellyn the Great | NA | Edward I | War of Scottish Independence 
-NA | NA | NA | Hundred Years' War starts 
-NA | NA | Hundred Years' War ends | Wars of the Roses 
+NA | NA | NA | NA 
+NA | NA | Retreat from France | Wars of the Roses 
 Tudor Period | Protestant Reformation | NA | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
 Augustan Age of Empire | Great Awakening | French and Indian War | American Revolutionary War 
