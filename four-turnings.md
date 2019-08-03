@@ -10,7 +10,7 @@ Angevin Empire | NA | Magna Carta signed | NA
 Llewellyn the Great | NA | Edward I | War of Scottish Independence 
 NA | NA | NA | NA 
 NA | NA | Retreat from France | Wars of the Roses 
-Tudor Period | Protestant Reformation | NA | Armada Crisis
+Tudor Period | Protestant Reformation | Tolerance and Martyrdom | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
 Augustan Age of Empire | Great Awakening | French and Indian War | American Revolutionary War 
 Era of Good Feelings | Second Great Awakening | Sectionalism & The Mexican War | U.S. Civil War 
