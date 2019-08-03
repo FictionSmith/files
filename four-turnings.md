@@ -4,11 +4,6 @@ World
 
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
-| NA | NA | NA | Battle of Hastings 
-Norman Dynasty | NA | NA | Civil War
-Angevin Empire | NA | Magna Carta signed | NA 
-Llewellyn the Great | NA | Edward I | War of Scottish Independence 
-NA | NA | NA | NA 
 NA | NA | Retreat from France | Wars of the Roses 
 Tudor Period | Protestant Reformation | Tolerance and Martyrdom | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
