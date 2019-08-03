@@ -16,6 +16,7 @@ Augustan Age of Empire | Great Awakening | French and Indian War | American Revo
 Era of Good Feelings | Second Great Awakening | Sectionalism & The Mexican War | U.S. Civil War 
 Reconstruction & Gilded Age | Third Great Awakening | World War I & Prohibition | Depression & World War II 
 American High | Consciousness Revolution | Culture Wars | Global Financial Crisis 
+Neo-High | Transhuman Awakening | Resource Wars | World War III / New Age 
 
 France 
 
