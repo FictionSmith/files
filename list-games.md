@@ -11,4 +11,7 @@ American High | Consciousness Revolution | Culture Wars | Global Financial Crisi
 |Date|Title|
 |---|---|
 1403 | Kingdom Come: Deliverance
-1476 | Assassin's Creed II: Brotherhood 
+1476 | Assassin's Creed II
+1500 | Assassin's Creed: Brotherhood 
+1511 | Assassin's Creed: Revelations
+1560 | Onimusha: Warlords 
