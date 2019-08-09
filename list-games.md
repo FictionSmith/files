@@ -15,9 +15,11 @@ American High | Consciousness Revolution | Culture Wars | Global Financial Crisi
 1500 | Assassin's Creed: Brotherhood 
 1511 | Assassin's Creed: Revelations
 1560 | Onimusha: Warlords 
+1583 | Soulcalibur VI 
+1600 | Nioh 
 
 
 
 
 
-**16th century**<br/>Sekiro: Shadows Die Twice 
+**16th century**<br/>Sekiro: Shadows Die Twice <br/>Shadow of Memories 
