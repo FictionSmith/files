@@ -1,7 +1,7 @@
 |High|Awakening|Unraveling|Crisis|
 |---|---|---|---|
-NA | NA | Retreat from France<br/>1435-1459 | Wars of the Roses 
-Tudor Period | Protestant Reformation | Tolerance and Martyrdom | Armada Crisis
+NA | NA | Retreat from France<br/>1435-1459 | Wars of the Roses<br/>1459-1487
+Tudor Period<br/>1487-1517 | Protestant Reformation | Tolerance and Martyrdom | Armada Crisis
 Merrie England | Puritan Awakening | Reaction & Restoration | Glorious Revolution 
 Augustan Age of Empire | Great Awakening | French and Indian War | American Revolutionary War 
 Era of Good Feelings | Second Great Awakening | Sectionalism & The Mexican War | U.S. Civil War 
