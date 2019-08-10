@@ -14,9 +14,32 @@ American High | Consciousness Revolution | Culture Wars | Global Financial Crisi
 1476 | Assassin's Creed II
 1500 | Assassin's Creed: Brotherhood 
 1511 | Assassin's Creed: Revelations
-1560 | Onimusha: Warlords 
 1583 | Soulcalibur VI 
 1600 | Nioh 
+1715 | Assassin's Creed IV: Black Flag
+1752 | Assassin's Creed Rogue
+1754 | Assassin's Creed III 
+1765 | Assassin's Creed III: Liberation 
+1776 | Assassin's Creed Unity 
+1868 | Assassin's Creed Syndicate 
+1875 | Alice: MAdness Returns 
+1886 | The Order: 1886
+1911 | Red Dead Redempion 
+1912 | BioShock Infinite
+1915 | Battlefield 1 
+1924 | Call of the Cthulhu: The Official Videogame 
+1942 | Battlefield V 
+1944 | Call of Duty: World At War II
+1945 | Sniper Elite V2
+1947 | L.A. Noire 
+1960 | BioShock
+1960 | Wolfenstein: The New Order
+1961 | Wolfenstein: The New Colossus 
+1968 | BioShock 2
+1968 | Mafia III
+1972 | A Way Out 
+1973 | The Vanishing of Ethan Carter
+1975 | Metal Gear Solid V: Ground Zeroes
 
 
 
